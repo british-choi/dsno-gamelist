@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+* 원본 자료 출처 
+  https://dsno.tistory.com/7435
+  2020.3.12 [신 메뉴] 게임 기어 게임 모음
+
+* 덴타클팀(http://cafe.naver.com/raspigamer)의 레트로게임 롬 목록 한글화 프로젝트를 참조
+* 라이센스 : MIT
+* 작성자 : 브리티쉬 (british2@naver.com)
+-->
+<gameList>
+	<!--
+		게임 기어 (일본판)
+	-->
+	<folder>
+		<path>./gg_jap</path>
+		<name>게임 기어 (일본판)</name>
+		<image>./boxart/gamegear.png</image>
+	</folder>
+	<game>
+		<path>./gg_jap/Dynamite Headdy (Japan).zip</path>
+		<name>다이너마이트 헤디 (일본판)</name>
+		<image>./gg_jap/boxart/Dynamite Headdy.png</image>
+		<video>./gg_jap/snap/Dynamite Headdy.mp4</video>
+		<developer>트레저</developer>
+		<publisher>세가</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate>19940805T000000</releasedate>
+	</game>
+	<game>
+		<path>./gg_jap/Garou Densetsu Special (Japan).zip</path>
+		<name>아랑전설 스페셜 (일본판)</name>
+		<image>./gg_jap/boxart/Garou Densetsu Special.png</image>
+		<video>./gg_jap/snap/Garou Densetsu Special.mp4</video>
+		<developer>타쿠요</developer>
+		<publisher>SNK</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19950302T000000</releasedate>
+	</game>
+	<game>
+		<path>./gg_jap/Puyo Puyo Tsuu (Japan).zip</path>
+		<name>뿌요 뿌요 통 (일본판)</name>
+		<image>./gg_jap/boxart/Puyo Puyo Tsuu.png</image>
+		<video>./gg_jap/snap/Puyo Puyo Tsuu.mp4</video>
+		<developer>컴파일</developer>
+		<publisher>세가</publisher>
+		<genre>퍼즐</genre>
+		<players>2</players>
+		<releasedate>19940101T000000</releasedate>
+	</game>
+	<game>
+		<path>./gg_jap/Puzzle &amp; Action - Ichidanto-R (Japan).zip</path>
+		<name>퍼즐 &amp; 액션 - 이치탄토R</name>
+		<image>./gg_jap/boxart/Puzzle &amp; Action - Ichidanto-R.png</image>
+		<video>./gg_jap/snap/Puzzle &amp; Action - Ichidanto-R.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>퍼즐</genre>
+		<players>2</players>
+		<releasedate>19950113T000000</releasedate>
+	</game>
+	<game>
+		<path>./gg_jap/Puzzle &amp; Action - Tanto-R (Japan).zip</path>
+		<name>퍼즐 &amp; 액션 - 탄토R</name>
+		<image>./gg_jap/boxart/Puzzle &amp; Action - Tanto-R.png</image>
+		<video>./gg_jap/snap/Puzzle &amp; Action - Tanto-R.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>퍼즐</genre>
+		<players>2</players>
+		<releasedate>19940101T000000</releasedate>
+	</game>
+	<!--
+		게임 기어 (한국판)
+	-->
+	<folder>
+		<path>./gg_kor</path>
+		<name>게임 기어 (한국판)</name>
+		<image>./boxart/gamegear.png</image>
+	</folder>
+	<game>
+		<path>./gg_kor/OutRun (Japan, Korea).zip</path>
+		<name>아웃런</name>
+		<image>./gg_kor/boxart/OutRun.png</image>
+		<video>./gg_kor/snap/OutRun.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate>19910809T000000</releasedate>
+	</game>
+	<game>
+		<path>./gg_kor/Putt &amp; Putter (Japan, Korea).zip</path>
+		<name>풋 &amp; 풋터</name>
+		<image>./gg_kor/boxart/Putt &amp; Putter.png</image>
+		<video>./gg_kor/snap/Putt &amp; Putter.mp4</video>
+		<developer>심즈</developer>
+		<publisher>세가</publisher>
+		<genre/>
+		<players>2</players>
+		<releasedate>19920101T000000</releasedate>
+	</game>
+	<game>
+		<path>./gg_kor/Super Monaco GP (Japan, Korea).zip</path>
+		<name>슈퍼 모나코 GP</name>
+		<image>./gg_kor/boxart/Super Monaco GP.png</image>
+		<video>./gg_kor/snap/Super Monaco GP.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre/>
+		<players>2</players>
+		<releasedate>19900901T000000</releasedate>
+	</game>
+	<!--
+		게임 기어 (북미판)
+	-->
+	<folder>
+		<path>./gg_usa</path>
+		<name>게임 기어 (북미판)</name>
+		<image>./boxart/gamegear.png</image>
+	</folder>
+	<game>
+		<path>./gg_usa/Alien 3 (USA, Europe).zip</path>
+		<name>에일리언 3 (미국,유럽판)</name>
+		<image>./gg_usa/boxart/Alien 3.png</image>
+		<video>./gg_usa/snap/Alien 3.mp4</video>
+		<developer>아레나 엔터테인먼트</developer>
+		<publisher>어클래임/아레나 엔터테인먼트/프로브</publisher>
+		<genre>플랫폼</genre>
+		<players>1</players>
+		<releasedate>19920101T000000</releasedate>
+	</game>
+	<game>
+		<path>./gg_usa/Bubble Bobble (USA).zip</path>
+		<name>버블보블</name>
+		<image>./gg_usa/boxart/Bubble Bobble.png</image>
+		<video>./gg_usa/snap/Bubble Bobble.mp4</video>
+		<developer>타이토</developer>
+		<publisher>타이토</publisher>
+		<genre>액션</genre>
+		<players>2</players>
+		<releasedate>19881101T000000</releasedate>
+	</game>
+	<game>
+		<path>./gg_usa/Mortal Kombat (USA, Europe).zip</path>
+		<name>모탈 컴뱃 (미국,유럽판)</name>
+		<image>./gg_usa/boxart/Mortal Kombat.png</image>
+		<video>./gg_usa/snap/Mortal Kombat.mp4</video>
+		<developer>미드웨이</developer>
+		<publisher>어클레임</publisher>
+		<genre>대전격투</genre>
+		<players>2</players>
+		<releasedate>19930101T000000</releasedate>
+	</game>
+	<game>
+		<path>./gg_usa/Bare Knuckle ~ Streets of Rage (World).zip</path>
+		<name>베어너클 - 분노의 거리 (세계판)</name>
+		<image>./gg_usa/boxart/Streets of Rage.png</image>
+		<video>./gg_usa/snap/Streets of Rage.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19910701T000000</releasedate>
+	</game>
+	<game>
+		<path>./gg_usa/Bare Knuckle II ~ Streets of Rage 2 ~ Streets of Rage II (World).zip</path>
+		<name>베어 너클 II - 사투로의 진혼가</name>
+		<name>스트리트 오브 레이지 2</name>
+		<image>./gg_usa/boxart/Streets of Rage 2.png</image>
+		<video>./gg_usa/snap/Streets of Rage 2.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19930114T000000</releasedate>
+	</game>
+</gameList>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+* 원본 자료 출처 
+  https://dsno.tistory.com/7489
+  2020.3.13 [신 메뉴] 새턴 게임 모음
+  새턴 (한국판)
+
+* 위키페디아(https://en.wikipedia.org/wiki/List_of_Sega_Saturn_games)의 Games 카테고리 참조
+* 라이센스 : MIT
+* 작성자 : 브리티쉬 (british2@naver.com)
+-->
+<gameList>
+	<game>
+		<path>./Albert_Odysset_Gaiden-Legend_of_Eldean_KOR.chd</path>
+		<name>알버트 오딧세이 외전 - 레전드 오브 엘딘</name>
+		<image>./boxart/Albert_Odysset_Gaiden-Legend_of_Eldean.png</image>
+		<video>./snap/Albert_Odysset_Gaiden-Legend_of_Eldean.mp4</video>
+		<developer>Sunsoft</developer>
+		<publisher>Working Designs</publisher>
+		<genre>롤플레잉</genre>
+		<releasedate>19970724</releasedate>
+	</game>
+	<game>
+		<path>./Myst_KOR.chd</path>
+		<name>미스트</name>
+		<image>./boxart/Myst.png</image>
+		<video>./snap/Myst.mp4</video>
+		<developer>Sunsoft</developer>
+		<publisher>Acclaim Entertainment</publisher>
+		<genre>어드벤처</genre>
+		<releasedate>19950901</releasedate>
+	</game>
+	<game>
+		<path>./NiGHTS_Into_Dreams_KOR.chd</path>
+		<name>나이츠 인투 드림스</name>
+		<image>./boxart/NiGHTS_Into_Dreams.png</image>
+		<video>./snap/NiGHTS_Into_Dreams.mp4</video>
+		<developer>Sonic Team</developer>
+		<publisher>Sega</publisher>
+		<genre>액션</genre>
+		<releasedate>19960823</releasedate>
+	</game>
+	<game>
+		<path>./Sangokushi_IV_KOR.chd</path>
+		<name>삼국지 IV</name>
+		<image>./boxart/Sangokushi_IV.png</image>
+		<video>./snap/Sangokushi_IV.mp4</video>
+		<developer>Koei</developer>
+		<publisher>Koei</publisher>
+		<genre>전략 시뮬레이션</genre>
+		<releasedate>1995</releasedate>
+	</game>
+	<game>
+		<path>./Shinpi_no_Sekai_El-Hazard_KOR.chd</path>
+		<name>신비의 세계 - 엘하자드</name>
+		<image>./boxart/Shinpi_no_Sekai_El-Hazard.png</image>
+		<video>./snap/Shinpi_no_Sekai_El-Hazard.mp4</video>
+		<developer>Tamtam</developer>
+		<publisher>Pioneer LDC</publisher>
+		<genre></genre>
+		<releasedate>19960809</releasedate>
+	</game>
+	<game>
+		<path>./yabasanshiro/backup.bin</path>
+		<hidden>true</hidden>
+	</game>
+</gameList>

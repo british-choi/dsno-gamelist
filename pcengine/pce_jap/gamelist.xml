@@ -1,0 +1,2839 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+* 원본 자료 출처 
+  https://dsno.tistory.com/7466
+  2021.6.19 [신 메뉴] PC 엔진 게임 모음
+  PC 엔진 (일본판)
+
+* 덴타클팀(http://cafe.naver.com/raspigamer)의 레트로게임 롬 목록 한글화 프로젝트를 참조
+* 라이센스 : MIT
+* 작성자 : 브리티쉬 (british2@naver.com)
+-->
+<gameList>
+	<game>
+		<path>./21 Emon - Mezase Hotel Ou!! (Japan).zip</path>
+		<name>21 에몬 - 노려라 호텔왕!!</name>
+		<image>./boxart/21 Emon - Mezase Hotel Ou!! (Japan).png</image>
+		<video>./snap/21 Emon - Mezase Hotel Ou!! (Japan).mp4</video>
+		<developer>NEC</developer>
+		<publisher>NEC</publisher>
+		<players>4</players>
+		<releasedate>19941216T000000</releasedate>
+	</game>
+	<game>
+		<path>./1941 - Counter Attack (Japan).zip</path>
+		<name>1941 - 카운터 어택</name>
+		<image>./boxart/1941 - Counter Attack (Japan).png</image>
+		<video>./snap/1941 - Counter Attack (Japan).mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<players>2</players>
+		<releasedate>19910823T000000</releasedate>
+	</game>
+	<game>
+		<path>./1943 Kai (Japan).zip</path>
+		<name>1943 개 - 더 배틀 오브 미드웨이</name>
+		<image>./boxart/1943 Kai (Japan).png</image>
+		<video>./snap/1943 Kai (Japan).mp4</video>
+		<developer>캡콤</developer>
+		<publisher>낙삿 소프트</publisher>
+		<players>2</players>
+		<releasedate>19910322T000000</releasedate>
+	</game>
+	<game>
+		<path>./Adventure Island (Japan).zip</path>
+		<name>어드벤처 아일랜드</name>
+		<image>./boxart/Adventure Island (Japan).png</image>
+		<video>./snap/Adventure Island (Japan).mp4</video>
+		<developer>웨스톤</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19910419T000000</releasedate>
+	</game>
+	<game>
+		<path>./Aero Blasters (Japan).zip</path>
+		<name>에어로 블래스터즈</name>
+		<image>./boxart/Aero Blasters (Japan).png</image>
+		<video>./snap/Aero Blasters (Japan).mp4</video>
+		<developer>카네코</developer>
+		<publisher>카네코</publisher>
+		<players>2</players>
+		<releasedate>19901102T000000</releasedate>
+	</game>
+	<game>
+		<path>./After Burner II (Japan).zip</path>
+		<name>애프터 버너 II</name>
+		<image>./boxart/After Burner II (Japan).png</image>
+		<video>./snap/After Burner II (Japan).mp4</video>
+		<developer>세가</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19900928T000000</releasedate>
+	</game>
+	<game>
+		<path>./Aldynes - The Misson Code for Rage Crisis (Japan).zip</path>
+		<name>올디네스 - 더 미션 코드 포 레이지 크라이시스</name>
+		<image>./boxart/Aldynes - The Misson Code for Rage Crisis (Japan).png</image>
+		<video>./snap/Aldynes - The Misson Code for Rage Crisis (Japan).mp4</video>
+		<developer>프로듀스</developer>
+		<publisher>허드슨</publisher>
+		<players>1</players>
+		<releasedate>19910222T000000</releasedate>
+	</game>
+	<game>
+		<path>./Alien Crush (Japan).zip</path>
+		<name>에일리언 크러시</name>
+		<image>./boxart/Alien Crush (Japan).png</image>
+		<video>./snap/Alien Crush (Japan).mp4</video>
+		<developer>컴파일</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19880914T000000</releasedate>
+	</game>
+	<game>
+		<path>./All Star Power League (Japan).zip</path>
+		<name>올 스타 파워 리그</name>
+		<image>./boxart/All Star Power League (Japan).png</image>
+		<video>./snap/All Star Power League (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Ankoku Densetsu (Japan).zip</path>
+		<name>암흑전설</name>
+		<image>./boxart/Ankoku Densetsu (Japan).png</image>
+		<video>./snap/Ankoku Densetsu (Japan).mp4</video>
+		<developer>아틀러스</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19900907T000000</releasedate>
+	</game>
+	<game>
+		<path>./Aoi Blink (Japan).zip</path>
+		<name>푸른 블링크</name>
+		<image>./boxart/Aoi Blink (Japan).png</image>
+		<video>./snap/Aoi Blink (Japan).mp4</video>
+		<developer>웨스트 원</developer>
+		<publisher>허드슨</publisher>
+		<players>2</players>
+		<releasedate>19900427T000000</releasedate>
+	</game>
+	<game>
+		<path>./Appare! Gateball (Japan).zip</path>
+		<name>좋았어! 게이트볼</name>
+		<image>./boxart/Appare! Gateball (Japan).png</image>
+		<video>./snap/Appare! Gateball (Japan).mp4</video>
+		<developer>웨스트 원</developer>
+		<publisher>허드슨</publisher>
+		<players>2</players>
+		<releasedate>19881222T000000</releasedate>
+	</game>
+	<game>
+		<path>./Armed F (Japan).zip</path>
+		<name>암드 F</name>
+		<image>./boxart/Armed F (Japan).png</image>
+		<video>./snap/Armed F (Japan).mp4</video>
+		<developer>만청당</developer>
+		<publisher>팩인 비디오</publisher>
+		<players>2</players>
+		<releasedate>19900323T000000</releasedate>
+	</game>
+	<game>
+		<path>./Atomic Robo-Kid Special (Japan).zip</path>
+		<name>아토믹 로보 키드 스페셜</name>
+		<image>./boxart/Atomic Robo-Kid Special (Japan).png</image>
+		<video>./snap/Atomic Robo-Kid Special (Japan).mp4</video>
+		<developer>UPL</developer>
+		<publisher>UPL</publisher>
+		<players>2</players>
+		<releasedate>19900119T000000</releasedate>
+	</game>
+	<game>
+		<path>./Ballistix (Japan).zip</path>
+		<name>발리스틱스</name>
+		<image>./boxart/Ballistix (Japan).png</image>
+		<video>./snap/Ballistix (Japan).mp4</video>
+		<developer>리플렉션 인터액티브</developer>
+		<publisher>터보 테크놀리지</publisher>
+		<players>2</players>
+		<releasedate>19911213T000000</releasedate>
+	</game>
+	<game>
+		<path>./Bari Bari Densetsu (Japan).zip</path>
+		<name>바리바리 전설</name>
+		<image>./boxart/Bari Bari Densetsu (Japan).png</image>
+		<video>./snap/Bari Bari Densetsu (Japan).mp4</video>
+		<developer>타이토</developer>
+		<publisher>타이토</publisher>
+		<players>2</players>
+		<releasedate>19891129T000000</releasedate>
+	</game>
+	<game>
+		<path>./Barunba (Japan).zip</path>
+		<name>바룬바</name>
+		<image>./boxart/Barunba (Japan).png</image>
+		<video>./snap/Barunba (Japan).mp4</video>
+		<developer>잡</developer>
+		<publisher>남코</publisher>
+		<players>1</players>
+		<releasedate>19900427T000000</releasedate>
+	</game>
+	<game>
+		<path>./Batman (Japan).zip</path>
+		<name>배트맨</name>
+		<image>./boxart/Batman (Japan).png</image>
+		<video>./snap/Batman (Japan).mp4</video>
+		<developer>선소프트</developer>
+		<publisher>선소프트</publisher>
+		<players>1</players>
+		<releasedate>19901012T000000</releasedate>
+	</game>
+	<game>
+		<path>./Battle Ace (Japan).zip</path>
+		<name>배틀 에이스</name>
+		<image>./boxart/Battle Ace (Japan).png</image>
+		<video>./snap/Battle Ace (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>1</players>
+		<releasedate>19891130T000000</releasedate>
+	</game>
+	<game>
+		<path>./Battle Lode Runner (Japan).zip</path>
+		<name>배틀 로드 러너</name>
+		<image>./boxart/Battle Lode Runner (Japan).png</image>
+		<video>./snap/Battle Lode Runner (Japan).mp4</video>
+		<developer>브로드번드 소프트웨어</developer>
+		<publisher>브로드번드 소프트웨어</publisher>
+		<players>1</players>
+		<releasedate>19930210T000000</releasedate>
+	</game>
+	<game>
+		<path>./Be Ball (Japan).zip</path>
+		<name>비 볼</name>
+		<image>./boxart/Be Ball (Japan).png</image>
+		<video>./snap/Be Ball (Japan).mp4</video>
+		<developer>나우 프로덕션</developer>
+		<publisher>NEC</publisher>
+		<players>2</players>
+		<releasedate>19900330T000000</releasedate>
+	</game>
+	<game>
+		<path>./Benkei Gaiden (Japan).zip</path>
+		<name>벤케이 외전</name>
+		<image>./boxart/Benkei Gaiden (Japan).png</image>
+		<video>./snap/Benkei Gaiden (Japan).mp4</video>
+		<developer>선소프트</developer>
+		<publisher>선소프트</publisher>
+		<players>1</players>
+		<releasedate>19891222T000000</releasedate>
+	</game>
+	<game>
+		<path>./Bikkuriman World (Japan).zip</path>
+		<name>빅쿠리맨 월드</name>
+		<image>./boxart/Bikkuriman World (Japan).png</image>
+		<video>./snap/Bikkuriman World (Japan).mp4</video>
+		<developer>웨스톤</developer>
+		<publisher>허드슨</publisher>
+		<players>1</players>
+		<releasedate>19871030T000000</releasedate>
+	</game>
+	<game>
+		<path>./Blodia (Japan).zip</path>
+		<name>블로디아</name>
+		<image>./boxart/Blodia (Japan).png</image>
+		<video>./snap/Blodia (Japan).mp4</video>
+		<players>2</players>
+		<releasedate>19900223T000000</releasedate>
+	</game>
+	<game>
+		<path>./Bomber Man (Japan).zip</path>
+		<name>봄버맨</name>
+		<image>./boxart/Bomber Man (Japan).png</image>
+		<video>./snap/Bomber Man (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>터보 테크놀리지</publisher>
+		<players>5</players>
+		<releasedate>19901207T000000</releasedate>
+	</game>
+	<game>
+		<path>./Bomberman - Users Battle (Japan).zip</path>
+		<name>봄버맨 - 유저 배틀</name>
+		<image>./boxart/Bomberman - Users Battle (Japan).png</image>
+		<video>./snap/Bomberman - Users Battle (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>터보 테크놀리지</publisher>
+		<players>5</players>
+		<releasedate>19901207T000000</releasedate>
+	</game>
+	<game>
+		<path>./Bomber Man '93 (Japan).zip</path>
+		<name>봄버맨 '93</name>
+		<image>./boxart/Bomber Man '93 (Japan).png</image>
+		<video>./snap/Bomber Man '93 (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>5</players>
+		<releasedate>19921211T000000</releasedate>
+	</game>
+	<game>
+		<path>./Bomberman '93 - Special Version (Japan).zip</path>
+		<name>봄버맨 '93 - 스페셜 버전</name>
+		<image>./boxart/Bomberman '93 - Special Version (Japan).png</image>
+		<video>./snap/Bomberman '93 - Special Version (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>5</players>
+		<releasedate>19921211T000000</releasedate>
+	</game>
+	<game>
+		<path>./Bomber Man '94 (Japan).zip</path>
+		<name>봄버맨 '94</name>
+		<image>./boxart/Bomber Man '94 (Japan).png</image>
+		<video>./snap/Bomber Man '94 (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>5</players>
+		<releasedate>19931210T000000</releasedate>
+	</game>
+	<game>
+		<path>./Bouken Danshaku Don - The Lost Sunheart (Japan).zip</path>
+		<name>모험 남작 돈 - 더 로스트 선하트</name>
+		<image>./boxart/Bouken Danshaku Don - The Lost Sunheart (Japan).png</image>
+		<video>./snap/Bouken Danshaku Don - The Lost Sunheart (Japan).mp4</video>
+		<developer>만청당</developer>
+		<publisher>아이맥스</publisher>
+		<players>2</players>
+		<releasedate>19920104T000000</releasedate>
+	</game>
+	<game>
+		<path>./Break In (Japan).zip</path>
+		<name>브레이크 인</name>
+		<image>./boxart/Break In (Japan).png</image>
+		<video>./snap/Break In (Japan).mp4</video>
+		<developer>낙삿 소프트</developer>
+		<publisher>낙삿 소프트</publisher>
+		<players>1</players>
+		<releasedate>19890810T000000</releasedate>
+	</game>
+	<game>
+		<path>./Bubblegum Crash! - Knight Sabers 2034 (Japan).zip</path>
+		<name>버블검 크래시! - 나이트 세이버스 2034</name>
+		<image>./boxart/Bubblegum Crash! - Knight Sabers 2034 (Japan).png</image>
+		<video>./snap/Bubblegum Crash! - Knight Sabers 2034 (Japan).mp4</video>
+		<developer>스피엘</developer>
+		<publisher>낙삿 소프트</publisher>
+		<players>1</players>
+		<releasedate>19911206T000000</releasedate>
+	</game>
+	<game>
+		<path>./Bull Fight - Ring no Hasha (Japan).zip</path>
+		<name>불 파이트 - 링의 패자</name>
+		<image>./boxart/Bull Fight - Ring no Hasha (Japan).png</image>
+		<video>./snap/Bull Fight - Ring no Hasha (Japan).mp4</video>
+		<developer>크림</developer>
+		<publisher>크림</publisher>
+		<players>8</players>
+		<releasedate>19891208T000000</releasedate>
+	</game>
+	<game>
+		<path>./Burning Angels (Japan).zip</path>
+		<name>버닝 엔젤스</name>
+		<image>./boxart/Burning Angels (Japan).png</image>
+		<video>./snap/Burning Angels (Japan).mp4</video>
+		<developer>잡</developer>
+		<publisher>낙삿 소프트</publisher>
+		<players>2</players>
+		<releasedate>19901207T000000</releasedate>
+	</game>
+	<game>
+		<path>./Busou Keiji - Cyber Cross (Japan).zip</path>
+		<name>무장형사 - 사이버 크로스</name>
+		<image>./boxart/Busou Keiji - Cyber Cross (Japan).png</image>
+		<video>./snap/Busou Keiji - Cyber Cross (Japan).mp4</video>
+		<developer>페이스</developer>
+		<publisher>페이스</publisher>
+		<players>1</players>
+		<releasedate>19890623T000000</releasedate>
+	</game>
+	<game>
+		<path>./Cadash (Japan).zip</path>
+		<name>카다시</name>
+		<image>./boxart/Cadash (Japan).png</image>
+		<video>./snap/Cadash (Japan).mp4</video>
+		<developer>타이토</developer>
+		<publisher>워킹 디자인</publisher>
+		<players>2</players>
+		<releasedate>19910118T000000</releasedate>
+	</game>
+	<game>
+		<path>./Champion Wrestler (Japan).zip</path>
+		<name>챔피언 레슬러</name>
+		<image>./boxart/Champion Wrestler (Japan).png</image>
+		<video>./snap/Champion Wrestler (Japan).mp4</video>
+		<developer>타이토</developer>
+		<publisher>타이토</publisher>
+		<players>4</players>
+		<releasedate>19901214T000000</releasedate>
+	</game>
+	<game>
+		<path>./Chibi Maruko-chan - Quiz de Piihyara (Japan).zip</path>
+		<name>꼬마 마루코쨩 - 퀴즈로 피햐라</name>
+		<image>./boxart/Chibi Maruko-chan - Quiz de Piihyara (Japan).png</image>
+		<video>./snap/Chibi Maruko-chan - Quiz de Piihyara (Japan).mp4</video>
+		<developer>남코</developer>
+		<publisher>남코</publisher>
+		<players>2</players>
+		<releasedate>19920110T000000</releasedate>
+	</game>
+	<game>
+		<path>./Chikudenya Toubei - Kubikiri Yakata Yori (Japan).zip</path>
+		<name>축전옥 토우베이 - BIT2의 참수관에서</name>
+		<image>./boxart/Chikudenya Toubei - Kubikiri Yakata Yori (Japan).png</image>
+		<video>./snap/Chikudenya Toubei - Kubikiri Yakata Yori (Japan).mp4</video>
+		<developer>낙삿 소프트</developer>
+		<publisher>낙삿 소프트</publisher>
+		<players>1</players>
+		<releasedate>19900126T000000</releasedate>
+	</game>
+	<game>
+		<path>./Chouzetsurinjin Bravoman (Japan).zip</path>
+		<name>초절륜인 베라보맨</name>
+		<image>./boxart/Chouzetsurinjin Bravoman (Japan).png</image>
+		<video>./snap/Chouzetsurinjin Bravoman (Japan).mp4</video>
+		<developer>나우 프로덕션</developer>
+		<publisher>터보 테크놀리지</publisher>
+		<players>1</players>
+		<releasedate>19900713T000000</releasedate>
+	</game>
+	<game>
+		<path>./Circus Lido (Japan).zip</path>
+		<name>서커스 라이도</name>
+		<image>./boxart/Circus Lido (Japan).png</image>
+		<video>./snap/Circus Lido (Japan).mp4</video>
+		<developer>유니포스트</developer>
+		<publisher>유니포스트</publisher>
+		<players>1</players>
+		<releasedate>19910406T000000</releasedate>
+	</game>
+	<game>
+		<path>./City Hunter (Japan).zip</path>
+		<name>시티 헌터</name>
+		<image>./boxart/City Hunter (Japan).png</image>
+		<video>./snap/City Hunter (Japan).mp4</video>
+		<developer>선소프트</developer>
+		<publisher>선소프트</publisher>
+		<players>2</players>
+		<releasedate>19900302T000000</releasedate>
+	</game>
+	<game>
+		<path>./Columns (Japan).zip</path>
+		<name>컬럼스</name>
+		<image>./boxart/Columns (Japan).png</image>
+		<video>./snap/Columns (Japan).mp4</video>
+		<developer>레이져 소프트</developer>
+		<publisher>레이져 소프트</publisher>
+		<players>2</players>
+		<releasedate>19910329T000000</releasedate>
+	</game>
+	<game>
+		<path>./Coryoon - Child of Dragon (Japan).zip</path>
+		<name>코륜 - 차일드 오브 드래곤</name>
+		<image>./boxart/Coryoon - Child of Dragon (Japan).png</image>
+		<video>./snap/Coryoon - Child of Dragon (Japan).mp4</video>
+		<developer>낙삿 소프트</developer>
+		<publisher>낙삿 소프트</publisher>
+		<players>1</players>
+		<releasedate>19911129T000000</releasedate>
+	</game>
+	<game>
+		<path>./Cross Wiber - Cyber Combat Police (Japan).zip</path>
+		<name>크로스 와이버 - 사이버 컴뱃 폴리스</name>
+		<image>./boxart/Cross Wiber - Cyber Combat Police (Japan).png</image>
+		<video>./snap/Cross Wiber - Cyber Combat Police (Japan).mp4</video>
+		<developer>참근도</developer>
+		<publisher>페이스</publisher>
+		<players>1</players>
+		<releasedate>19901221T000000</releasedate>
+	</game>
+	<game>
+		<path>./Cyber Core (Japan).zip</path>
+		<name>사이버 코어</name>
+		<image>./boxart/Cyber Core (Japan).png</image>
+		<video>./snap/Cyber Core (Japan).mp4</video>
+		<developer>알파 시스템</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19900309T000000</releasedate>
+	</game>
+	<game>
+		<path>./Cyber Dodge (Japan).zip</path>
+		<name>사이버 닷지</name>
+		<image>./boxart/Cyber Dodge (Japan).png</image>
+		<video>./snap/Cyber Dodge (Japan).mp4</video>
+		<developer>토킨하우스</developer>
+		<publisher>토킨하우스</publisher>
+		<players>2</players>
+		<releasedate>19920131T000000</releasedate>
+	</game>
+	<game>
+		<path>./Cyber Knight (Japan).zip</path>
+		<name>사이버 나이트</name>
+		<image>./boxart/Cyber Knight (Japan).png</image>
+		<video>./snap/Cyber Knight (Japan).mp4</video>
+		<developer>컴파일</developer>
+		<publisher>토킨하우스</publisher>
+		<players>1</players>
+		<releasedate>19901012T000000</releasedate>
+	</game>
+	<game>
+		<path>./Daichi-kun Crisis - Do Natural (Japan).zip</path>
+		<name>다이치군 크라이시스 - 두 내추럴</name>
+		<image>./boxart/Daichi-kun Crisis - Do Natural (Japan).png</image>
+		<video>./snap/Daichi-kun Crisis - Do Natural (Japan).mp4</video>
+		<developer>살리오</developer>
+		<publisher>살리오</publisher>
+		<players>1</players>
+		<releasedate>19891122T000000</releasedate>
+	</game>
+	<game>
+		<path>./Daimakaimura (Japan).zip</path>
+		<name>대마계촌</name>
+		<image>./boxart/Daimakaimura (Japan).png</image>
+		<video>./snap/Daimakaimura (Japan).mp4</video>
+		<developer>캡콤</developer>
+		<publisher>NEC</publisher>
+		<players>2</players>
+		<releasedate>19900727T000000</releasedate>
+	</game>
+	<game>
+		<path>./Daisenpuu (Japan).zip</path>
+		<name>대선풍</name>
+		<image>./boxart/Daisenpuu (Japan).png</image>
+		<video>./snap/Daisenpuu (Japan).mp4</video>
+		<developer>토아플랜</developer>
+		<publisher>NEC</publisher>
+		<players>2</players>
+		<releasedate>19901214T000000</releasedate>
+	</game>
+	<game>
+		<path>./Darius Alpha (Japan) (SG Enhanced).zip</path>
+		<name>다라이어스 알파</name>
+		<image>./boxart/Darius Alpha (Japan) (SG Enhanced).png</image>
+		<video>./snap/Darius Alpha (Japan) (SG Enhanced).mp4</video>
+		<developer>비츠 랩</developer>
+		<publisher>NEC 인터채널</publisher>
+		<players>1</players>
+		<releasedate>19900101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Darius Plus (Japan) (SG Enhanced).zip</path>
+		<name>다라이어스 플러스</name>
+		<image>./boxart/Darius Plus (Japan) (SG Enhanced).png</image>
+		<video>./snap/Darius Plus (Japan) (SG Enhanced).mp4</video>
+		<developer>비츠 랩</developer>
+		<publisher>NEC 인터채널</publisher>
+		<players>1</players>
+		<releasedate>19900921T000000</releasedate>
+	</game>
+	<game>
+		<path>./Dead Moon - Getsu Sekai no Akumu (Japan).zip</path>
+		<name>데드 문 - 달 세계의 악몽</name>
+		<image>./boxart/Dead Moon - Getsu Sekai no Akumu (Japan).png</image>
+		<video>./snap/Dead Moon - Getsu Sekai no Akumu (Japan).mp4</video>
+		<developer>스튜디오 덕스</developer>
+		<publisher>나츠메</publisher>
+		<players>1</players>
+		<releasedate>19910222T000000</releasedate>
+	</game>
+	<game>
+		<path>./Deep Blue - Kaitei Shinwa (Japan).zip</path>
+		<name>딥 블루 - 해저신화</name>
+		<image>./boxart/Deep Blue - Kaitei Shinwa (Japan).png</image>
+		<video>./snap/Deep Blue - Kaitei Shinwa (Japan).mp4</video>
+		<developer>팩인 비디오</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19890331T000000</releasedate>
+	</game>
+	<game>
+		<path>./Detana!! TwinBee (Japan).zip</path>
+		<name>나왔구나!! 트윈비</name>
+		<image>./boxart/Detana!! TwinBee (Japan).png</image>
+		<video>./snap/Detana!! TwinBee (Japan).mp4</video>
+		<developer>코나미</developer>
+		<publisher>코나미</publisher>
+		<players>1</players>
+		<releasedate>19920228T000000</releasedate>
+	</game>
+	<game>
+		<path>./Devil Crash - Naxat Pinball (Japan).zip</path>
+		<name>데빌 크래시 - 나그자트 핀볼</name>
+		<image>./boxart/Devil Crash - Naxat Pinball (Japan).png</image>
+		<video>./snap/Devil Crash - Naxat Pinball (Japan).mp4</video>
+		<developer>컴파일</developer>
+		<publisher>NEC</publisher>
+		<players>2</players>
+		<releasedate>19900720T000000</releasedate>
+	</game>
+	<game>
+		<path>./Die Hard (Japan).zip</path>
+		<name>다이 하드</name>
+		<image>./boxart/Die Hard (Japan).png</image>
+		<video>./snap/Die Hard (Japan).mp4</video>
+		<developer>팩인 비디오</developer>
+		<publisher>NEC 인터채널</publisher>
+		<players>1</players>
+		<releasedate>19900928T000000</releasedate>
+	</game>
+	<game>
+		<path>./Digital Champ (Japan).zip</path>
+		<name>디지털 챔프</name>
+		<image>./boxart/Digital Champ (Japan).png</image>
+		<video>./snap/Digital Champ (Japan).mp4</video>
+		<developer>낙삿 소프트</developer>
+		<publisher>낙삿 소프트</publisher>
+		<releasedate>19891013T000000</releasedate>
+	</game>
+	<game>
+		<path>./Don Doko Don! (Japan).zip</path>
+		<name>돈 도코 돈!</name>
+		<image>./boxart/Don Doko Don! (Japan).png</image>
+		<video>./snap/Don Doko Don! (Japan).mp4</video>
+		<developer>타이토</developer>
+		<publisher>타이토</publisher>
+		<players>2</players>
+		<releasedate>19900531T000000</releasedate>
+	</game>
+	<game>
+		<path>./Doraemon - Meikyuu Daisakusen (Japan).zip</path>
+		<name>도라에몽 - 미궁 대작전</name>
+		<image>./boxart/Doraemon - Meikyuu Daisakusen (Japan).png</image>
+		<video>./snap/Doraemon - Meikyuu Daisakusen (Japan).mp4</video>
+		<developer>일본 물산</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19891031T000000</releasedate>
+	</game>
+	<game>
+		<path>./Doraemon - Nobita no Dorabian Night (Japan).zip</path>
+		<name>도라에몽 - 노비타의 도라비안 나이트</name>
+		<image>./boxart/Doraemon - Nobita no Dorabian Night (Japan).png</image>
+		<video>./snap/Doraemon - Nobita no Dorabian Night (Japan).mp4</video>
+		<developer>나우 프로덕션</developer>
+		<publisher>허드슨</publisher>
+		<players>1</players>
+		<releasedate>19911206T000000</releasedate>
+	</game>
+	<game>
+		<path>./Double Dungeons (Japan).zip</path>
+		<name>더블 던전스</name>
+		<image>./boxart/Double Dungeons (Japan).png</image>
+		<video>./snap/Double Dungeons (Japan).mp4</video>
+		<developer>NCS</developer>
+		<publisher>마사야</publisher>
+		<players>1</players>
+		<releasedate>19890929T000000</releasedate>
+	</game>
+	<game>
+		<path>./Download (Japan).zip</path>
+		<name>다운로드</name>
+		<image>./boxart/Download (Japan).png</image>
+		<video>./snap/Download (Japan).mp4</video>
+		<developer>알파 시스템</developer>
+		<publisher>NEC 인터채널</publisher>
+		<players>1</players>
+		<releasedate>19900622T000000</releasedate>
+	</game>
+	<game>
+		<path>./Dragon Egg! (Japan).zip</path>
+		<name>드래곤 에그!</name>
+		<image>./boxart/Dragon Egg! (Japan).png</image>
+		<video>./snap/Dragon Egg! (Japan).mp4</video>
+		<developer>마사야</developer>
+		<publisher>NCS</publisher>
+		<players>1</players>
+		<releasedate>19910927T000000</releasedate>
+	</game>
+	<game>
+		<path>./Dragon Saber (Japan).zip</path>
+		<name>드래곤 세이버</name>
+		<image>./boxart/Dragon Saber (Japan).png</image>
+		<video>./snap/Dragon Saber (Japan).mp4</video>
+		<developer>남코</developer>
+		<publisher>남코</publisher>
+		<players>2</players>
+		<releasedate>19911227T000000</releasedate>
+	</game>
+	<game>
+		<path>./Dragon Spirit (Japan).zip</path>
+		<name>드래곤 스피릿</name>
+		<image>./boxart/Dragon Spirit (Japan).png</image>
+		<video>./snap/Dragon Spirit (Japan).mp4</video>
+		<developer>남코</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19881226T000000</releasedate>
+	</game>
+	<game>
+		<path>./Drop Rock Hora Hora (Japan).zip</path>
+		<name>드롭 락 호라호라</name>
+		<image>./boxart/Drop Rock Hora Hora (Japan).png</image>
+		<video>./snap/Drop Rock Hora Hora (Japan).mp4</video>
+		<developer>데이터 이스트</developer>
+		<publisher>NEC</publisher>
+		<players>2</players>
+		<releasedate>19900330T000000</releasedate>
+	</game>
+	<game>
+		<path>./Dungeon Explorer (Japan).zip</path>
+		<name>던전 익스플로러</name>
+		<image>./boxart/Dungeon Explorer (Japan).png</image>
+		<video>./snap/Dungeon Explorer (Japan).mp4</video>
+		<developer>아틀러스</developer>
+		<publisher>NEC</publisher>
+		<players>5</players>
+		<releasedate>19890304T000000</releasedate>
+	</game>
+	<game>
+		<path>./Energy (Japan).zip</path>
+		<name>에너지</name>
+		<image>./boxart/Energy (Japan).png</image>
+		<video>./snap/Energy (Japan).mp4</video>
+		<developer>퀘이자 소프트</developer>
+		<publisher>NCS</publisher>
+		<players>5</players>
+		<releasedate>19890419T000000</releasedate>
+	</game>
+	<game>
+		<path>./Eternal City - Toshi Tensou Keikaku (Japan).zip</path>
+		<name>이터널 시티 - 도시전송 계획</name>
+		<image>./boxart/Eternal City - Toshi Tensou Keikaku (Japan).png</image>
+		<video>./snap/Eternal City - Toshi Tensou Keikaku (Japan).mp4</video>
+		<developer>낙삿 소프트</developer>
+		<publisher>낙삿 소프트</publisher>
+		<releasedate>19910412T000000</releasedate>
+	</game>
+	<game>
+		<path>./F1 Circus (Japan).zip</path>
+		<name>F1 서커스</name>
+		<image>./boxart/F1 Circus (Japan).png</image>
+		<video>./snap/F1 Circus (Japan).mp4</video>
+		<developer>일본 물산</developer>
+		<publisher>일본물산</publisher>
+		<players>5</players>
+		<releasedate>19900914T000000</releasedate>
+	</game>
+	<game>
+		<path>./F1 Circus '91 (Japan).zip</path>
+		<name>F1 서커스 '91 - 월드 챔피언쉽</name>
+		<image>./boxart/F1 Circus '91 (Japan).png</image>
+		<video>./snap/F1 Circus '91 (Japan).mp4</video>
+		<developer>일본 물산</developer>
+		<publisher>일본물산</publisher>
+		<players>1</players>
+		<releasedate>19910712T000000</releasedate>
+	</game>
+	<game>
+		<path>./F1 Circus '92 - The Speed of Sound (Japan).zip</path>
+		<name>F1 서커스 '92 - 더 스피드 오브 사운드</name>
+		<image>./boxart/F1 Circus '92 - The Speed of Sound (Japan).png</image>
+		<video>./snap/F1 Circus '92 - The Speed of Sound (Japan).mp4</video>
+		<developer>일본 물산</developer>
+		<publisher>일본물산</publisher>
+		<players>1</players>
+		<releasedate>19921218T000000</releasedate>
+	</game>
+	<game>
+		<path>./F-1 Dream (Japan).zip</path>
+		<name>F1 드림</name>
+		<image>./boxart/F-1 Dream (Japan).png</image>
+		<video>./snap/F-1 Dream (Japan).mp4</video>
+		<developer>NEC 인터채널</developer>
+		<publisher>NEC 인터채널</publisher>
+		<releasedate>19890825T000000</releasedate>
+	</game>
+	<game>
+		<path>./F-1 Pilot - You're King of Kings (Japan).zip</path>
+		<name>F-1 파일럿 - 유어 킹 오브 킹스</name>
+		<image>./boxart/F-1 Pilot - You're King of Kings (Japan).png</image>
+		<video>./snap/F-1 Pilot - You're King of Kings (Japan).mp4</video>
+		<developer>팩인 비디오</developer>
+		<publisher>팩인 비디오</publisher>
+		<releasedate>19890323T000000</releasedate>
+	</game>
+	<game>
+		<path>./F1 Triple Battle (Japan).zip</path>
+		<name>F1 트리플 배틀</name>
+		<image>./boxart/F1 Triple Battle (Japan).png</image>
+		<video>./snap/F1 Triple Battle (Japan).mp4</video>
+		<developer>휴먼</developer>
+		<publisher>휴먼</publisher>
+		<players>3</players>
+		<releasedate>19891227T000000</releasedate>
+	</game>
+	<game>
+		<path>./Fantasy Zone (Japan).zip</path>
+		<name>판타지 존</name>
+		<image>./boxart/Fantasy Zone (Japan).png</image>
+		<video>./snap/Fantasy Zone (Japan).mp4</video>
+		<developer>비츠 랩</developer>
+		<publisher>NEC 인터채널</publisher>
+		<players>2</players>
+		<releasedate>19881014T000000</releasedate>
+	</game>
+	<game>
+		<path>./Fighting Run (Japan).zip</path>
+		<name>파이팅 런</name>
+		<image>./boxart/Fighting Run (Japan).png</image>
+		<video>./snap/Fighting Run (Japan).mp4</video>
+		<developer>일본 물산</developer>
+		<publisher>일본 물산</publisher>
+		<players>2</players>
+		<releasedate>19911129T000000</releasedate>
+	</game>
+	<game>
+		<path>./Final Blaster (Japan).zip</path>
+		<name>파이널 블래스터</name>
+		<image>./boxart/Final Blaster (Japan).png</image>
+		<video>./snap/Final Blaster (Japan).mp4</video>
+		<developer>아이시스템 토쿄</developer>
+		<publisher>남코</publisher>
+		<players>1</players>
+		<releasedate>19900928T000000</releasedate>
+	</game>
+	<game>
+		<path>./Final Lap Twin (Japan).zip</path>
+		<name>파이널 랩 트윈</name>
+		<image>./boxart/Final Lap Twin (Japan).png</image>
+		<video>./snap/Final Lap Twin (Japan).mp4</video>
+		<developer>NEC 인터채널</developer>
+		<publisher>남코</publisher>
+		<players>2</players>
+		<releasedate>19890707T000000</releasedate>
+	</game>
+	<game>
+		<path>./Final Match Tennis (Japan).zip</path>
+		<name>파이널 매치 테니스</name>
+		<image>./boxart/Final Match Tennis (Japan).png</image>
+		<video>./snap/Final Match Tennis (Japan).mp4</video>
+		<developer>휴먼</developer>
+		<publisher>휴먼</publisher>
+		<players>2</players>
+		<releasedate>19910301T000000</releasedate>
+	</game>
+	<game>
+		<path>./Final Soldier (Japan) (En).zip</path>
+		<name>파이널 솔저</name>
+		<image>./boxart/Final Soldier (Japan) (En).png</image>
+		<video>./snap/Final Soldier (Japan) (En).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>1</players>
+		<releasedate>19910705T000000</releasedate>
+	</game>
+	<game>
+		<path>./Final Soldier - Special Version (Japan) (En).zip</path>
+		<name>파이널 솔저 - 스페셜 버전</name>
+		<image>./boxart/Final Soldier - Special Version (Japan) (En).png</image>
+		<video>./snap/Final Soldier - Special Version (Japan) (En).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>1</players>
+		<releasedate>19910705T000000</releasedate>
+	</game>
+	<game>
+		<path>./Fire Pro Wrestling - Combination Tag (Japan).zip</path>
+		<name>파이어 프로 레슬링 - 콤비네이션 태그</name>
+		<image>./boxart/Fire Pro Wrestling - Combination Tag (Japan).png</image>
+		<video>./snap/Fire Pro Wrestling - Combination Tag (Japan).mp4</video>
+		<developer>휴먼</developer>
+		<publisher>휴먼</publisher>
+		<players>4</players>
+		<releasedate>19890622T000000</releasedate>
+	</game>
+	<game>
+		<path>./Fire Pro Wrestling 2 - 2nd Bout (Japan).zip</path>
+		<name>파이어 프로 레슬링 2 - 2nd 바우트</name>
+		<image>./boxart/Fire Pro Wrestling 2 - 2nd Bout (Japan).png</image>
+		<video>./snap/Fire Pro Wrestling 2 - 2nd Bout (Japan).mp4</video>
+		<players>4</players>
+		<releasedate>19910830T000000</releasedate>
+	</game>
+	<game>
+		<path>./Fire Pro Wrestling 3 - Legend Bout (Japan).zip</path>
+		<name>파이어 프로 레슬링 3 - 레전드 바우트</name>
+		<image>./boxart/Fire Pro Wrestling 3 - Legend Bout (Japan).png</image>
+		<video>./snap/Fire Pro Wrestling 3 - Legend Bout (Japan).mp4</video>
+		<players>4</players>
+		<releasedate>19921113T000000</releasedate>
+	</game>
+	<game>
+		<path>./Formation Soccer - Human Cup '90 (Japan).zip</path>
+		<name>포메이션 사커 - 휴먼 컵 '90</name>
+		<image>./boxart/Formation Soccer - Human Cup '90 (Japan).png</image>
+		<video>./snap/Formation Soccer - Human Cup '90 (Japan).mp4</video>
+		<developer>휴먼</developer>
+		<publisher>휴먼</publisher>
+		<players>2</players>
+		<releasedate>19900427T000000</releasedate>
+	</game>
+	<game>
+		<path>./Formation Soccer - On J League (Japan).zip</path>
+		<name>포메이션 사커 - 온 J 리그</name>
+		<image>./boxart/Formation Soccer - On J League (Japan).png</image>
+		<video>./snap/Formation Soccer - On J League (Japan).mp4</video>
+		<developer>휴먼</developer>
+		<publisher>휴먼</publisher>
+		<players>2</players>
+		<releasedate>19940115T000000</releasedate>
+	</game>
+	<game>
+		<path>./Fushigi no Yume no Alice (Japan).zip</path>
+		<name>이상한 꿈의 앨리스</name>
+		<image>./boxart/Fushigi no Yume no Alice (Japan).png</image>
+		<video>./snap/Fushigi no Yume no Alice (Japan).mp4</video>
+		<developer>페이스</developer>
+		<publisher>페이스</publisher>
+		<players>1</players>
+		<releasedate>19901207T000000</releasedate>
+	</game>
+	<game>
+		<path>./Gai Flame (Japan).zip</path>
+		<name>가이 플레임</name>
+		<image>./boxart/Gai Flame (Japan).png</image>
+		<video>./snap/Gai Flame (Japan).mp4</video>
+		<developer>마사야</developer>
+		<players>1</players>
+		<releasedate>19900126T000000</releasedate>
+	</game>
+	<game>
+		<path>./Gaia no Monshou (Japan).zip</path>
+		<name>가이아의 문장</name>
+		<image>./boxart/Gaia no Monshou (Japan).png</image>
+		<video>./snap/Gaia no Monshou (Japan).mp4</video>
+		<developer>NCS</developer>
+		<publisher>NCS</publisher>
+		<players>2</players>
+		<releasedate>19880923T000000</releasedate>
+	</game>
+	<game>
+		<path>./Galaga '88 (Japan).zip</path>
+		<name>갤라가 '88</name>
+		<image>./boxart/Galaga '88 (Japan).png</image>
+		<video>./snap/Galaga '88 (Japan).mp4</video>
+		<developer>남코</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19880715T000000</releasedate>
+	</game>
+	<game>
+		<path>./Ganbare! Golf Boys (Japan).zip</path>
+		<name>힘내라! 골프 보이즈</name>
+		<image>./boxart/Ganbare! Golf Boys (Japan).png</image>
+		<video>./snap/Ganbare! Golf Boys (Japan).mp4</video>
+		<developer>NCS</developer>
+		<publisher>NCS</publisher>
+		<players>4</players>
+		<releasedate>19890328T000000</releasedate>
+	</game>
+	<game>
+		<path>./Gekisha Boy (Japan).zip</path>
+		<name>격사보이</name>
+		<image>./boxart/Gekisha Boy (Japan).png</image>
+		<video>./snap/Gekisha Boy (Japan).mp4</video>
+		<developer>톰캣 시스템</developer>
+		<publisher>아이렘</publisher>
+		<players>1</players>
+		<releasedate>19921002T000000</releasedate>
+	</game>
+	<game>
+		<path>./Genji Tsuushin Agedama (Japan).zip</path>
+		<name>겐지 통신 아게다마</name>
+		<image>./boxart/Genji Tsuushin Agedama (Japan).png</image>
+		<video>./snap/Genji Tsuushin Agedama (Japan).mp4</video>
+		<developer>NEC</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19911213T000000</releasedate>
+	</game>
+	<game>
+		<path>./Genpei Toumaden (Japan).zip</path>
+		<name>원평토마전</name>
+		<image>./boxart/Genpei Toumaden (Japan).png</image>
+		<video>./snap/Genpei Toumaden (Japan).mp4</video>
+		<developer>남코</developer>
+		<publisher>남코</publisher>
+		<players>1</players>
+		<releasedate>19920407T000000</releasedate>
+	</game>
+	<game>
+		<path>./Genpei Toumaden - Kan no Ni (Japan).zip</path>
+		<name>원평토마전 - 두루마기 두번째</name>
+		<image>./boxart/Genpei Toumaden - Kan no Ni (Japan).png</image>
+		<video>./snap/Genpei Toumaden - Kan no Ni (Japan).mp4</video>
+		<developer>남코</developer>
+		<publisher>남코</publisher>
+		<players>1</players>
+		<releasedate>19920407T000000</releasedate>
+	</game>
+	<game>
+		<path>./Gokuraku! Chuuka Taisen (Japan).zip</path>
+		<name>극락! 중화대선</name>
+		<image>./boxart/Gokuraku! Chuuka Taisen (Japan).png</image>
+		<video>./snap/Gokuraku! Chuuka Taisen (Japan).mp4</video>
+		<developer>대영 제작소</developer>
+		<publisher>타이토</publisher>
+		<players>1</players>
+		<releasedate>19920313T000000</releasedate>
+	</game>
+	<game>
+		<path>./Gomola Speed (Japan).zip</path>
+		<name>고모라 스피드</name>
+		<image>./boxart/Gomola Speed (Japan).png</image>
+		<video>./snap/Gomola Speed (Japan).mp4</video>
+		<developer>UPL</developer>
+		<publisher>UPL</publisher>
+		<players>1</players>
+		<releasedate>19900928T000000</releasedate>
+	</game>
+	<game>
+		<path>./Gradius (Japan).zip</path>
+		<name>그라디우스</name>
+		<image>./boxart/Gradius (Japan).png</image>
+		<video>./snap/Gradius (Japan).mp4</video>
+		<developer>코나미</developer>
+		<publisher>코나미</publisher>
+		<players>2</players>
+		<releasedate>19911115T000000</releasedate>
+	</game>
+	<game>
+		<path>./Gunhed (Japan).zip</path>
+		<name>건헤드</name>
+		<image>./boxart/Gunhed (Japan).png</image>
+		<video>./snap/Gunhed (Japan).mp4</video>
+		<developer>컴파일</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19890707T000000</releasedate>
+	</game>
+	<game>
+		<path>./Gunhed - Special Version (Japan).zip</path>
+		<name>건헤드 - 스페셜 버전</name>
+		<image>./boxart/Gunhed - Special Version (Japan).png</image>
+		<video>./snap/Gunhed - Special Version (Japan).mp4</video>
+		<developer>컴파일</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19890707T000000</releasedate>
+	</game>
+	<game>
+		<path>./Hana Taaka Daka! (Japan).zip</path>
+		<name>하나 타카 다카!?</name>
+		<image>./boxart/Hana Taaka Daka! (Japan).png</image>
+		<video>./snap/Hana Taaka Daka! (Japan).mp4</video>
+		<developer>타이토</developer>
+		<publisher>타이토</publisher>
+		<players>1</players>
+		<releasedate>19910809T000000</releasedate>
+	</game>
+	<game>
+		<path>./Hanii in the Sky (Japan).zip</path>
+		<name>허니 인 더 스카이</name>
+		<image>./boxart/Hanii in the Sky (Japan).png</image>
+		<video>./snap/Hanii in the Sky (Japan).mp4</video>
+		<developer>페이스</developer>
+		<publisher>페이스</publisher>
+		<players>1</players>
+		<releasedate>19890301T000000</releasedate>
+	</game>
+	<game>
+		<path>./Hanii on the Road (Japan).zip</path>
+		<name>허니 온 더 로드</name>
+		<image>./boxart/Hanii on the Road (Japan).png</image>
+		<video>./snap/Hanii on the Road (Japan).mp4</video>
+		<developer>페이스</developer>
+		<publisher>페이스</publisher>
+		<players>2</players>
+		<releasedate>19900914T000000</releasedate>
+	</game>
+	<game>
+		<path>./Hatris (Japan).zip</path>
+		<name>해트리스</name>
+		<image>./boxart/Hatris (Japan).png</image>
+		<video>./snap/Hatris (Japan).mp4</video>
+		<developer>마이크로캐빈</developer>
+		<publisher>마이크로캐빈</publisher>
+		<players>1</players>
+		<releasedate>19910524T000000</releasedate>
+	</game>
+	<game>
+		<path>./Heavy Unit (Japan).zip</path>
+		<name>헤비 유닛</name>
+		<image>./boxart/Heavy Unit (Japan).png</image>
+		<video>./snap/Heavy Unit (Japan).mp4</video>
+		<developer>인터스테이트</developer>
+		<publisher>타이토</publisher>
+		<players>1</players>
+		<releasedate>19891222T000000</releasedate>
+	</game>
+	<game>
+		<path>./Hisou Kihei X-Serd (Japan).zip</path>
+		<name>비장기병 카이저드</name>
+		<image>./boxart/Hisou Kihei X-Serd (Japan).png</image>
+		<video>./snap/Hisou Kihei X-Serd (Japan).mp4</video>
+		<developer>NCS</developer>
+		<publisher>NCS</publisher>
+		<players>1</players>
+		<releasedate>19900223T000000</releasedate>
+	</game>
+	<game>
+		<path>./Hit the Ice - VHL - The Video Hockey League (Japan).zip</path>
+		<name>히트 더 아이스 - 더 비디오 하키 리그</name>
+		<image>./boxart/Hit the Ice - VHL - The Video Hockey League (Japan).png</image>
+		<video>./snap/Hit the Ice - VHL - The Video Hockey League (Japan).mp4</video>
+		<developer>타이토</developer>
+		<publisher>타이토</publisher>
+		<players>2</players>
+		<releasedate>19920101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Honoo no Toukyuuji - Dodge Danpei (Japan).zip</path>
+		<name>불꽃의 투구아 - 돗지 탄평</name>
+		<image>./boxart/Honoo no Toukyuuji - Dodge Danpei (Japan).png</image>
+		<video>./snap/Honoo no Toukyuuji - Dodge Danpei (Japan).mp4</video>
+		<developer>에임 소프트웨어</developer>
+		<publisher>허드슨</publisher>
+		<releasedate>19920925T000000</releasedate>
+	</game>
+	<game>
+		<path>./Image Fight (Japan).zip</path>
+		<name>이미지 파이트</name>
+		<image>./boxart/Image Fight (Japan).png</image>
+		<video>./snap/Image Fight (Japan).mp4</video>
+		<developer>아이렘</developer>
+		<publisher>아이렘</publisher>
+		<players>1</players>
+		<releasedate>19900727T000000</releasedate>
+	</game>
+	<game>
+		<path>./J.League Greatest Eleven (Japan).zip</path>
+		<name>J.리그 그레이티스트 일레븐</name>
+		<image>./boxart/J.League Greatest Eleven (Japan).png</image>
+		<video>./snap/J.League Greatest Eleven (Japan).mp4</video>
+		<developer>크림</developer>
+		<publisher>일본물산</publisher>
+		<releasedate>19930514T000000</releasedate>
+	</game>
+	<game>
+		<path>./Jack Nicklaus - Championship Golf (Japan).zip</path>
+		<name>잭 니클라우스 - 챔피언쉽 골프</name>
+		<image>./boxart/Jack Nicklaus - Championship Golf (Japan).png</image>
+		<video>./snap/Jack Nicklaus - Championship Golf (Japan).mp4</video>
+		<players>4</players>
+		<releasedate>19891124T000000</releasedate>
+	</game>
+	<game>
+		<path>./Jackie Chan (Japan).zip</path>
+		<name>재키 챈</name>
+		<image>./boxart/Jackie Chan (Japan).png</image>
+		<video>./snap/Jackie Chan (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>1</players>
+		<releasedate>19910118T000000</releasedate>
+	</game>
+	<game>
+		<path>./Jaseiken Necromancer (Japan).zip</path>
+		<name>사성검 네크로맨서</name>
+		<image>./boxart/Jaseiken Necromancer (Japan).png</image>
+		<video>./snap/Jaseiken Necromancer (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>1</players>
+		<releasedate>19880122T000000</releasedate>
+	</game>
+	<game>
+		<path>./Jigoku Meguri (Japan).zip</path>
+		<name>지옥 순례기</name>
+		<image>./boxart/Jigoku Meguri (Japan).png</image>
+		<video>./snap/Jigoku Meguri (Japan).mp4</video>
+		<developer>타이토</developer>
+		<publisher>타이토</publisher>
+		<players>1</players>
+		<releasedate>19900803T000000</releasedate>
+	</game>
+	<game>
+		<path>./Jinmu Denshou (Japan).zip</path>
+		<name>신무전승</name>
+		<image>./boxart/Jinmu Denshou (Japan).png</image>
+		<video>./snap/Jinmu Denshou (Japan).mp4</video>
+		<developer>빅 클럽</developer>
+		<publisher>울프 팀</publisher>
+		<releasedate>19890623T000000</releasedate>
+	</game>
+	<game>
+		<path>./Juuouki (Japan).zip</path>
+		<name>수왕기</name>
+		<image>./boxart/Juuouki (Japan).png</image>
+		<video>./snap/Juuouki (Japan).mp4</video>
+		<developer>세가</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19890929T000000</releasedate>
+	</game>
+	<game>
+		<path>./Kaizou Choujin Shubibinman (Japan).zip</path>
+		<name>개조정인 슈비빔맨</name>
+		<image>./boxart/Kaizou Choujin Shubibinman (Japan).png</image>
+		<video>./snap/Kaizou Choujin Shubibinman (Japan).mp4</video>
+		<publisher>마사야</publisher>
+		<players>2</players>
+		<releasedate>19890318T000000</releasedate>
+	</game>
+	<game>
+		<path>./Kaizou Choujin Shubibinman 2 - Aratanaru Teki (Japan).zip</path>
+		<name>개조정인 슈비빔맨 2 - 새로운 적</name>
+		<image>./boxart/Kaizou Choujin Shubibinman 2 - Aratanaru Teki (Japan).png</image>
+		<video>./snap/Kaizou Choujin Shubibinman 2 - Aratanaru Teki (Japan).mp4</video>
+		<developer>윈드</developer>
+		<publisher>NCS</publisher>
+		<players>2</players>
+		<releasedate>19910426T000000</releasedate>
+	</game>
+	<game>
+		<path>./Kato-chan Ken-chan (Japan).zip</path>
+		<name>카토쨩 켄쨩</name>
+		<image>./boxart/Kato-chan Ken-chan (Japan).png</image>
+		<video>./snap/Kato-chan Ken-chan (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>NEC 인터채널</publisher>
+		<players>1</players>
+		<releasedate>19871130T000000</releasedate>
+	</game>
+	<game>
+		<path>./Kattobi! Takuhai-kun (Japan).zip</path>
+		<name>달려라! 택배군</name>
+		<image>./boxart/Kattobi! Takuhai-kun (Japan).png</image>
+		<video>./snap/Kattobi! Takuhai-kun (Japan).mp4</video>
+		<developer>어드벤스 커뮤니케이션 컴퍼니</developer>
+		<publisher>토킨하우스</publisher>
+		<releasedate>19901109T000000</releasedate>
+	</game>
+	<game>
+		<path>./KickBall (Japan).zip</path>
+		<name>킥볼</name>
+		<image>./boxart/KickBall (Japan).png</image>
+		<video>./snap/KickBall (Japan).mp4</video>
+		<developer>듀얼</developer>
+		<publisher>NCS</publisher>
+		<releasedate>19901124T000000</releasedate>
+	</game>
+	<game>
+		<path>./Kiki Kaikai (Japan).zip</path>
+		<name>기기괴계</name>
+		<image>./boxart/Kiki Kaikai (Japan).png</image>
+		<video>./snap/Kiki Kaikai (Japan).mp4</video>
+		<developer>타이토</developer>
+		<publisher>타이토</publisher>
+		<players>1</players>
+		<releasedate>19900327T000000</releasedate>
+	</game>
+	<game>
+		<path>./King of Casino (Japan).zip</path>
+		<name>킹 오브 카지노</name>
+		<image>./boxart/King of Casino (Japan).png</image>
+		<video>./snap/King of Casino (Japan).mp4</video>
+		<developer>NEC</developer>
+		<publisher>NEC</publisher>
+		<players>5</players>
+		<releasedate>19900330T000000</releasedate>
+	</game>
+	<game>
+		<path>./Klax (Japan).zip</path>
+		<name>클랙스</name>
+		<image>./boxart/Klax (Japan).png</image>
+		<video>./snap/Klax (Japan).mp4</video>
+		<developer>아타리</developer>
+		<publisher>덴젠</publisher>
+		<players>1</players>
+		<releasedate>19900810T000000</releasedate>
+	</game>
+	<game>
+		<path>./Knight Rider Special (Japan).zip</path>
+		<name>나이트 라이더 스페셜</name>
+		<image>./boxart/Knight Rider Special (Japan).png</image>
+		<video>./snap/Knight Rider Special (Japan).mp4</video>
+		<developer>팩인 비디오</developer>
+		<publisher>팩인 비디오</publisher>
+		<players>1</players>
+		<releasedate>19891222T000000</releasedate>
+	</game>
+	<game>
+		<path>./Kore ga Pro Yakyuu '89 (Japan).zip</path>
+		<name>이것이 프로 야구 '89</name>
+		<image>./boxart/Kore ga Pro Yakyuu '89 (Japan).png</image>
+		<video>./snap/Kore ga Pro Yakyuu '89 (Japan).mp4</video>
+		<developer>토세</developer>
+		<publisher>인텍</publisher>
+		<releasedate>19891220T000000</releasedate>
+	</game>
+	<game>
+		<path>./Kore ga Pro Yakyuu '90 (Japan).zip</path>
+		<name>이것이 프로 야구 '90</name>
+		<image>./boxart/Kore ga Pro Yakyuu '90 (Japan).png</image>
+		<video>./snap/Kore ga Pro Yakyuu '90 (Japan).mp4</video>
+		<developer>토세</developer>
+		<publisher>인텍</publisher>
+		<releasedate>19900629T000000</releasedate>
+	</game>
+	<game>
+		<path>./Kung Fu, The (Japan).zip</path>
+		<name>더 쿵푸</name>
+		<image>./boxart/Kung Fu, The (Japan).png</image>
+		<video>./snap/Kung Fu, The (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>NEC</publisher>
+		<players>2</players>
+		<releasedate>19871121T000000</releasedate>
+	</game>
+	<game>
+		<path>./Kyuukyoku Tiger (Japan).zip</path>
+		<name>구극 타이거</name>
+		<image>./boxart/Kyuukyoku Tiger (Japan).png</image>
+		<video>./snap/Kyuukyoku Tiger (Japan).mp4</video>
+		<developer>토아플랜</developer>
+		<publisher>타이토</publisher>
+		<players>1</players>
+		<releasedate>19890331T000000</releasedate>
+	</game>
+	<game>
+		<path>./Legend of Hero Tonma (Japan).zip</path>
+		<name>레전드 오브 히어로 톤마</name>
+		<image>./boxart/Legend of Hero Tonma (Japan).png</image>
+		<video>./snap/Legend of Hero Tonma (Japan).mp4</video>
+		<developer>아이렘</developer>
+		<publisher>아이렘</publisher>
+		<players>2</players>
+		<releasedate>19910313T000000</releasedate>
+	</game>
+	<game>
+		<path>./Lode Runner - Lost Labyrinth (Japan).zip</path>
+		<name>로드 러너 - 로스트 라비린스</name>
+		<image>./boxart/Lode Runner - Lost Labyrinth (Japan).png</image>
+		<video>./snap/Lode Runner - Lost Labyrinth (Japan).mp4</video>
+		<developer>브로드번드</developer>
+		<publisher>팩인 비디오</publisher>
+		<players>1</players>
+		<releasedate>19900727T000000</releasedate>
+	</game>
+	<game>
+		<path>./Madou King Granzort (Japan).zip</path>
+		<name>마동왕 그랑조</name>
+		<image>./boxart/Madou King Granzort (Japan).png</image>
+		<video>./snap/Madou King Granzort (Japan).mp4</video>
+		<developer>선라이즈</developer>
+		<publisher>허드슨</publisher>
+		<players>1</players>
+		<releasedate>19900406T000000</releasedate>
+	</game>
+	<game>
+		<path>./Maerchen Maze (Japan).zip</path>
+		<name>메르헨 메이즈</name>
+		<image>./boxart/Maerchen Maze (Japan).png</image>
+		<video>./snap/Maerchen Maze (Japan).mp4</video>
+		<players>1</players>
+		<releasedate>19901211T000000</releasedate>
+	</game>
+	<game>
+		<path>./Magical Chase (Japan).zip</path>
+		<name>매지컬 체이스</name>
+		<image>./boxart/Magical Chase (Japan).png</image>
+		<video>./snap/Magical Chase (Japan).mp4</video>
+		<developer>퀘스트</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19911115T000000</releasedate>
+	</game>
+	<game>
+		<path>./Mahjong Gakuen - Touma Soushirou Toujou (Japan).zip</path>
+		<name>마작학원 - 토마 소시로 등장</name>
+		<image>./boxart/Mahjong Gakuen - Touma Soushirou Toujou (Japan).png</image>
+		<video>./snap/Mahjong Gakuen - Touma Soushirou Toujou (Japan).mp4</video>
+		<developer>참근도</developer>
+		<publisher>페이스</publisher>
+		<players>1</players>
+		<releasedate>19891124T000000</releasedate>
+	</game>
+	<game>
+		<path>./Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan).zip</path>
+		<name>마작학원 마일드 - 토마 소시로 등장</name>
+		<image>./boxart/Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan).png</image>
+		<video>./snap/Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan).mp4</video>
+		<developer>참근도</developer>
+		<publisher>페이스</publisher>
+		<players>1</players>
+		<releasedate>19900629T000000</releasedate>
+	</game>
+	<game>
+		<path>./Mahjong Gokuu Special (Japan).zip</path>
+		<name>마작학원 스페셜</name>
+		<image>./boxart/Mahjong Gokuu Special (Japan).png</image>
+		<video>./snap/Mahjong Gokuu Special (Japan).mp4</video>
+		<developer>선소프트</developer>
+		<publisher>선소프트</publisher>
+		<releasedate>19900810T000000</releasedate>
+	</game>
+	<game>
+		<path>./Mahjong Haouden - Kaiser's Quest (Japan).zip</path>
+		<name>마작패왕전 - 카이저스 퀘스트</name>
+		<image>./boxart/Mahjong Haouden - Kaiser's Quest (Japan).png</image>
+		<video>./snap/Mahjong Haouden - Kaiser's Quest (Japan).mp4</video>
+		<developer>UPL</developer>
+		<publisher>UPL</publisher>
+		<releasedate>19920228T000000</releasedate>
+	</game>
+	<game>
+		<path>./Mahjong Shikaku Retsuden - Mahjong Wars (Japan).zip</path>
+		<name>마작자객열전 - 마작 워즈</name>
+		<image>./boxart/Mahjong Shikaku Retsuden - Mahjong Wars (Japan).png</image>
+		<video>./snap/Mahjong Shikaku Retsuden - Mahjong Wars (Japan).mp4</video>
+		<developer>일본물산</developer>
+		<publisher>일본물산</publisher>
+		<releasedate>19900201T000000</releasedate>
+	</game>
+	<game>
+		<path>./Maison Ikkoku (Japan).zip</path>
+		<name>메종일각</name>
+		<image>./boxart/Maison Ikkoku (Japan).png</image>
+		<video>./snap/Maison Ikkoku (Japan).mp4</video>
+		<developer>마이크로캐빈</developer>
+		<publisher>마이크로캐빈</publisher>
+		<players>1</players>
+		<releasedate>19890804T000000</releasedate>
+	</game>
+	<game>
+		<path>./Makai Hakkenden Shada (Japan).zip</path>
+		<name>마계팔견전 샤다</name>
+		<image>./boxart/Makai Hakkenden Shada (Japan).png</image>
+		<video>./snap/Makai Hakkenden Shada (Japan).mp4</video>
+		<players>1</players>
+		<releasedate>19890401T000000</releasedate>
+	</game>
+	<game>
+		<path>./Makai Prince Dorabocchan (Japan).zip</path>
+		<name>마계 프린스 도라봇쨩</name>
+		<image>./boxart/Makai Prince Dorabocchan (Japan).png</image>
+		<video>./snap/Makai Prince Dorabocchan (Japan).mp4</video>
+		<developer>레드 컴퍼니</developer>
+		<publisher>낙삿 소프트</publisher>
+		<players>1</players>
+		<releasedate>19901221T000000</releasedate>
+	</game>
+	<game>
+		<path>./Makyou Densetsu (Japan).zip</path>
+		<name>마경전설</name>
+		<image>./boxart/Makyou Densetsu (Japan).png</image>
+		<video>./snap/Makyou Densetsu (Japan).mp4</video>
+		<developer>마블러스 인터랙티브</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19880923T000000</releasedate>
+	</game>
+	<game>
+		<path>./Maniac Pro Wres - Asu e no Tatakai (Japan).zip</path>
+		<name>매니악 프로 레슬링 - 내일을 향한 싸움</name>
+		<image>./boxart/Maniac Pro Wres - Asu e no Tatakai (Japan).png</image>
+		<video>./snap/Maniac Pro Wres - Asu e no Tatakai (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>2</players>
+		<releasedate>19900525T000000</releasedate>
+	</game>
+	<game>
+		<path>./Mashin Eiyuuden Wataru (Japan).zip</path>
+		<name>마신영웅전 와타루</name>
+		<image>./boxart/Mashin Eiyuuden Wataru (Japan).png</image>
+		<video>./snap/Mashin Eiyuuden Wataru (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19880830T000000</releasedate>
+	</game>
+	<game>
+		<path>./Mesopotamia (Japan).zip</path>
+		<name>메소포타미아</name>
+		<image>./boxart/Mesopotamia (Japan).png</image>
+		<video>./snap/Mesopotamia (Japan).mp4</video>
+		<developer>아틀러스</developer>
+		<publisher>아틀러스</publisher>
+		<players>1</players>
+		<releasedate>19911004T000000</releasedate>
+	</game>
+	<game>
+		<path>./Metal Stoker (Japan).zip</path>
+		<name>메탈 스토커</name>
+		<image>./boxart/Metal Stoker (Japan).png</image>
+		<video>./snap/Metal Stoker (Japan).mp4</video>
+		<developer>참근도</developer>
+		<publisher>페이스</publisher>
+		<players>1</players>
+		<releasedate>19910712T000000</releasedate>
+	</game>
+	<game>
+		<path>./Mizubaku Daibouken (Japan).zip</path>
+		<name>물 폭탄 대모험</name>
+		<image>./boxart/Mizubaku Daibouken (Japan).png</image>
+		<video>./snap/Mizubaku Daibouken (Japan).mp4</video>
+		<developer>타이토</developer>
+		<publisher>타이토</publisher>
+	</game>
+	<game>
+		<path>./Momotarou Densetsu Turbo (Japan).zip</path>
+		<name>모모타로 전설 터보</name>
+		<image>./boxart/Momotarou Densetsu Turbo (Japan).png</image>
+		<video>./snap/Momotarou Densetsu Turbo (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>1</players>
+		<releasedate>19900720T000000</releasedate>
+	</game>
+	<game>
+		<path>./Momotarou Katsugeki (Japan).zip</path>
+		<name>모모타로 활극</name>
+		<image>./boxart/Momotarou Katsugeki (Japan).png</image>
+		<video>./snap/Momotarou Katsugeki (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>1</players>
+		<releasedate>19900921T000000</releasedate>
+	</game>
+	<game>
+		<path>./Momotarou Densetsu II (Japan).zip</path>
+		<name>모모타로 전설 II</name>
+		<image>./boxart/Momotarou Densetsu II (Japan).png</image>
+		<video>./snap/Momotarou Densetsu II (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<releasedate>19901222T000000</releasedate>
+	</game>
+	<game>
+		<path>./Momotarou Densetsu Gaiden - Dai-1-shuu (Japan).zip</path>
+		<name>모모타로 전설 외전 - 제 1집</name>
+		<image>./boxart/Momotarou Densetsu Gaiden - Dai-1-shuu (Japan).png</image>
+		<video>./snap/Momotarou Densetsu Gaiden - Dai-1-shuu (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<releasedate>19921204T000000</releasedate>
+	</game>
+	<game>
+		<path>./Monster Pro Wres (Japan).zip</path>
+		<name>몬스터 프로 레슬링</name>
+		<image>./boxart/Monster Pro Wres (Japan).png</image>
+		<video>./snap/Monster Pro Wres (Japan).mp4</video>
+		<developer>리나</developer>
+		<publisher>ASK</publisher>
+		<players>1</players>
+		<releasedate>19911122T000000</releasedate>
+	</game>
+	<game>
+		<path>./Morita Shougi PC (Japan).zip</path>
+		<name>모리타 쇼기 PC</name>
+		<image>./boxart/Morita Shougi PC (Japan).png</image>
+		<video>./snap/Morita Shougi PC (Japan).mp4</video>
+		<developer>랜덤 하우스</developer>
+		<publisher>NEC 인터채널</publisher>
+		<releasedate>19910927T000000</releasedate>
+	</game>
+	<game>
+		<path>./Moto Roader (Japan).zip</path>
+		<name>모토 로더</name>
+		<image>./boxart/Moto Roader (Japan).png</image>
+		<video>./snap/Moto Roader (Japan).mp4</video>
+		<developer>NCS</developer>
+		<publisher>NEC</publisher>
+		<players>5</players>
+		<releasedate>19890223T000000</releasedate>
+	</game>
+	<game>
+		<path>./Moto Roader II (Japan).zip</path>
+		<name>모토 로더 II</name>
+		<image>./boxart/Moto Roader II (Japan).png</image>
+		<video>./snap/Moto Roader II (Japan).mp4</video>
+		<developer>NCS</developer>
+		<publisher>NCS</publisher>
+		<releasedate>19910329T000000</releasedate>
+	</game>
+	<game>
+		<path>./Mr. Heli no Daibouken (Japan).zip</path>
+		<name>미스터 헬리의 대모험</name>
+		<image>./boxart/Mr. Heli no Daibouken (Japan).png</image>
+		<video>./snap/Mr. Heli no Daibouken (Japan).mp4</video>
+		<developer>아이렘</developer>
+		<publisher>아이렘</publisher>
+		<players>1</players>
+		<releasedate>19891201T000000</releasedate>
+	</game>
+	<game>
+		<path>./Narazumono Sentou Butai - Bloody Wolf (Japan).zip</path>
+		<name>불량배 전투 부대 - 블러디 울프</name>
+		<image>./boxart/Narazumono Sentou Butai - Bloody Wolf (Japan).png</image>
+		<video>./snap/Narazumono Sentou Butai - Bloody Wolf (Japan).mp4</video>
+		<developer>데이터 이스트</developer>
+		<publisher>데이터 이스트</publisher>
+		<players>1</players>
+		<releasedate>19890901T000000</releasedate>
+	</game>
+	<game>
+		<path>./Naxat Open (Japan).zip</path>
+		<name>나그자트 오픈</name>
+		<image>./boxart/Naxat Open (Japan).png</image>
+		<video>./snap/Naxat Open (Japan).mp4</video>
+		<developer>낙삿 소프트</developer>
+		<publisher>낙삿 소프트</publisher>
+		<players>1</players>
+		<releasedate>19890530T000000</releasedate>
+	</game>
+	<game>
+		<path>./Naxat Stadium (Japan).zip</path>
+		<name>나그자트 스타디움</name>
+		<image>./boxart/Naxat Stadium (Japan).png</image>
+		<video>./snap/Naxat Stadium (Japan).mp4</video>
+		<developer>스팅</developer>
+		<publisher>낙삿 소프트</publisher>
+		<players>2</players>
+		<releasedate>19901026T000000</releasedate>
+	</game>
+	<game>
+		<path>./Nazo no Mascarade (Japan).zip</path>
+		<name>수수께끼의 마스카라드</name>
+		<image>./boxart/Nazo no Mascarade (Japan).png</image>
+		<video>./snap/Nazo no Mascarade (Japan).mp4</video>
+		<developer>리버힐 소프트</developer>
+		<publisher>NCS</publisher>
+		<releasedate>19900302T000000</releasedate>
+	</game>
+	<game>
+		<path>./Necros no Yousai (Japan).zip</path>
+		<name>네크로스의 요새</name>
+		<image>./boxart/Necros no Yousai (Japan).png</image>
+		<video>./snap/Necros no Yousai (Japan).mp4</video>
+		<developer>어드벤쳐 플래닝 서비스</developer>
+		<publisher>ASK</publisher>
+		<players>1</players>
+		<releasedate>19900420T000000</releasedate>
+	</game>
+	<game>
+		<path>./Nectaris (Japan).zip</path>
+		<name>넥타리스</name>
+		<image>./boxart/Nectaris (Japan).png</image>
+		<video>./snap/Nectaris (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>NEC</publisher>
+		<players>2</players>
+		<releasedate>19890209T000000</releasedate>
+	</game>
+	<game>
+		<path>./Nekketsu Koukou Dodgeball-bu - PC Bangai Hen (Japan).zip</path>
+		<name>열혈고교 돗지볼부 - PC 번외편</name>
+		<image>./boxart/Nekketsu Koukou Dodgeball-bu - PC Bangai Hen (Japan).png</image>
+		<video>./snap/Nekketsu Koukou Dodgeball-bu - PC Bangai Hen (Japan).mp4</video>
+		<developer>키드</developer>
+		<publisher>낙삿 소프트</publisher>
+		<players>2</players>
+		<releasedate>19900330T000000</releasedate>
+	</game>
+	<game>
+		<path>./Nekketsu Koukou Dodgeball-bu - PC Soccer Hen (Japan).zip</path>
+		<name>열혈고교 돗지볼부 - 사커 PC편</name>
+		<image>./boxart/Nekketsu Koukou Dodgeball-bu - PC Soccer Hen (Japan).png</image>
+		<video>./snap/Nekketsu Koukou Dodgeball-bu - PC Soccer Hen (Japan).mp4</video>
+		<developer>키드</developer>
+		<publisher>낙삿 소프트</publisher>
+		<players>2</players>
+		<releasedate>19900330T000000</releasedate>
+	</game>
+	<game>
+		<path>./Neutopia (Japan).zip</path>
+		<name>뉴토피아</name>
+		<image>./boxart/Neutopia (Japan).png</image>
+		<video>./snap/Neutopia (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19891117T000000</releasedate>
+	</game>
+	<game>
+		<path>./Neutopia II (Japan).zip</path>
+		<name>뉴토피아 II</name>
+		<image>./boxart/Neutopia II (Japan).png</image>
+		<video>./snap/Neutopia II (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>1</players>
+		<releasedate>19910927T000000</releasedate>
+	</game>
+	<game>
+		<path>./NewZealand Story, The (Japan).zip</path>
+		<name>더 뉴질랜드 스토리</name>
+		<image>./boxart/NewZealand Story, The (Japan).png</image>
+		<video>./snap/NewZealand Story, The (Japan).mp4</video>
+		<developer>타이토</developer>
+		<publisher>타이토</publisher>
+		<players>1</players>
+		<releasedate>19900223T000000</releasedate>
+	</game>
+	<game>
+		<path>./NHK Taiga Drama - Taiheiki (Japan).zip</path>
+		<name>NHK 대하 드라마 - 태평기</name>
+		<image>./boxart/NHK Taiga Drama - Taiheiki (Japan).png</image>
+		<video>./snap/NHK Taiga Drama - Taiheiki (Japan).mp4</video>
+		<developer>NHK</developer>
+		<publisher>NHK</publisher>
+		<releasedate>19920131T000000</releasedate>
+	</game>
+	<game>
+		<path>./Niko Niko Pun (Japan).zip</path>
+		<name>니코니코 풍</name>
+		<image>./boxart/Niko Niko Pun (Japan).png</image>
+		<video>./snap/Niko Niko Pun (Japan).mp4</video>
+		<developer>이스코</developer>
+		<publisher>NHK</publisher>
+		<players>1</players>
+		<releasedate>19911213T000000</releasedate>
+	</game>
+	<game>
+		<path>./Ninja Ryuukenden (Japan) (En,Ja,Zh).zip</path>
+		<name>닌자용검전</name>
+		<image>./boxart/Ninja Ryuukenden (Japan) (En,Ja,Zh).png</image>
+		<video>./snap/Ninja Ryuukenden (Japan) (En,Ja,Zh).mp4</video>
+		<developer>테크모</developer>
+		<publisher>허드슨</publisher>
+		<players>1</players>
+		<releasedate>19920124T000000</releasedate>
+	</game>
+	<game>
+		<path>./Ninja Warriors, The (Japan).zip</path>
+		<name>더 닌자 워리어즈</name>
+		<image>./boxart/Ninja Warriors, The (Japan).png</image>
+		<video>./snap/Ninja Warriors, The (Japan).mp4</video>
+		<developer>타이토</developer>
+		<publisher>타이토</publisher>
+		<players>1</players>
+		<releasedate>19890630T000000</releasedate>
+	</game>
+	<game>
+		<path>./Obocchama-kun (Japan).zip</path>
+		<name>오봇차마군</name>
+		<image>./boxart/Obocchama-kun (Japan).png</image>
+		<video>./snap/Obocchama-kun (Japan).mp4</video>
+		<developer>팩인 비디오</developer>
+		<publisher>남코</publisher>
+		<players>1</players>
+		<releasedate>19910315T000000</releasedate>
+	</game>
+	<game>
+		<path>./Operation Wolf (Japan).zip</path>
+		<name>오퍼레이션 울프</name>
+		<image>./boxart/Operation Wolf (Japan).png</image>
+		<video>./snap/Operation Wolf (Japan).mp4</video>
+		<developer>타이토</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19900831T000000</releasedate>
+	</game>
+	<game>
+		<path>./Ordyne (Japan).zip</path>
+		<name>오다인</name>
+		<image>./boxart/Ordyne (Japan).png</image>
+		<video>./snap/Ordyne (Japan).mp4</video>
+		<developer>남코</developer>
+		<publisher>NEC</publisher>
+		<players>2</players>
+		<releasedate>19890908T000000</releasedate>
+	</game>
+	<game>
+		<path>./Out Live (Japan).zip</path>
+		<name>아웃 라이브</name>
+		<image>./boxart/Out Live (Japan).png</image>
+		<video>./snap/Out Live (Japan).mp4</video>
+		<developer>선소프트</developer>
+		<publisher>선소프트</publisher>
+		<players>2</players>
+		<releasedate>19890317T000000</releasedate>
+	</game>
+	<game>
+		<path>./Out Run (Japan).zip</path>
+		<name>아웃 런</name>
+		<image>./boxart/Out Run (Japan).png</image>
+		<video>./snap/Out Run (Japan).mp4</video>
+		<developer>NEC</developer>
+		<publisher>세가</publisher>
+		<players>1</players>
+		<releasedate>19901221T000000</releasedate>
+	</game>
+	<game>
+		<path>./Override (Japan).zip</path>
+		<name>오버라이드</name>
+		<image>./boxart/Override (Japan).png</image>
+		<video>./snap/Override (Japan).mp4</video>
+		<developer>스팅</developer>
+		<publisher>데이터 이스트</publisher>
+		<players>1</players>
+		<releasedate>19910108T000000</releasedate>
+	</game>
+	<game>
+		<path>./P-47 - The Freedom Fighter (Japan).zip</path>
+		<name>P-47 - 더 프리덤 파이터</name>
+		<image>./boxart/P-47 - The Freedom Fighter (Japan).png</image>
+		<video>./snap/P-47 - The Freedom Fighter (Japan).mp4</video>
+		<developer>NMK</developer>
+		<publisher>에이콤</publisher>
+		<players>1</players>
+		<releasedate>19890320T000000</releasedate>
+	</game>
+	<game>
+		<path>./Pachio-kun - Juuban Shoubu (Japan).zip</path>
+		<name>파치오군 - 열번 승부</name>
+		<image>./boxart/Pachio-kun - Juuban Shoubu (Japan).png</image>
+		<video>./snap/Pachio-kun - Juuban Shoubu (Japan).mp4</video>
+		<developer>코코넛 재팬</developer>
+		<publisher>코코넛 재팬</publisher>
+		<releasedate>19920313T000000</releasedate>
+	</game>
+	<game>
+		<path>./Pac-Land (Japan).zip</path>
+		<name>팩 랜드</name>
+		<image>./boxart/Pac-Land (Japan).png</image>
+		<video>./snap/Pac-Land (Japan).mp4</video>
+		<developer>남코</developer>
+		<publisher>NEC</publisher>
+		<players>2</players>
+		<releasedate>19890601T000000</releasedate>
+	</game>
+	<game>
+		<path>./Paranoia (Japan).zip</path>
+		<name>파라노이아</name>
+		<image>./boxart/Paranoia (Japan).png</image>
+		<video>./snap/Paranoia (Japan).mp4</video>
+		<developer>낙삿 소프트</developer>
+		<publisher>NEC 인터채널</publisher>
+		<players>1</players>
+		<releasedate>19900301T000000</releasedate>
+	</game>
+	<game>
+		<path>./Parasol Stars - The Story of Bubble Bobble III (Japan).zip</path>
+		<name>파라솔 스타즈 - 더 스토리 오브 버블 보블 III</name>
+		<image>./boxart/Parasol Stars - The Story of Bubble Bobble III (Japan).png</image>
+		<video>./snap/Parasol Stars - The Story of Bubble Bobble III (Japan).mp4</video>
+		<developer>타이토</developer>
+		<publisher>워킹 디자인</publisher>
+		<players>2</players>
+		<releasedate>19910502T000000</releasedate>
+	</game>
+	<game>
+		<path>./Parodius Da! - Shinwa kara Owarai e (Japan).zip</path>
+		<name>파로디우스다! - 신화에서 웃음으로</name>
+		<image>./boxart/Parodius Da! - Shinwa kara Owarai e (Japan).png</image>
+		<video>./snap/Parodius Da! - Shinwa kara Owarai e (Japan).mp4</video>
+		<developer>코나미</developer>
+		<publisher>코나미</publisher>
+		<players>2</players>
+		<releasedate>19920221T000000</releasedate>
+	</game>
+	<game>
+		<path>./PC Denjin - Punkic Cyborgs (Japan).zip</path>
+		<name>PC 전인 - 펑킥 사이보그</name>
+		<image>./boxart/PC Denjin - Punkic Cyborgs (Japan).png</image>
+		<video>./snap/PC Denjin - Punkic Cyborgs (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>1</players>
+		<releasedate>19921212T000000</releasedate>
+	</game>
+	<game>
+		<path>./PC Genjin - Pithecanthropus Computerurus (Japan).zip</path>
+		<name>PC 원인 - 피테칸트로푸스 컴퓨터러스</name>
+		<image>./boxart/PC Genjin - Pithecanthropus Computerurus (Japan).png</image>
+		<video>./snap/PC Genjin - Pithecanthropus Computerurus (Japan).mp4</video>
+		<developer>아틀러스</developer>
+		<publisher>허드슨</publisher>
+		<players>1</players>
+		<releasedate>19891215T000000</releasedate>
+	</game>
+	<game>
+		<path>./PC Genjin 2 - Pithecanthropus Computerurus (Japan).zip</path>
+		<name>PC 원인 2 - 피테칸트로푸스 컴퓨터러스</name>
+		<image>./boxart/PC Genjin 2 - Pithecanthropus Computerurus (Japan).png</image>
+		<video>./snap/PC Genjin 2 - Pithecanthropus Computerurus (Japan).mp4</video>
+		<developer>레드 컴퍼니</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19910719T000000</releasedate>
+	</game>
+	<game>
+		<path>./PC Genjin 3 - Pithecanthropus Computerurus (Japan).zip</path>
+		<name>PC 원인 3 - 피테칸트로푸스 컴퓨터러스</name>
+		<image>./boxart/PC Genjin 3 - Pithecanthropus Computerurus (Japan).png</image>
+		<video>./snap/PC Genjin 3 - Pithecanthropus Computerurus (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>터보 테크놀리지</publisher>
+		<players>1</players>
+		<releasedate>19930402T000000</releasedate>
+	</game>
+	<game>
+		<path>./Populous (Japan).zip</path>
+		<name>파퓰러스</name>
+		<image>./boxart/Populous (Japan).png</image>
+		<video>./snap/Populous (Japan).mp4</video>
+		<developer>블프로그</developer>
+		<publisher>허드슨</publisher>
+		<players>1</players>
+		<releasedate>19910405T000000</releasedate>
+	</game>
+	<game>
+		<path>./Power Drift (Japan).zip</path>
+		<name>파워 드리프트</name>
+		<image>./boxart/Power Drift (Japan).png</image>
+		<video>./snap/Power Drift (Japan).mp4</video>
+		<developer>애스믹 에이스 엔터테인먼트</developer>
+		<publisher>세가</publisher>
+		<players>1</players>
+		<releasedate>19900413T000000</releasedate>
+	</game>
+	<game>
+		<path>./Power Eleven (Japan).zip</path>
+		<name>파워 일레븐</name>
+		<image>./boxart/Power Eleven (Japan).png</image>
+		<video>./snap/Power Eleven (Japan).mp4</video>
+		<developer>웨스트 원</developer>
+		<publisher>허드슨</publisher>
+		<players>2</players>
+		<releasedate>19910621T000000</releasedate>
+	</game>
+	<game>
+		<path>./Power Gate (Japan).zip</path>
+		<name>파워 게이트</name>
+		<image>./boxart/Power Gate (Japan).png</image>
+		<video>./snap/Power Gate (Japan).mp4</video>
+		<developer>메이크</developer>
+		<publisher>팩인 비디오</publisher>
+		<players>1</players>
+		<releasedate>19910830T000000</releasedate>
+	</game>
+	<game>
+		<path>./Power Golf (Japan).zip</path>
+		<name>파워 골프</name>
+		<image>./boxart/Power Golf (Japan).png</image>
+		<video>./snap/Power Golf (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>3</players>
+		<releasedate>19890525T000000</releasedate>
+	</game>
+	<game>
+		<path>./Power League (Japan).zip</path>
+		<name>파워 리그</name>
+		<image>./boxart/Power League (Japan).png</image>
+		<video>./snap/Power League (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>NEC 인터채널</publisher>
+		<players>2</players>
+		<releasedate>19880624T000000</releasedate>
+	</game>
+	<game>
+		<path>./Power League II (Japan).zip</path>
+		<name>파워 리그 II</name>
+		<image>./boxart/Power League II (Japan).png</image>
+		<video>./snap/Power League II (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>2</players>
+		<releasedate>19890808T000000</releasedate>
+	</game>
+	<game>
+		<path>./Power League III (Japan).zip</path>
+		<name>파워 리그 III</name>
+		<image>./boxart/Power League III (Japan).png</image>
+		<video>./snap/Power League III (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<releasedate>19900810T000000</releasedate>
+	</game>
+	<game>
+		<path>./Power League 4 (Japan).zip</path>
+		<name>파워 리그 4</name>
+		<image>./boxart/Power League 4 (Japan).png</image>
+		<video>./snap/Power League 4 (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>2</players>
+		<releasedate>19910809T000000</releasedate>
+	</game>
+	<game>
+		<path>./Power League 5 (Japan).zip</path>
+		<name>파워 리그 5</name>
+		<image>./boxart/Power League 5 (Japan).png</image>
+		<video>./snap/Power League 5 (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<releasedate>19920807T000000</releasedate>
+	</game>
+	<game>
+		<path>./Power League '93 (Japan).zip</path>
+		<name>파워 리그 '93</name>
+		<image>./boxart/Power League '93 (Japan).png</image>
+		<video>./snap/Power League '93 (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>2</players>
+		<releasedate>19931015T000000</releasedate>
+	</game>
+	<game>
+		<path>./Power Sports (Japan).zip</path>
+		<name>파워 스포츠</name>
+		<image>./boxart/Power Sports (Japan).png</image>
+		<video>./snap/Power Sports (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>5</players>
+		<releasedate>19921010T000000</releasedate>
+	</game>
+	<game>
+		<path>./Power Tennis (Japan).zip</path>
+		<name>파워 테니스</name>
+		<image>./boxart/Power Tennis (Japan).png</image>
+		<video>./snap/Power Tennis (Japan).mp4</video>
+		<developer>나우 프로덕션</developer>
+		<publisher>허드슨</publisher>
+		<players>4</players>
+		<releasedate>19930625T000000</releasedate>
+	</game>
+	<game>
+		<path>./Pro Tennis - World Court (Japan).zip</path>
+		<name>프로 테니스 - 월드 코트</name>
+		<image>./boxart/Pro Tennis - World Court (Japan).png</image>
+		<video>./snap/Pro Tennis - World Court (Japan).mp4</video>
+		<developer>남코</developer>
+		<publisher>NEC</publisher>
+		<players>4</players>
+		<releasedate>19880811T000000</releasedate>
+	</game>
+	<game>
+		<path>./Pro Yakyuu World Stadium (Japan).zip</path>
+		<name>프로 야구 월드 스타디움</name>
+		<image>./boxart/Pro Yakyuu World Stadium (Japan).png</image>
+		<video>./snap/Pro Yakyuu World Stadium (Japan).mp4</video>
+		<developer>남코</developer>
+		<publisher>남코</publisher>
+		<releasedate>19880520T000000</releasedate>
+	</game>
+	<game>
+		<path>./Pro Yakyuu World Stadium '91 (Japan).zip</path>
+		<name>프로 야구 월드 스타디움 '91</name>
+		<image>./boxart/Pro Yakyuu World Stadium '91 (Japan).png</image>
+		<video>./snap/Pro Yakyuu World Stadium '91 (Japan).mp4</video>
+		<developer>남코</developer>
+		<publisher>남코</publisher>
+		<releasedate>19910321T000000</releasedate>
+	</game>
+	<game>
+		<path>./Psycho Chaser (Japan).zip</path>
+		<name>사이코 체이서</name>
+		<image>./boxart/Psycho Chaser (Japan).png</image>
+		<video>./snap/Psycho Chaser (Japan).mp4</video>
+		<developer>스팅</developer>
+		<publisher>낙삿 소프트</publisher>
+		<players>1</players>
+		<releasedate>19900406T000000</releasedate>
+	</game>
+	<game>
+		<path>./Puzzle Boy (Japan).zip</path>
+		<name>퍼즐 보이</name>
+		<image>./boxart/Puzzle Boy (Japan).png</image>
+		<video>./snap/Puzzle Boy (Japan).mp4</video>
+		<developer>아틀러스</developer>
+		<publisher>니폰 텔넷</publisher>
+		<players>2</players>
+		<releasedate>19910222T000000</releasedate>
+	</game>
+	<game>
+		<path>./Puzznic (Japan).zip</path>
+		<name>퍼즈닉</name>
+		<image>./boxart/Puzznic (Japan).png</image>
+		<video>./snap/Puzznic (Japan).mp4</video>
+		<developer>타이토</developer>
+		<publisher>타이토</publisher>
+		<players>1</players>
+		<releasedate>19900629T000000</releasedate>
+	</game>
+	<game>
+		<path>./Rabio Lepus Special (Japan).zip</path>
+		<name>라비오 레푸스 스페셜</name>
+		<image>./boxart/Rabio Lepus Special (Japan).png</image>
+		<video>./snap/Rabio Lepus Special (Japan).mp4</video>
+		<developer>비디오 시스템</developer>
+		<publisher>비디오 시스템</publisher>
+		<players>1</players>
+		<releasedate>19901019T000000</releasedate>
+	</game>
+	<game>
+		<path>./Racing Damashii (Japan).zip</path>
+		<name>레이싱 혼</name>
+		<image>./boxart/Racing Damashii (Japan).png</image>
+		<video>./snap/Racing Damashii (Japan).mp4</video>
+		<developer>아이렘</developer>
+		<publisher>아이렘</publisher>
+		<players>2</players>
+		<releasedate>19910719T000000</releasedate>
+	</game>
+	<game>
+		<path>./Raiden (Japan).zip</path>
+		<name>라이덴</name>
+		<image>./boxart/Raiden (Japan).png</image>
+		<video>./snap/Raiden (Japan).mp4</video>
+		<developer>세이부 개발</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19911122T000000</releasedate>
+	</game>
+	<game>
+		<path>./Rastan Saga II (Japan).zip</path>
+		<name>라스탄 사가 II</name>
+		<image>./boxart/Rastan Saga II (Japan).png</image>
+		<video>./snap/Rastan Saga II (Japan).mp4</video>
+		<developer>타이토</developer>
+		<publisher>타이토</publisher>
+		<players>1</players>
+		<releasedate>19900706T000000</releasedate>
+	</game>
+	<game>
+		<path>./Rock-On (Japan).zip</path>
+		<name>록 온</name>
+		<image>./boxart/Rock-On (Japan).png</image>
+		<video>./snap/Rock-On (Japan).mp4</video>
+		<developer>만청당</developer>
+		<publisher>빅 클럽</publisher>
+		<players>1</players>
+		<releasedate>19890825T000000</releasedate>
+	</game>
+	<game>
+		<path>./R-Type I (Japan).zip</path>
+		<name>R-타입 I</name>
+		<image>./boxart/R-Type I (Japan).png</image>
+		<video>./snap/R-Type I (Japan).mp4</video>
+		<developer>아이렘</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19880325T000000</releasedate>
+	</game>
+	<game>
+		<path>./R-Type II (Japan).zip</path>
+		<name>R-타입 II</name>
+		<image>./boxart/R-Type II (Japan).png</image>
+		<video>./snap/R-Type II (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>1</players>
+		<releasedate>19880603T000000</releasedate>
+	</game>
+	<game>
+		<path>./Ryuukyuu (Japan).zip</path>
+		<name>류큐</name>
+		<image>./boxart/Ryuukyuu (Japan).png</image>
+		<video>./snap/Ryuukyuu (Japan).mp4</video>
+		<developer>참근도</developer>
+		<publisher>페이스</publisher>
+		<players>1</players>
+		<releasedate>19901026T000000</releasedate>
+	</game>
+	<game>
+		<path>./S.C.I. - Special Criminal Investigation (Japan).zip</path>
+		<name>S.C.I. - 스페셜 크리미널 인베스티게이션</name>
+		<image>./boxart/S.C.I. - Special Criminal Investigation (Japan).png</image>
+		<video>./snap/S.C.I. - Special Criminal Investigation (Japan).mp4</video>
+		<developer>타이토</developer>
+		<players>1</players>
+		<releasedate>19910125T000000</releasedate>
+	</game>
+	<game>
+		<path>./Sadakichi Seven - Hideyoshi no Ougon (Japan).zip</path>
+		<name>사다키치 세븐 - 히데요시의 황금</name>
+		<image>./boxart/Sadakichi Seven - Hideyoshi no Ougon (Japan).png</image>
+		<video>./snap/Sadakichi Seven - Hideyoshi no Ougon (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<releasedate>19881118T000000</releasedate>
+	</game>
+	<game>
+		<path>./Saigo no Nindou - Ninja Spirit (Japan).zip</path>
+		<name>최후의 인도 - 닌자 스피릿</name>
+		<image>./boxart/Saigo no Nindou - Ninja Spirit (Japan).png</image>
+		<video>./snap/Saigo no Nindou - Ninja Spirit (Japan).mp4</video>
+		<developer>아이렘</developer>
+		<publisher>아이렘</publisher>
+		<players>2</players>
+		<releasedate>19900706T000000</releasedate>
+	</game>
+	<game>
+		<path>./Salamander (Japan).zip</path>
+		<name>사라만다</name>
+		<image>./boxart/Salamander (Japan).png</image>
+		<video>./snap/Salamander (Japan).mp4</video>
+		<developer>코나미</developer>
+		<publisher>코나미</publisher>
+		<players>2</players>
+		<releasedate>19911206T000000</releasedate>
+	</game>
+	<game>
+		<path>./Sekigahara (Japan).zip</path>
+		<name>세키가하라</name>
+		<image>./boxart/Sekigahara (Japan).png</image>
+		<video>./snap/Sekigahara (Japan).mp4</video>
+		<developer>토킨하우스</developer>
+		<publisher>토킨하우스</publisher>
+		<releasedate>19900914T000000</releasedate>
+	</game>
+	<game>
+		<path>./Sengoku Mahjong (Japan).zip</path>
+		<name>전국마작</name>
+		<image>./boxart/Sengoku Mahjong (Japan).png</image>
+		<video>./snap/Sengoku Mahjong (Japan).mp4</video>
+		<releasedate>19880708T000000</releasedate>
+	</game>
+	<game>
+		<path>./Shanghai (Japan).zip</path>
+		<name>상해</name>
+		<image>./boxart/Shanghai (Japan).png</image>
+		<video>./snap/Shanghai (Japan).mp4</video>
+		<players>1</players>
+		<releasedate>19871030T000000</releasedate>
+	</game>
+	<game>
+		<path>./Shinobi (Japan).zip</path>
+		<name>시노비</name>
+		<image>./boxart/Shinobi (Japan).png</image>
+		<video>./snap/Shinobi (Japan).mp4</video>
+		<developer>애스믹 에이스 엔터테인먼트</developer>
+		<publisher>세가</publisher>
+		<players>1</players>
+		<releasedate>19891208T000000</releasedate>
+	</game>
+	<game>
+		<path>./Shiryou Sensen - War of the Dead (Japan).zip</path>
+		<name>사령전선 - 워 오브 더 데드</name>
+		<image>./boxart/Shiryou Sensen - War of the Dead (Japan).png</image>
+		<video>./snap/Shiryou Sensen - War of the Dead (Japan).mp4</video>
+		<publisher>핌 팩토리</publisher>
+		<players>1</players>
+		<releasedate>19890324T000000</releasedate>
+	</game>
+	<game>
+		<path>./Shougi Shodan Icchokusen (Japan).zip</path>
+		<name>쇼기 초단 일직선</name>
+		<image>./boxart/Shougi Shodan Icchokusen (Japan).png</image>
+		<video>./snap/Shougi Shodan Icchokusen (Japan).mp4</video>
+		<developer>옴데이터</developer>
+		<publisher>옴데이터</publisher>
+		<releasedate>19900810T000000</releasedate>
+	</game>
+	<game>
+		<path>./Shougi Shoshinsha Muyou (Japan).zip</path>
+		<name>쇼기 초심자 무용</name>
+		<image>./boxart/Shougi Shoshinsha Muyou (Japan).png</image>
+		<video>./snap/Shougi Shoshinsha Muyou (Japan).mp4</video>
+		<developer>옴데이터</developer>
+		<publisher>옴데이터</publisher>
+		<releasedate>19911129T000000</releasedate>
+	</game>
+	<game>
+		<path>./SideArms - Hyper Dyne (Japan).zip</path>
+		<name>사이드 암즈 - 하이퍼 다인</name>
+		<image>./boxart/SideArms - Hyper Dyne (Japan).png</image>
+		<video>./snap/SideArms - Hyper Dyne (Japan).mp4</video>
+		<developer>캡콤</developer>
+		<publisher>래디언스 소프트웨어</publisher>
+		<players>1</players>
+		<releasedate>19890714T000000</releasedate>
+	</game>
+	<game>
+		<path>./Silent Debuggers (Japan).zip</path>
+		<name>사일런트 디버거스</name>
+		<image>./boxart/Silent Debuggers (Japan).png</image>
+		<video>./snap/Silent Debuggers (Japan).mp4</video>
+		<developer>데이터 이스트</developer>
+		<publisher>NEC 인터채널</publisher>
+		<players>1</players>
+		<releasedate>19910329T000000</releasedate>
+	</game>
+	<game>
+		<path>./Sindibad - Chitei no Daimakyuu (Japan).zip</path>
+		<name>신바드 - 지저의 대마궁</name>
+		<image>./boxart/Sindibad - Chitei no Daimakyuu (Japan).png</image>
+		<video>./snap/Sindibad - Chitei no Daimakyuu (Japan).mp4</video>
+		<publisher>인포메이션 글로벌 서비스</publisher>
+		<players>1</players>
+		<releasedate>19900602T000000</releasedate>
+	</game>
+	<game>
+		<path>./Skweek (Japan).zip</path>
+		<name>스퀵</name>
+		<image>./boxart/Skweek (Japan).png</image>
+		<video>./snap/Skweek (Japan).mp4</video>
+		<developer>로리시엘</developer>
+		<publisher>빅터 뮤직 인더스트리</publisher>
+		<players>1</players>
+		<releasedate>19910802T000000</releasedate>
+	</game>
+	<game>
+		<path>./Soldier Blade (Japan).zip</path>
+		<name>솔저 블레이드</name>
+		<image>./boxart/Soldier Blade (Japan).png</image>
+		<video>./snap/Soldier Blade (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>1</players>
+		<releasedate>19920710T000000</releasedate>
+	</game>
+	<game>
+		<path>./Soldier Blade - Special Version (Japan).zip</path>
+		<name>솔저 블레이드 - 스페셜 버전</name>
+		<image>./boxart/Soldier Blade - Special Version (Japan).png</image>
+		<video>./snap/Soldier Blade - Special Version (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>1</players>
+		<releasedate>19920710T000000</releasedate>
+	</game>
+	<game>
+		<path>./Son Son II (Japan).zip</path>
+		<name>손 손 II</name>
+		<image>./boxart/Son Son II (Japan).png</image>
+		<video>./snap/Son Son II (Japan).mp4</video>
+		<developer>NEC</developer>
+		<publisher>캡콤</publisher>
+		<players>1</players>
+		<releasedate>19890127T000000</releasedate>
+	</game>
+	<game>
+		<path>./Soukoban World (Japan).zip</path>
+		<name>소코반 월드</name>
+		<image>./boxart/Soukoban World (Japan).png</image>
+		<video>./snap/Soukoban World (Japan).mp4</video>
+		<developer>NEC</developer>
+		<publisher>미디어링</publisher>
+		<players>2</players>
+		<releasedate>19900316T000000</releasedate>
+	</game>
+	<game>
+		<path>./Space Harrier (Japan).zip</path>
+		<name>스페이스 해리어</name>
+		<image>./boxart/Space Harrier (Japan).png</image>
+		<video>./snap/Space Harrier (Japan).mp4</video>
+		<developer>AM2연</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19881209T000000</releasedate>
+	</game>
+	<game>
+		<path>./Space Invaders - Fukkatsu no Hi (Japan).zip</path>
+		<name>스페이스 인베이더스 - 부활의 날</name>
+		<image>./boxart/Space Invaders - Fukkatsu no Hi (Japan).png</image>
+		<video>./snap/Space Invaders - Fukkatsu no Hi (Japan).mp4</video>
+		<developer>타이토</developer>
+		<publisher>타이토</publisher>
+		<players>1</players>
+		<releasedate>19900302T000000</releasedate>
+	</game>
+	<game>
+		<path>./Spin Pair (Japan).zip</path>
+		<name>스핀 페어</name>
+		<image>./boxart/Spin Pair (Japan).png</image>
+		<video>./snap/Spin Pair (Japan).mp4</video>
+		<developer>미디어 링즈</developer>
+		<publisher>미디어 링즈</publisher>
+		<players>2</players>
+		<releasedate>19901214T000000</releasedate>
+	</game>
+	<game>
+		<path>./Spiral Wave (Japan).zip</path>
+		<name>스파이럴 웨이브</name>
+		<image>./boxart/Spiral Wave (Japan).png</image>
+		<video>./snap/Spiral Wave (Japan).mp4</video>
+		<developer>미디어 링즈</developer>
+		<publisher>미디어 링즈</publisher>
+		<releasedate>19911213T000000</releasedate>
+	</game>
+	<game>
+		<path>./Splatterhouse (Japan) (En).zip</path>
+		<name>스플래터하우스</name>
+		<image>./boxart/Splatterhouse (Japan) (En).png</image>
+		<video>./snap/Splatterhouse (Japan) (En).mp4</video>
+		<developer>남코</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19900403T000000</releasedate>
+	</game>
+	<game>
+		<path>./Stratego (Japan).zip</path>
+		<name>스트라테고</name>
+		<image>./boxart/Stratego (Japan).png</image>
+		<video>./snap/Stratego (Japan).mp4</video>
+		<developer>어콜레이드</developer>
+		<publisher>빅터 인터랙티브</publisher>
+		<releasedate>19920724T000000</releasedate>
+	</game>
+	<game>
+		<path>./Street Fighter II' - Champion Edition (Japan).zip</path>
+		<name>스트리트 파이터 II' - 챔피언 에디션</name>
+		<image>./boxart/Street Fighter II' - Champion Edition (Japan).png</image>
+		<video>./snap/Street Fighter II' - Champion Edition (Japan).mp4</video>
+		<developer>캡콤</developer>
+		<publisher>NEC 인터채널</publisher>
+		<players>2</players>
+		<releasedate>19930612T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Metal Crusher (Japan).zip</path>
+		<name>슈퍼 메탈 크러셔</name>
+		<image>./boxart/Super Metal Crusher (Japan).png</image>
+		<video>./snap/Super Metal Crusher (Japan).mp4</video>
+		<developer>메이크</developer>
+		<publisher>팩인 비디오</publisher>
+		<players>2</players>
+		<releasedate>19911129T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Momotarou Dentetsu (Japan).zip</path>
+		<name>슈퍼 모모타로 전철</name>
+		<image>./boxart/Super Momotarou Dentetsu (Japan).png</image>
+		<video>./snap/Super Momotarou Dentetsu (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<releasedate>19890915T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Momotarou Dentetsu II (Japan).zip</path>
+		<name>슈퍼 모모타로 전철 II</name>
+		<image>./boxart/Super Momotarou Dentetsu II (Japan).png</image>
+		<video>./snap/Super Momotarou Dentetsu II (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<releasedate>19911220T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Star Soldier (Japan).zip</path>
+		<name>슈퍼 스타 솔저</name>
+		<image>./boxart/Super Star Soldier (Japan).png</image>
+		<video>./snap/Super Star Soldier (Japan).mp4</video>
+		<developer>인터스테이트</developer>
+		<publisher>허드슨</publisher>
+		<players>1</players>
+		<releasedate>19900706T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Volley Ball (Japan).zip</path>
+		<name>슈퍼 발리볼</name>
+		<image>./boxart/Super Volley Ball (Japan).png</image>
+		<video>./snap/Super Volley Ball (Japan).mp4</video>
+		<developer>비디오 시스템</developer>
+		<publisher>NEC</publisher>
+		<players>2</players>
+		<releasedate>19900207T000000</releasedate>
+	</game>
+	<game>
+		<path>./Susanoou Densetsu (Japan).zip</path>
+		<name>스사노오 전설</name>
+		<image>./boxart/Susanoou Densetsu (Japan).png</image>
+		<video>./snap/Susanoou Densetsu (Japan).mp4</video>
+		<developer>알파 시스템</developer>
+		<publisher>허드슨</publisher>
+		<players>2</players>
+		<releasedate>19890427T000000</releasedate>
+	</game>
+	<game>
+		<path>./Taito Chase H.Q. (Japan).zip</path>
+		<name>타이토 체이스 H.Q.</name>
+		<image>./boxart/Taito Chase H.Q. (Japan).png</image>
+		<video>./snap/Taito Chase H.Q. (Japan).mp4</video>
+		<developer>타이토</developer>
+		<publisher>타이토</publisher>
+		<players>1</players>
+		<releasedate>19900126T000000</releasedate>
+	</game>
+	<game>
+		<path>./Takahashi Meijin no Shin Bouken-jima (Japan).zip</path>
+		<name>타카하시 명인의 신 모험도</name>
+		<image>./boxart/Takahashi Meijin no Shin Bouken-jima (Japan).png</image>
+		<video>./snap/Takahashi Meijin no Shin Bouken-jima (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>1</players>
+		<releasedate>19920626T000000</releasedate>
+	</game>
+	<game>
+		<path>./Takeda Shingen (Japan).zip</path>
+		<name>타케다 신겐</name>
+		<image>./boxart/Takeda Shingen (Japan).png</image>
+		<video>./snap/Takeda Shingen (Japan).mp4</video>
+		<developer>에이콤</developer>
+		<publisher>에이콤</publisher>
+		<releasedate>19890728T000000</releasedate>
+	</game>
+	<game>
+		<path>./Tatsujin (Japan).zip</path>
+		<name>달인왕</name>
+		<image>./boxart/Tatsujin (Japan).png</image>
+		<video>./snap/Tatsujin (Japan).mp4</video>
+		<developer>스팅</developer>
+		<publisher>타이토</publisher>
+		<players>1</players>
+		<releasedate>19920724T000000</releasedate>
+	</game>
+	<game>
+		<path>./Tatsunoko Fighter (Japan).zip</path>
+		<name>타츠노코 파이터</name>
+		<image>./boxart/Tatsunoko Fighter (Japan).png</image>
+		<video>./snap/Tatsunoko Fighter (Japan).mp4</video>
+		<developer>어드벤스 커뮤니케이션 컴퍼니</developer>
+		<publisher>토킨하우스</publisher>
+		<releasedate>19891020T000000</releasedate>
+	</game>
+	<game>
+		<path>./Tenseiryuu - Saint Dragon (Japan).zip</path>
+		<name>천성룡 - 세인트 드래곤</name>
+		<image>./boxart/Tenseiryuu - Saint Dragon (Japan).png</image>
+		<video>./snap/Tenseiryuu - Saint Dragon (Japan).mp4</video>
+		<developer>NMK</developer>
+		<publisher>아이콤</publisher>
+		<players>1</players>
+		<releasedate>19901221T000000</releasedate>
+	</game>
+	<game>
+		<path>./Terra Cresta II - Mandoler no Gyakushuu (Japan).zip</path>
+		<name>테라 크레스타 II - 만도라의 역습</name>
+		<image>./boxart/Terra Cresta II - Mandoler no Gyakushuu (Japan).png</image>
+		<video>./snap/Terra Cresta II - Mandoler no Gyakushuu (Japan).mp4</video>
+		<developer>일본물산</developer>
+		<publisher>일본물산</publisher>
+		<players>1</players>
+		<releasedate>19921127T000000</releasedate>
+	</game>
+	<game>
+		<path>./Thunder Blade (Japan).zip</path>
+		<name>썬더 블레이드</name>
+		<image>./boxart/Thunder Blade (Japan).png</image>
+		<video>./snap/Thunder Blade (Japan).mp4</video>
+		<developer>NEC</developer>
+		<publisher>세가</publisher>
+		<players>1</players>
+		<releasedate>19901207T000000</releasedate>
+	</game>
+	<game>
+		<path>./Time Cruise II (Japan).zip</path>
+		<name>타임 크루즈 II</name>
+		<image>./boxart/Time Cruise II (Japan).png</image>
+		<video>./snap/Time Cruise II (Japan).mp4</video>
+		<developer>페이스</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19911108T000000</releasedate>
+	</game>
+	<game>
+		<path>./Titan (Japan).zip</path>
+		<name>타이탄</name>
+		<image>./boxart/Titan (Japan).png</image>
+		<video>./snap/Titan (Japan).mp4</video>
+		<developer>낙삿 소프트</developer>
+		<publisher>티투스</publisher>
+		<players>1</players>
+		<releasedate>19910315T000000</releasedate>
+	</game>
+	<game>
+		<path>./Toilet Kids (Japan).zip</path>
+		<name>토일렛 키즈</name>
+		<image>./boxart/Toilet Kids (Japan).png</image>
+		<video>./snap/Toilet Kids (Japan).mp4</video>
+		<developer>비츠 랩</developer>
+		<publisher>미디어 링즈</publisher>
+		<players>2</players>
+		<releasedate>19920306T000000</releasedate>
+	</game>
+	<game>
+		<path>./Tora e no Michi (Japan).zip</path>
+		<name>호랑이로 가는 길</name>
+		<image>./boxart/Tora e no Michi (Japan).png</image>
+		<video>./snap/Tora e no Michi (Japan).mp4</video>
+		<developer>고</developer>
+		<publisher>캡콤</publisher>
+		<players>1</players>
+		<releasedate>19900223T000000</releasedate>
+	</game>
+	<game>
+		<path>./Tower of Druaga, The (Japan).zip</path>
+		<name>더 타워 오브 드루아가</name>
+		<image>./boxart/Tower of Druaga, The (Japan).png</image>
+		<video>./snap/Tower of Druaga, The (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Toy Shop Boys (Japan).zip</path>
+		<name>토이 숍 보이즈</name>
+		<image>./boxart/Toy Shop Boys (Japan).png</image>
+		<video>./snap/Toy Shop Boys (Japan).mp4</video>
+		<developer>빅터 뮤직 인더스트리</developer>
+		<publisher>빅터 뮤직 인더스트리</publisher>
+		<players>2</players>
+		<releasedate>19901214T000000</releasedate>
+	</game>
+	<game>
+		<path>./Tricky (Japan).zip</path>
+		<name>트리키</name>
+		<image>./boxart/Tricky (Japan).png</image>
+		<video>./snap/Tricky (Japan).mp4</video>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<players>1</players>
+		<releasedate>19910706T000000</releasedate>
+	</game>
+	<game>
+		<path>./Tsuppari Oozumou - Heisei Ban (Japan).zip</path>
+		<name>밀어붙이기 스모</name>
+		<image>./boxart/Tsuppari Oozumou - Heisei Ban (Japan).png</image>
+		<video>./snap/Tsuppari Oozumou - Heisei Ban (Japan).mp4</video>
+		<developer>낙삿 소프트</developer>
+		<publisher>낙삿 소프트</publisher>
+		<releasedate>19930219T000000</releasedate>
+	</game>
+	<game>
+		<path>./Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan).zip</path>
+		<name>츠루 테루히토의 실전 주식배 바이 바이 게임</name>
+		<image>./boxart/Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan).png</image>
+		<video>./snap/Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan).mp4</video>
+		<developer>토세</developer>
+		<publisher>인텍</publisher>
+		<releasedate>19891101T000000</releasedate>
+	</game>
+	<game>
+		<path>./TV Sports Basketball (Japan).zip</path>
+		<name>TV 스포츠 베스킷볼</name>
+		<image>./boxart/TV Sports Basketball (Japan).png</image>
+		<video>./snap/TV Sports Basketball (Japan).mp4</video>
+		<developer>시네웨이브</developer>
+		<publisher>NEC</publisher>
+		<players>5</players>
+		<releasedate>19910101T000000</releasedate>
+	</game>
+	<game>
+		<path>./TV Sports Football (Japan).zip</path>
+		<name>TV 스포츠 풋볼</name>
+		<image>./boxart/TV Sports Football (Japan).png</image>
+		<video>./snap/TV Sports Football (Japan).mp4</video>
+		<developer>시네웨이브</developer>
+		<publisher>NEC</publisher>
+		<players>5</players>
+		<releasedate>19910329T000000</releasedate>
+	</game>
+	<game>
+		<path>./TV Sports Hockey (Japan).zip</path>
+		<name>TV 스포츠 하키</name>
+		<image>./boxart/TV Sports Hockey (Japan).png</image>
+		<video>./snap/TV Sports Hockey (Japan).mp4</video>
+		<developer>시네웨이브</developer>
+		<publisher>NEC</publisher>
+		<players>5</players>
+		<releasedate>19930429T000000</releasedate>
+	</game>
+	<game>
+		<path>./USA Pro Basketball (Japan).zip</path>
+		<name>USA 프로 베스킷볼</name>
+		<image>./boxart/USA Pro Basketball (Japan).png</image>
+		<video>./snap/USA Pro Basketball (Japan).mp4</video>
+		<developer>에이콤</developer>
+		<publisher>NEC</publisher>
+		<releasedate>19891201T000000</releasedate>
+	</game>
+	<game>
+		<path>./Valkyrie no Densetsu (Japan).zip</path>
+		<name>발키리의 전설</name>
+		<image>./boxart/Valkyrie no Densetsu (Japan).png</image>
+		<video>./snap/Valkyrie no Densetsu (Japan).mp4</video>
+		<developer>남코</developer>
+		<publisher>남코</publisher>
+		<players>1</players>
+		<releasedate>19900809T000000</releasedate>
+	</game>
+	<game>
+		<path>./Veigues - Tactical Gladiator (Japan).zip</path>
+		<name>베이구스 - 택티컬 글라디에이터</name>
+		<image>./boxart/Veigues - Tactical Gladiator (Japan).png</image>
+		<video>./snap/Veigues - Tactical Gladiator (Japan).mp4</video>
+		<developer>게임 아츠</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19900629T000000</releasedate>
+	</game>
+	<game>
+		<path>./Victory Run - Eikou no 13,000km (Japan).zip</path>
+		<name>빅토리 런 - 영광의 13,000km</name>
+		<image>./boxart/Victory Run - Eikou no 13,000km (Japan).png</image>
+		<video>./snap/Victory Run - Eikou no 13,000km (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>1</players>
+		<releasedate>19871228T000000</releasedate>
+	</game>
+	<game>
+		<path>./Vigilante (Japan).zip</path>
+		<name>비질란테</name>
+		<image>./boxart/Vigilante (Japan).png</image>
+		<video>./snap/Vigilante (Japan).mp4</video>
+		<developer>NEC</developer>
+		<publisher>아이렘</publisher>
+		<players>1</players>
+		<releasedate>19890114T000000</releasedate>
+	</game>
+	<game>
+		<path>./Violent Soldier (Japan).zip</path>
+		<name>바이올런트 솔저</name>
+		<image>./boxart/Violent Soldier (Japan).png</image>
+		<video>./snap/Violent Soldier (Japan).mp4</video>
+		<developer>인포메이션 글로벌 서비스</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19901214T000000</releasedate>
+	</game>
+	<game>
+		<path>./Volfied (Japan).zip</path>
+		<name>볼피드</name>
+		<image>./boxart/Volfied (Japan).png</image>
+		<video>./snap/Volfied (Japan).mp4</video>
+		<developer>타이토</developer>
+		<publisher>엠파이어 인터랙티브</publisher>
+		<players>1</players>
+		<releasedate>19891227T000000</releasedate>
+	</game>
+	<game>
+		<path>./Wai Wai Mahjong - Yukai na Janyuu-tachi (Japan).zip</path>
+		<name>와글와글 마작 - 유쾌한 마작 친구들</name>
+		<image>./boxart/Wai Wai Mahjong - Yukai na Janyuu-tachi (Japan).png</image>
+		<video>./snap/Wai Wai Mahjong - Yukai na Janyuu-tachi (Japan).mp4</video>
+		<developer>비디오 시스템</developer>
+		<publisher>비디오 시스템</publisher>
+		<releasedate>19890619T000000</releasedate>
+	</game>
+	<game>
+		<path>./Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan).zip</path>
+		<name>왈라비!! - 토끼 나라의 캥거루 레이스</name>
+		<image>./boxart/Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan).png</image>
+		<video>./snap/Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan).mp4</video>
+		<developer>텐키</developer>
+		<publisher>NCS</publisher>
+		<releasedate>19901214T000000</releasedate>
+	</game>
+	<game>
+		<path>./Winning Shot (Japan).zip</path>
+		<name>위닝 샷</name>
+		<image>./boxart/Winning Shot (Japan).png</image>
+		<video>./snap/Winning Shot (Japan).mp4</video>
+		<developer>데이터 이스트</developer>
+		<publisher>데이터 이스트</publisher>
+		<releasedate>19890303T000000</releasedate>
+	</game>
+	<game>
+		<path>./Wonder Momo (Japan).zip</path>
+		<name>원더 모모</name>
+		<image>./boxart/Wonder Momo (Japan).png</image>
+		<video>./snap/Wonder Momo (Japan).mp4</video>
+		<developer>남코</developer>
+		<publisher>남코</publisher>
+		<players>1</players>
+		<releasedate>19890421T000000</releasedate>
+	</game>
+	<game>
+		<path>./World Beach Volley (Japan).zip</path>
+		<name>월드 비치 발리</name>
+		<image>./boxart/World Beach Volley (Japan).png</image>
+		<video>./snap/World Beach Volley (Japan).mp4</video>
+		<developer>인포메이션 글로벌 서비스</developer>
+		<publisher>인포메이션 글로벌 서비스</publisher>
+		<players>2</players>
+		<releasedate>19900727T000000</releasedate>
+	</game>
+	<game>
+		<path>./World Circuit (Japan).zip</path>
+		<name>월드 서킷</name>
+		<image>./boxart/World Circuit (Japan).png</image>
+		<video>./snap/World Circuit (Japan).mp4</video>
+		<developer>게임스튜디오</developer>
+		<publisher>남코</publisher>
+		<players>2</players>
+		<releasedate>19911018T000000</releasedate>
+	</game>
+	<game>
+		<path>./World Jockey (Japan).zip</path>
+		<name>월드 자키</name>
+		<image>./boxart/World Jockey (Japan).png</image>
+		<video>./snap/World Jockey (Japan).mp4</video>
+		<developer>남코</developer>
+		<publisher>남코</publisher>
+		<players>4</players>
+		<releasedate>19910920T000000</releasedate>
+	</game>
+	<game>
+		<path>./W-Ring - The Double Rings (Japan).zip</path>
+		<name>W-링 - 더 더블 링스</name>
+		<image>./boxart/W-Ring - The Double Rings (Japan).png</image>
+		<video>./snap/W-Ring - The Double Rings (Japan).mp4</video>
+		<developer>낙삿 소프트</developer>
+		<publisher>낙삿 소프트</publisher>
+		<players>1</players>
+		<releasedate>19900928T000000</releasedate>
+	</game>
+	<game>
+		<path>./Xevious - Fardraut Saga (Japan).zip</path>
+		<name>제비우스 - 파드라우트 사가</name>
+		<image>./boxart/Xevious - Fardraut Saga (Japan).png</image>
+		<video>./snap/Xevious - Fardraut Saga (Japan).mp4</video>
+		<developer>컴파일</developer>
+		<publisher>남코</publisher>
+		<players>1</players>
+		<releasedate>19900629T000000</releasedate>
+	</game>
+	<game>
+		<path>./Youkai Douchuuki (Japan).zip</path>
+		<name>요괴도중기</name>
+		<image>./boxart/Youkai Douchuuki (Japan).png</image>
+		<video>./snap/Youkai Douchuuki (Japan).mp4</video>
+		<developer>남코</developer>
+		<publisher>남코</publisher>
+		<players>1</players>
+		<releasedate>19880205T000000</releasedate>
+	</game>
+	<game>
+		<path>./You-You Jinsei (Japan).zip</path>
+		<name>유유인생</name>
+		<image>./boxart/You-You Jinsei (Japan).png</image>
+		<video>./snap/You-You Jinsei (Japan).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<releasedate>19880422T000000</releasedate>
+	</game>
+	<game>
+		<path>./Zero4 Champ (Japan).zip</path>
+		<name>제로 4 챔프</name>
+		<image>./boxart/Zero4 Champ (Japan).png</image>
+		<video>./snap/Zero4 Champ (Japan).mp4</video>
+		<developer>미디어링</developer>
+		<publisher>미디어링</publisher>
+		<players>1</players>
+		<releasedate>19910308T000000</releasedate>
+	</game>
+	<game>
+		<path>./Zipang (Japan).zip</path>
+		<name>지팡구</name>
+		<image>./boxart/Zipang (Japan).png</image>
+		<video>./snap/Zipang (Japan).mp4</video>
+		<developer>아크 시스템 웍스</developer>
+		<publisher>팩인 비디오</publisher>
+		<players>1</players>
+		<releasedate>19901214T000000</releasedate>
+	</game>
+</gameList>

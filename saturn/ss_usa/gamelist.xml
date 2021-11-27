@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+* 원본 자료 출처 
+  https://dsno.tistory.com/7489
+  2020.3.13 [신 메뉴] 새턴 게임 모음
+  새턴 (북미판)
+
+* 위키페디아(https://en.wikipedia.org/wiki/List_of_Sega_Saturn_games)의 Games 카테고리 참조
+* 라이센스 : MIT
+* 작성자 : 브리티쉬 (british2@naver.com)
+-->
+<gameList>
+	<game>
+		<path>./Contra-Legacy_of_War_USA.chd</path>
+		<name>콘트라 - 레거시 오브 워</name>
+		<image>./boxart/Contra-Legacy_of_War.png</image>
+		<video>./snap/Contra-Legacy_of_War_USA.mp4</video>
+		<developer>Appaloosa Interactive</developer>
+		<publisher>Konami</publisher>
+		<genre>플랫폼 / 사격</genre>
+		<releasedate>19970521</releasedate>
+	</game>
+	<game>
+		<path>./Galactic_Attack_USA.chd</path>
+		<name>갤럭틱 어택</name>
+		<image>./boxart/Galactic_Attack.png</image>
+		<video>./snap/Galactic_Attack.mp4</video>
+		<developer>Taito/developer>
+		<publisher>Acclaim</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<releasedate>19951201</releasedate>
+	</game>
+	<game>
+		<path>./Golden_Axe-The_Duel_USA.chd</path>
+		<name>골든 액스 - 더 듀얼</name>
+		<image>./boxart/Golden_Axe-The_Duel.png</image>
+		<video>./snap/Golden_Axe-The_Duel.mp4</video>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>격투 / 아케이드</genre>
+		<releasedate>19960627</releasedate>
+	</game>
+	<game>
+		<path>./Street_Fighter_Alpha_2_USA.chd</path>
+		<name>스트리트 파이터 알파 2</name>
+		<image>./boxart/Street_Fighter_Alpha_2.png</image>
+		<video>./snap/Street_Fighter_Alpha_2.mp4</video>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>격투 / 대전</genre>
+		<releasedate>19961101</releasedate>
+	</game>
+	<game>
+		<path>./Ultimate_Mortal_Kombat_3_USA.chd</path>
+		<name>얼티밋 모탈 컴뱃 3</name>
+		<image>./boxart/Ultimate_Mortal_Kombat_3.png</image>
+		<video>./snap/Ultimate_Mortal_Kombat_3.mp4</video>
+		<developer>Eurocom</developer>
+		<publisher>Williams</publisher>
+		<genre>격투 / 대전</genre>
+		<releasedate>19960627</releasedate>
+	</game>
+	<game>
+		<path>./yabasanshiro/backup.bin</path>
+		<hidden>true</hidden>
+	</game>
+</gameList>

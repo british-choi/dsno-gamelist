@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+* 원본 자료 출처 
+  https://dsno.tistory.com/7489
+  2020.3.13 [신 메뉴] 새턴 게임 모음
+
+* 위키페디아(https://en.wikipedia.org/wiki/List_of_Sega_Saturn_games)의 Games 카테고리 참조
+* 라이센스 : MIT
+* 작성자 : 브리티쉬 (british2@naver.com)
+-->
+<gameList>
+	<!--
+		새턴 (일본판)
+	-->
+	<folder>
+		<path>./ss_jap</path>
+		<name>새턴 (일본판)</name>
+		<image>./boxart/saturn.png</image>
+	</folder>
+	<game>
+		<path>./ss_jap/Game_Tengoku_JAP.chd</path>
+		<name>게임천국</name>
+		<image>./ss_jap/boxart/Game_Tengoku.png</image>
+		<video>./ss_jap/snap/Game_Tengoku.mp4</video>
+		<developer>Jaleco</developer>
+		<publisher>Jaleco</publisher>
+		<genre>슈팅 / 수평 비행</genre>
+		<releasedate>19970606</releasedate>
+	</game>
+	<game>
+		<path>./ss_jap/Gokujou_Parodius_Da_Deluxe_Pack_JAP.chd</path>
+		<name>극상 파로디우스 다! 디럭스 팩</name>
+		<image>./ss_jap/boxart/Gokujou_Parodius_Da_Deluxe_Pack.png</image>
+		<video>./ss_jap/snap/Gokujou_Parodius_Da_Deluxe_Pack.mp4</video>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>슈팅 / 수평 비행</genre>
+		<releasedate>19950519</releasedate>
+	</game>
+	<game>
+		<path>./ss_jap/Guardian_Heroes_JAP.chd</path>
+		<name>가디언 히어로즈</name>
+		<image>./ss_jap/boxart/Guardian_Heroes.png</image>
+		<video>./ss_jap/snap/Guardian_Heroes.mp4</video>
+		<developer>Treasure</developer>
+		<publisher>Sega</publisher>
+		<genre>액션 롤플레잉</genre>
+		<releasedate>19960129</releasedate>
+	</game>
+	<game>
+		<path>./ss_jap/Mahou_Kishi_Rayearth_JAP.chd</path>
+		<name>마법기사 레이어스</name>
+		<image>./ss_jap/boxart/Mahou_Kishi_Rayearth.png</image>
+		<video>./ss_jap/snap/Mahou_Kishi_Rayearth.mp4</video>
+		<developer>Sega</developer>
+		<publisher>Working Designs</publisher>
+		<genre>액션 롤플레잉</genre>
+		<releasedate>19950825</releasedate>
+	</game>
+	<game>
+		<path>./ss_jap/Thunder_Force_V_JAP.chd</path>
+		<name>썬더 포스 V</name>
+		<image>./ss_jap/boxart/Thunder_Force_V.png</image>
+		<video>./ss_jap/snap/Thunder_Force_V.mp4</video>
+		<developer>Technosoft</developer>
+		<publisher>Technosoft</publisher>
+		<genre>슈팅 / 수평 비행</genre>
+		<releasedate>19970711</releasedate>
+	</game>
+	<game>
+		<path>./ss_jap/yabasanshiro/backup.bin</path>
+		<hidden>true</hidden>
+	</game>
+	<!--
+		새턴 (한국판)
+	-->
+	<folder>
+		<path>./ss_kor</path>
+		<name>새턴 (한국판)</name>
+		<image>./boxart/saturn.png</image>
+	</folder>
+	<game>
+		<path>./ss_kor/Albert_Odysset_Gaiden-Legend_of_Eldean_KOR.chd</path>
+		<name>알버트 오딧세이 외전 - 레전드 오브 엘딘</name>
+		<image>./ss_kor/boxart/Albert_Odysset_Gaiden-Legend_of_Eldean.png</image>
+		<video>./ss_kor/snap/Albert_Odysset_Gaiden-Legend_of_Eldean.mp4</video>
+		<developer>Sunsoft</developer>
+		<publisher>Working Designs</publisher>
+		<genre>롤플레잉</genre>
+		<releasedate>19970724</releasedate>
+	</game>
+	<game>
+		<path>./ss_kor/Myst_KOR.chd</path>
+		<name>미스트</name>
+		<image>./ss_kor/boxart/Myst.png</image>
+		<video>./ss_kor/snap/Myst.mp4</video>
+		<developer>Sunsoft</developer>
+		<publisher>Acclaim Entertainment</publisher>
+		<genre>어드벤처</genre>
+		<releasedate>19950901</releasedate>
+	</game>
+	<game>
+		<path>./ss_kor/NiGHTS_Into_Dreams_KOR.chd</path>
+		<name>나이츠 인투 드림스</name>
+		<image>./ss_kor/boxart/NiGHTS_Into_Dreams.png</image>
+		<video>./ss_kor/snap/NiGHTS_Into_Dreams.mp4</video>
+		<developer>Sonic Team</developer>
+		<publisher>Sega</publisher>
+		<genre>액션</genre>
+		<releasedate>19960823</releasedate>
+	</game>
+	<game>
+		<path>./ss_kor/Sangokushi_IV_KOR.chd</path>
+		<name>삼국지 IV</name>
+		<image>./ss_kor/boxart/Sangokushi_IV.png</image>
+		<video>./ss_kor/snap/Sangokushi_IV.mp4</video>
+		<developer>Koei</developer>
+		<publisher>Koei</publisher>
+		<genre>전략 시뮬레이션</genre>
+		<releasedate>1995</releasedate>
+	</game>
+	<game>
+		<path>./ss_kor/Shinpi_no_Sekai_El-Hazard_KOR.chd</path>
+		<name>신비의 세계 - 엘하자드</name>
+		<image>./ss_kor/boxart/Shinpi_no_Sekai_El-Hazard.png</image>
+		<video>./ss_kor/snap/Shinpi_no_Sekai_El-Hazard.mp4</video>
+		<developer>Tamtam</developer>
+		<publisher>Pioneer LDC</publisher>
+		<genre></genre>
+		<releasedate>19960809</releasedate>
+	</game>
+	<game>
+		<path>./ss_kor/yabasanshiro/backup.bin</path>
+		<hidden>true</hidden>
+	</game>
+	<!--
+		새턴 (북미판)
+	-->
+	<folder>
+		<path>./ss_usa</path>
+		<name>새턴 (북미판)</name>
+		<image>./boxart/saturn.png</image>
+	</folder>
+	<game>
+		<path>./ss_usa/Contra-Legacy_of_War_USA.chd</path>
+		<name>콘트라 - 레거시 오브 워</name>
+		<image>./ss_usa/boxart/Contra-Legacy_of_War.png</image>
+		<video>./ss_usa/snap/Contra-Legacy_of_War_USA.mp4</video>
+		<developer>Appaloosa Interactive</developer>
+		<publisher>Konami</publisher>
+		<genre>플랫폼 / 사격</genre>
+		<releasedate>19970521</releasedate>
+	</game>
+	<game>
+		<path>./ss_usa/Galactic_Attack_USA.chd</path>
+		<name>갤럭틱 어택</name>
+		<image>./ss_usa/boxart/Galactic_Attack.png</image>
+		<video>./ss_usa/snap/Galactic_Attack.mp4</video>
+		<developer>Taito/developer>
+		<publisher>Acclaim</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<releasedate>19951201</releasedate>
+	</game>
+	<game>
+		<path>./ss_usa/Golden_Axe-The_Duel_USA.chd</path>
+		<name>골든 액스 - 더 듀얼</name>
+		<image>./ss_usa/boxart/Golden_Axe-The_Duel.png</image>
+		<video>./ss_usa/snap/Golden_Axe-The_Duel.mp4</video>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>격투 / 아케이드</genre>
+		<releasedate>19960627</releasedate>
+	</game>
+	<game>
+		<path>./ss_usa/Street_Fighter_Alpha_2_USA.chd</path>
+		<name>스트리트 파이터 알파 2</name>
+		<image>./ss_usa/boxart/Street_Fighter_Alpha_2.png</image>
+		<video>./ss_usa/snap/Street_Fighter_Alpha_2.mp4</video>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>격투 / 대전</genre>
+		<releasedate>19961101</releasedate>
+	</game>
+	<game>
+		<path>./ss_usa/Ultimate_Mortal_Kombat_3_USA.chd</path>
+		<name>얼티밋 모탈 컴뱃 3</name>
+		<image>./ss_usa/boxart/Ultimate_Mortal_Kombat_3.png</image>
+		<video>./ss_usa/snap/Ultimate_Mortal_Kombat_3.mp4</video>
+		<developer>Eurocom</developer>
+		<publisher>Williams</publisher>
+		<genre>격투 / 대전</genre>
+		<releasedate>19960627</releasedate>
+	</game>
+	<game>
+		<path>./ss_usa/yabasanshiro/backup.bin</path>
+		<hidden>true</hidden>
+	</game>
+</gameList>

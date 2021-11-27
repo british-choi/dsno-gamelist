@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+* 원본 자료 출처 
+  https://dsno.tistory.com/7489
+  2020.3.13 [신 메뉴] 새턴 게임 모음
+  새턴 (일본판)
+
+* 위키페디아(https://en.wikipedia.org/wiki/List_of_Sega_Saturn_games)의 Games 카테고리 참조
+* 라이센스 : MIT
+* 작성자 : 브리티쉬 (british2@naver.com)
+-->
+<gameList>
+	<game>
+		<path>./Game_Tengoku_JAP.chd</path>
+		<name>게임천국</name>
+		<image>./boxart/Game_Tengoku.png</image>
+		<video>./snap/Game_Tengoku.mp4</video>
+		<developer>Jaleco</developer>
+		<publisher>Jaleco</publisher>
+		<genre>슈팅 / 수평 비행</genre>
+		<releasedate>19970606</releasedate>
+	</game>
+	<game>
+		<path>./Gokujou_Parodius_Da_Deluxe_Pack_JAP.chd</path>
+		<name>극상 파로디우스 다! 디럭스 팩</name>
+		<image>./boxart/Gokujou_Parodius_Da_Deluxe_Pack.png</image>
+		<video>./snap/Gokujou_Parodius_Da_Deluxe_Pack.mp4</video>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>슈팅 / 수평 비행</genre>
+		<releasedate>19950519</releasedate>
+	</game>
+	<game>
+		<path>./Guardian_Heroes_JAP.chd</path>
+		<name>가디언 히어로즈</name>
+		<image>./boxart/Guardian_Heroes.png</image>
+		<video>./snap/Guardian_Heroes.mp4</video>
+		<developer>Treasure</developer>
+		<publisher>Sega</publisher>
+		<genre>액션 롤플레잉</genre>
+		<releasedate>19960129</releasedate>
+	</game>
+	<game>
+		<path>./Mahou_Kishi_Rayearth_JAP.chd</path>
+		<name>마법기사 레이어스</name>
+		<image>./boxart/Mahou_Kishi_Rayearth.png</image>
+		<video>./snap/Mahou_Kishi_Rayearth.mp4</video>
+		<developer>Sega</developer>
+		<publisher>Working Designs</publisher>
+		<genre>액션 롤플레잉</genre>
+		<releasedate>19950825</releasedate>
+	</game>
+	<game>
+		<path>./Thunder_Force_V_JAP.chd</path>
+		<name>썬더 포스 V</name>
+		<image>./boxart/Thunder_Force_V.png</image>
+		<video>./snap/Thunder_Force_V.mp4</video>
+		<developer>Technosoft</developer>
+		<publisher>Technosoft</publisher>
+		<genre>슈팅 / 수평 비행</genre>
+		<releasedate>19970711</releasedate>
+	</game>
+	<game>
+		<path>./yabasanshiro/backup.bin</path>
+		<hidden>true</hidden>
+	</game>
+</gameList>

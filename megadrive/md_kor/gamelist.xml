@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+* 원본 자료 출처 
+  https://dsno.tistory.com/7439
+  2021.6.4 [신 메뉴] 메가 드라이브 게임 모음
+  슈퍼 겜보이 / 슈퍼 알라딘 보이 (한국판)
+
+* 덴타클팀(http://cafe.naver.com/raspigamer)의 레트로게임 롬 목록 한글화 프로젝트를 참조
+* 라이센스 : MIT
+* 작성자 : 브리티쉬 (british2@naver.com)
+-->
+<gameList>
+	<game>
+		<path>./Alex Kidd - Cheongong Maseong (Korea).zip</path>
+		<name>알렉스 키드 - 천공마성 (한국판)</name>
+		<image>./boxart/Alex Kidd - Cheongong Maseong (Korea).png</image>
+		<video>./snap/Alex Kidd - Cheongong Maseong (Korea).mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>1</players>
+		<releasedate>19890814T000000</releasedate>
+	</game>
+	<game>
+		<path>./Dahna (Korea).zip</path>
+		<name>다나 (한국판)</name>
+		<image>./boxart/Dahna (Korea).png</image>
+		<video>./snap/Dahna (Korea).mp4</video>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>격투</genre>
+		<players>1</players>
+		<releasedate>19911220T000000</releasedate>
+	</game>
+	<game>
+		<path>./Light Crusader (Korea) (En,Ko).zip</path>
+		<name>라이트 크루세이더 (한국판)(한국어)</name>
+		<image>./boxart/Light Crusader (Korea) (En,Ko).png</image>
+		<video>./snap/Light Crusader (Korea) (En,Ko).mp4</video>
+		<developer>트레저</developer>
+		<publisher>세가</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19950525T000000</releasedate>
+	</game>
+	<game>
+		<path>./On Dal Jang Goon (Korea).zip</path>
+		<name>온달장군 (한국판)</name>
+		<image>./boxart/On Dal Jang Goon (Korea).png</image>
+		<video>./snap/On Dal Jang Goon (Korea).mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>1</players>
+		<releasedate>19890101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Ragnacenty (Korea).zip</path>
+		<name>라그나센티 (한국판)</name>
+		<image>./boxart/Ragnacenty (Korea).png</image>
+		<video>./snap/Ragnacenty (Korea).mp4</video>
+		<developer>세가</developer>
+		<publisher>아틀러스/텍스테크/세가</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19950101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Story of Thor, The (Korea).zip</path>
+		<name>스토리 오브 토르 (한국판)</name>
+		<image>./boxart/Story of Thor, The (Korea).png</image>
+		<video>./snap/Story of Thor, The (Korea).mp4</video>
+		<developer>세가</developer>
+		<publisher>에이션트/세가</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19941209T000000</releasedate>
+	</game>
+	<game>
+		<path>./Uzu Keobukseon (Korea).zip</path>
+		<name>우주 거북선</name>
+		<image>./boxart/Uzu Keobukseon (Korea).png</image>
+		<video>./snap/Uzu Keobukseon (Korea).mp4</video>
+		<developer>삼성전자</developer>
+		<publisher>삼성전자</publisher>
+		<genre>슈팅</genre>
+		<releasedate>19920101T000000</releasedate>
+	</game>
+</gameList>

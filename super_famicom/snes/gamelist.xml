@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+* 원본 자료 출처 
+  https://dsno.tistory.com/7495
+  2020.3.17 [신 메뉴] 슈퍼 패미콤 게임 모음
+  슈퍼 닌텐도 엔터테인먼트 시스템 (북미판)
+
+* 덴타클팀(http://cafe.naver.com/raspigamer)의 레트로게임 롬 목록 한글화 프로젝트를 참조
+* 라이센스 : MIT
+* 작성자 : 브리티쉬 (british2@naver.com)
+-->
+<gameList>
+	<game>
+		<path>./Aero Fighters (USA).zip</path>
+		<name>에어로 파이터즈</name>
+		<image>./boxart/Aero Fighters.png</image>
+		<video>./snap/Aero Fighters.mp4</video>
+		<developer>비디오 시스템</developer>
+		<publisher>비디오 시스템</publisher>
+		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>19941101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Battletoads-Double Dragon (USA).zip</path>
+		<name>배틀토드 - 더블드래곤</name>
+		<image>./boxart/Battletoads-Double Dragon.png</image>
+		<video>./snap/Battletoads-Double Dragon.mp4</video>
+		<developer>레어웨어</developer>
+		<publisher>레어/트레이드웨스트</publisher>
+		<genre>격투</genre>
+		<players>1</players>
+		<releasedate>19940710T000000</releasedate>
+	</game>
+	<game>
+		<path>./Killer Instinct (USA).zip</path>
+		<name>킬러 인스팅트</name>
+		<image>./boxart/Killer Instinct.png</image>
+		<video>./snap/Killer Instinct.mp4</video>
+		<developer>레어웨어</developer>
+		<publisher>닌텐도</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19950921T000000</releasedate>
+	</game>
+	<game>
+		<path>./NBA Jam (USA).zip</path>
+		<name>NBA 잼</name>
+		<image>./boxart/NBA Jam.png</image>
+		<video>./snap/NBA Jam.mp4</video>
+		<developer>미드웨이</developer>
+		<publisher>어클레임</publisher>
+		<genre>스포츠</genre>
+		<players>2</players>
+		<releasedate>19940302T000000</releasedate>
+	</game>
+	<game>
+		<path>./Lion King, The (USA).zip</path>
+		<name>라이온 킹</name>
+		<image>./boxart/Lion King, The.png</image>
+		<video>./snap/The Lion King.mp4</video>
+		<developer>웨스트우드</developer>
+		<publisher>버진</publisher>
+		<genre>플랫폼</genre>
+		<players/>
+		<releasedate>19941208T000000</releasedate>
+	</game>
+</gameList>

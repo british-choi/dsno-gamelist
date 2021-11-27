@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+* 원본 자료 출처 
+  https://dsno.tistory.com/7435
+  2020.3.12 [신 메뉴] 게임 기어 게임 모음
+  게임 기어 (한국판)
+
+* 덴타클팀(http://cafe.naver.com/raspigamer)의 레트로게임 롬 목록 한글화 프로젝트를 참조
+* 라이센스 : MIT
+* 작성자 : 브리티쉬 (british2@naver.com)
+-->
+<gameList>
+	<game>
+		<path>./OutRun (Japan, Korea).zip</path>
+		<name>아웃런</name>
+		<image>./boxart/OutRun.png</image>
+		<video>./snap/OutRun.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate>19910809T000000</releasedate>
+	</game>
+	<game>
+		<path>./Putt &amp; Putter (Japan, Korea).zip</path>
+		<name>풋 &amp; 풋터</name>
+		<image>./boxart/Putt &amp; Putter.png</image>
+		<video>./snap/Putt &amp; Putter.mp4</video>
+		<developer>심즈</developer>
+		<publisher>세가</publisher>
+		<genre/>
+		<players>2</players>
+		<releasedate>19920101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Monaco GP (Japan, Korea).zip</path>
+		<name>슈퍼 모나코 GP</name>
+		<image>./boxart/Super Monaco GP.png</image>
+		<video>./snap/Super Monaco GP.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre/>
+		<players>2</players>
+		<releasedate>19900901T000000</releasedate>
+	</game>
+</gameList>

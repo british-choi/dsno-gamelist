@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+* 원본 자료 출처 
+  https://dsno.tistory.com/7495
+  2020.3.17 [신 메뉴] 슈퍼 패미콤 게임 모음
+  슈퍼 패미콤 미니 (일본판)
+
+* 덴타클팀(http://cafe.naver.com/raspigamer)의 레트로게임 롬 목록 한글화 프로젝트를 참조
+* 라이센스 : MIT
+* 작성자 : 브리티쉬 (british2@naver.com)
+-->
+<gameList>
+	<game>
+		<path>./Chou Makaimura (Japan).zip</path>
+		<name>초마계촌 (일본판)</name>
+		<image>./boxart/Chou Makaimura (Japan).png</image>
+		<video>./snap/Chou Makaimura.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>플랫폼</genre>
+		<players>1</players>
+		<releasedate>19911004T000000</releasedate>
+	</game>
+	<game>
+		<path>./Contra Spirits (Japan).zip</path>
+		<name>혼두라 스피리츠 (일본판)</name>
+		<image>./boxart/Contra Spirits (Japan).png</image>
+		<video>./snap/Contra Spirits.mp4</video>
+		<developer>코나미</developer>
+		<publisher>코나미</publisher>
+		<genre>슈팅</genre>
+		<players/>
+		<releasedate>19920228T000000</releasedate>
+	</game>
+	<game>
+		<path>./Final Fantasy VI (Japan).zip</path>
+		<name>파이널 판타지 6 (일본판)</name>
+		<image>./boxart/Final Fantasy VI (Japan).png</image>
+		<video>./snap/Final Fantasy VI.mp4</video>
+		<developer>스퀘어 에닉스</developer>
+		<publisher>스퀘어 에닉스</publisher>
+		<genre>롤플레잉</genre>
+		<players>2</players>
+		<releasedate>19940402T000000</releasedate>
+	</game>
+	<game>
+		<path>./Fire Emblem - Monshou no Nazo (Japan) (Rev 1).zip</path>
+		<name>파이어 엠플럼 - 문장의 비밀</name>
+		<image>./boxart/Fire Emblem - Monshou no Nazo (Japan).png</image>
+		<video>./snap/Fire Emblem - Monshou no Nazo.mp4</video>
+		<developer>인텔리전트 시스템</developer>
+		<publisher>닌텐도</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19940121T000000</releasedate>
+	</game>
+	<game>
+		<path>./F-Zero (Japan) (En).zip</path>
+		<name>F-제로 (일본판)(영어)</name>
+		<image>./boxart/F-Zero (Japan).png</image>
+		<video>./snap/F-Zero.mp4</video>
+		<developer>닌텐도</developer>
+		<publisher>닌텐도</publisher>
+		<genre>레이싱</genre>
+		<players>1</players>
+		<releasedate>19920604T000000</releasedate>
+	</game>
+	<game>
+		<path>./Ganbare Goemon - Yuki Hime Kyuushutsu Emaki (Japan) (Rev 2).zip</path>
+		<name>힘내라 고에몽 - 유키 공주 구출 그림 두루마기 (일본판)(개정판 2)</name>
+		<image>./boxart/Ganbare Goemon - Yuki Hime Kyuushutsu Emaki (Japan).png</image>
+		<video>./snap/Ganbare Goemon - Yuki Hime Kyuushutsu Emaki.mp4</video>
+		<developer>코나미</developer>
+		<publisher>코나미</publisher>
+		<genre>어드벤처</genre>
+		<players>2</players>
+		<releasedate>19910719T000000</releasedate>
+	</game>
+	<game>
+		<path>./Hoshi no Kirby Super Deluxe (Japan) (Rev 2).zip</path>
+		<name>별의 커비 슈퍼 디럭스 (일본판)(개정판 2)</name>
+		<image>./boxart/Hoshi no Kirby Super Deluxe (Japan).png</image>
+		<video>./snap/Hoshi no Kirby Super Deluxe.mp4</video>
+		<developer>할 연구소</developer>
+		<publisher>닌텐도</publisher>
+		<genre>플랫폼</genre>
+		<players>1</players>
+		<releasedate>19960321T000000</releasedate>
+	</game>
+	<game>
+		<path>./Panel de Pon (Japan).zip</path>
+		<name>판넬로 퐁 (일본판)</name>
+		<image>./boxart/Panel de Pon (Japan).png</image>
+		<video>./snap/Panel de Pon.mp4</video>
+		<developer>닌텐도</developer>
+		<publisher>닌텐도</publisher>
+		<genre>퍼즐게임</genre>
+		<players/>
+		<releasedate>19951027T000000</releasedate>
+	</game>
+	<game>
+		<path>./Rockman X (Japan) (Rev 1).zip</path>
+		<name>록맨 X (일본판)(개정판 1)</name>
+		<image>./boxart/Rockman X (Japan).png</image>
+		<video>./snap/Rockman X.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>플랫폼</genre>
+		<players>4</players>
+		<releasedate>19940107T000000</releasedate>
+	</game>
+	<game>
+		<path>./Seiken Densetsu 2 (Japan).zip</path>
+		<name>성검 전설 2 (일본판)</name>
+		<image>./boxart/Seiken Densetsu 2 (Japan).png</image>
+		<video>./snap/Seiken Densetsu 2.mp4</video>
+		<developer>스퀘어 에닉스</developer>
+		<publisher>스퀘어 에닉스</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19931003T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Fox (Japan) (Rev 1).zip</path>
+		<name>스타 폭스 (일본판)(개정판 1)</name>
+		<image>./boxart/Star Fox (Japan).png</image>
+		<video>./snap/Star Fox.mp4</video>
+		<developer>닌텐도</developer>
+		<publisher>닌텐도</publisher>
+		<genre>슈팅</genre>
+		<players>1</players>
+		<releasedate>19930221T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Fox 2 (Japan).zip</path>
+		<name>스타 폭스 2 (일본판)</name>
+		<image>./boxart/Star Fox 2 (Japan).png</image>
+		<video>./snap/Star Fox 2.mp4</video>
+		<developer>닌텐도</developer>
+		<publisher>닌텐도</publisher>
+		<genre>슈팅</genre>
+		<players/>
+		<releasedate>19950101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Donkey Kong (Japan) (Rev 1).zip</path>
+		<name>슈퍼 동키콩 (일본판)(개정판 1)</name>
+		<image>./boxart/Super Donkey Kong (Japan).png</image>
+		<video>./snap/Super Donkey Kong.mp4</video>
+		<developer>레어웨어</developer>
+		<publisher>닌텐도</publisher>
+		<genre>플랫폼</genre>
+		<players>8</players>
+		<releasedate>19941126T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Formation Soccer (Japan).zip</path>
+		<name>슈퍼 포메이션 사커 (일본판)</name>
+		<image>./boxart/Super Formation Soccer (Japan).png</image>
+		<video>./snap/Super Formation Soccer.mp4</video>
+		<developer>휴먼</developer>
+		<publisher>닌텐도</publisher>
+		<genre>스포츠</genre>
+		<players>2</players>
+		<releasedate>19911213T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Mario - Yossy Island (Japan) (Rev 2).zip</path>
+		<name>슈퍼 마리오 - 요시 아일랜드 (일본판)(개정판 2)</name>
+		<image>./boxart/Super Mario - Yossy Island (Japan).png</image>
+		<video>./snap/Super Mario - Yossy Island.mp4</video>
+		<developer>닌텐도</developer>
+		<publisher>닌텐도</publisher>
+		<genre>플랫폼</genre>
+		<players>4</players>
+		<releasedate>19950805T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Mario Kart (Japan).zip</path>
+		<name>슈퍼 마리오 카트 (일본판)</name>
+		<image>./boxart/Super Mario Kart (Japan).png</image>
+		<video>./snap/Super Mario Kart.mp4</video>
+		<developer>닌텐도</developer>
+		<publisher>닌텐도</publisher>
+		<genre>레이싱</genre>
+		<players>1</players>
+		<releasedate>19930121T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Mario RPG (Japan).zip</path>
+		<name>슈퍼 마리오 RPG (일본판)</name>
+		<image>./boxart/Super Mario RPG (Japan).png</image>
+		<video>./snap/Super Mario RPG.mp4</video>
+		<developer>스퀘어 에닉스</developer>
+		<publisher>닌텐도/스퀘어</publisher>
+		<genre>롤플레잉</genre>
+		<players>2</players>
+		<releasedate>19960309T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Mario World - Super Mario Bros. 4 (Japan).zip</path>
+		<name>슈퍼 마리오 월드 - 슈퍼 마리오 브라더즈 4 (일본판)</name>
+		<image>./boxart/Super Mario World - Super Mario Bros. 4 (Japan).png</image>
+		<video>./snap/Super Mario World - Super Mario Bros. 4.mp4</video>
+		<developer>닌텐도</developer>
+		<publisher>닌텐도</publisher>
+		<genre>플랫폼</genre>
+		<players>2</players>
+		<releasedate>19901121T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Metroid (Japan, USA) (En,Ja).zip</path>
+		<name>슈퍼 메트로이드 (영어)</name>
+		<image>./boxart/Super Metroid (Japan).png</image>
+		<video>./snap/Super Metroid.mp4</video>
+		<developer>닌텐도</developer>
+		<publisher>닌텐도</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate>19940728T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Street Fighter II - The New Challengers (Japan).zip</path>
+		<name>슈퍼 스트리트 파이터 2 - 새로운 도전자 (일본판)</name>
+		<image>./boxart/Super Street Fighter II - The New Challengers (Japan).png</image>
+		<video>./snap/Super Street Fighter II - The New Challengers.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19940101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Zelda no Densetsu - Kamigami no Triforce (Japan) (Rev 2).zip</path>
+		<name>젤다의 전설 - 신들의 트라이포스 (일본판)(개정판 2)</name>
+		<image>./boxart/Zelda no Densetsu - Kamigami no Triforce (Japan).png</image>
+		<video>./snap/Zelda no Densetsu - Kamigami no Triforce.mp4</video>
+		<developer>닌텐도</developer>
+		<publisher>닌텐도</publisher>
+		<genre>어드벤처</genre>
+		<players/>
+		<releasedate>19911121T000000</releasedate>
+	</game>
+</gameList>

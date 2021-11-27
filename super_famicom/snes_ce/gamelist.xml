@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+* 원본 자료 출처 
+  https://dsno.tistory.com/7495
+  2020.3.17 [신 메뉴] 슈퍼 패미콤 게임 모음
+  SNES 클래식 에디션 (북미판)
+
+* 덴타클팀(http://cafe.naver.com/raspigamer)의 레트로게임 롬 목록 한글화 프로젝트를 참조
+* 라이센스 : MIT
+* 작성자 : 브리티쉬 (british2@naver.com)
+-->
+<gameList>
+	<game>
+		<path>./Contra III - The Alien Wars (USA).zip</path>
+		<name>혼투라 3 - 에일리언 워즈</name>
+		<image>./boxart/Contra III - The Alien Wars (USA).png</image>
+		<video>./snap/Contra III - The Alien Wars.mp4</video>
+		<developer>코나미</developer>
+		<publisher>코나미</publisher>
+		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>19920406T000000</releasedate>
+	</game>
+	<game>
+		<path>./Donkey Kong Country (USA) (Rev 2).zip</path>
+		<name>동키콩 컨트리 (개정판 2)</name>
+		<image>./boxart/Donkey Kong Country (USA).png</image>
+		<video>./snap/Donkey Kong Country.mp4</video>
+		<developer>레어웨어</developer>
+		<publisher>닌텐도</publisher>
+		<genre>플랫폼</genre>
+		<players>2</players>
+		<releasedate>19941124T000000</releasedate>
+	</game>
+	<game>
+		<path>./EarthBound (USA).zip</path>
+		<name>어스바운드</name>
+		<image>./boxart/EarthBound (USA).png</image>
+		<video>./snap/EarthBound.mp4</video>
+		<developer>에피프 스튜디오</developer>
+		<publisher>닌텐도</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19950601T000000</releasedate>
+	</game>
+	<game>
+		<path>./Final Fantasy III (USA) (Rev 1).zip</path>
+		<name>파이널 판타지 3</name>
+		<image>./boxart/Final Fantasy III (USA).png</image>
+		<video>./snap/Final Fantasy III.mp4</video>
+		<developer>스퀘어 에닉스</developer>
+		<publisher>스퀘어 에닉스</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19941011T000000</releasedate>
+	</game>
+	<game>
+		<path>./F-Zero (USA).zip</path>
+		<name>F-제로</name>
+		<image>./boxart/F-Zero (USA).png</image>
+		<video>./snap/F-Zero.mp4</video>
+		<developer>닌텐도</developer>
+		<publisher>닌텐도</publisher>
+		<genre>레이싱</genre>
+		<players>1</players>
+		<releasedate>19920604T000000</releasedate>
+	</game>
+	<game>
+		<path>./Kirby Super Star (USA).zip</path>
+		<name>커비 슈퍼스타</name>
+		<image>./boxart/Kirby Super Star (USA).png</image>
+		<video>./snap/Kirby Super Star.mp4</video>
+		<developer>할 연구소</developer>
+		<publisher>닌텐도</publisher>
+		<genre>플랫폼</genre>
+		<players>1</players>
+		<releasedate>19960920T000000</releasedate>
+	</game>
+	<game>
+		<path>./Kirby's Dream Course (USA).zip</path>
+		<name>커비의 드림 코스</name>
+		<image>./boxart/Kirby's Dream Course (USA).png</image>
+		<video>./snap/Kirby's Dream Course.mp4</video>
+		<developer>할 연구소</developer>
+		<publisher>닌텐도</publisher>
+		<genre>스포츠</genre>
+		<players>2</players>
+		<releasedate>19950824T000000</releasedate>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - A Link to the Past (USA).zip</path>
+		<name>젤다의 전설 - 신들의 트라이포스</name>
+		<image>./boxart/Legend of Zelda, The - A Link to the Past (USA).png</image>
+		<video>./snap/Legend of Zelda, The - A Link to the Past.mp4</video>
+		<developer>닌텐도</developer>
+		<publisher>닌텐도</publisher>
+		<genre>어드벤처</genre>
+		<players>1</players>
+		<releasedate>19920413T000000</releasedate>
+	</game>
+	<game>
+		<path>./Mega Man X (USA) (Rev 1).zip</path>
+		<name>메가맨 X (개정판 1)</name>
+		<image>./boxart/Mega Man X (USA).png</image>
+		<video>./snap/Mega Man X.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>플랫폼</genre>
+		<players>1</players>
+		<releasedate>19940825T000000</releasedate>
+	</game>
+	<game>
+		<path>./Secret of Mana (USA).zip</path>
+		<name>시크릿 오브 마나</name>
+		<image>./boxart/Secret of Mana (USA).png</image>
+		<video>./snap/Secret of Mana.mp4</video>
+		<developer>스퀘어 에닉스</developer>
+		<publisher>스퀘어 에닉스</publisher>
+		<genre>롤플레잉</genre>
+		<players/>
+		<releasedate>19941124T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Fox (USA) (Rev 2).zip</path>
+		<name>스타 폭스 (개정판 2)</name>
+		<image>./boxart/Star Fox (USA).png</image>
+		<video>./snap/Star Fox.mp4</video>
+		<developer>닌텐도</developer>
+		<publisher>닌텐도</publisher>
+		<genre>슈팅</genre>
+		<players>1</players>
+		<releasedate>19930221T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Fox 2 (USA).zip</path>
+		<name>스타 폭스 2</name>
+		<image>./boxart/Star Fox 2 (USA).png</image>
+		<video>./snap/Star Fox 2.mp4</video>
+		<developer>닌텐도</developer>
+		<publisher>닌텐도</publisher>
+		<genre>슈팅</genre>
+		<players/>
+		<releasedate>19950101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Street Fighter II Turbo (USA) (Rev 1).zip</path>
+		<name>스트리트 파이터 2 터보 (개정판 1)</name>
+		<image>./boxart/Street Fighter II Turbo (USA).png</image>
+		<video>./snap/Street Fighter II Turbo.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>격투</genre>
+		<players>1</players>
+		<releasedate>19930801T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Castlevania IV (USA).zip</path>
+		<name>슈퍼 악마성 드라큘라 4</name>
+		<image>./boxart/Super Castlevania IV (USA).png</image>
+		<video>./snap/Super Castlevania IV.mp4</video>
+		<developer>코나미</developer>
+		<publisher>코나미</publisher>
+		<genre>플랫폼</genre>
+		<players/>
+		<releasedate>19911031T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Ghouls 'N Ghosts (USA).zip</path>
+		<name>초 마계촌</name>
+		<image>./boxart/Super Ghouls 'N Ghosts (USA).png</image>
+		<video>./snap/Super Ghouls 'N Ghosts.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>플랫폼</genre>
+		<players>4</players>
+		<releasedate>19921210T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Mario Kart (USA).zip</path>
+		<name>슈퍼 마리오 카트</name>
+		<image>./boxart/Super Mario Kart (USA).png</image>
+		<video>./snap/Super Mario Kart.mp4</video>
+		<developer>닌텐도</developer>
+		<publisher>닌텐도</publisher>
+		<genre>레이싱</genre>
+		<players>1</players>
+		<releasedate>19930121T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Mario RPG - Legend of the Seven Stars (USA).zip</path>
+		<name>슈퍼 마리오 RPG - 레전드 오브 더 세븐 스타즈</name>
+		<image>./boxart/Super Mario RPG - Legend of the Seven Stars (USA).png</image>
+		<video>./snap/Super Mario RPG - Legend of the Seven Stars.mp4</video>
+		<developer>스퀘어 에닉스</developer>
+		<publisher>닌텐도/스퀘어</publisher>
+		<genre>롤플레잉</genre>
+		<players>2</players>
+		<releasedate>19960513T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Mario World (USA).zip</path>
+		<name>슈퍼 마리오 월드</name>
+		<image>./boxart/Super Mario World (USA).png</image>
+		<video>./snap/Super Mario World.mp4</video>
+		<developer>닌텐도</developer>
+		<publisher>닌텐도</publisher>
+		<genre>플랫폼</genre>
+		<players>2</players>
+		<releasedate>19920411T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Mario World 2 - Yoshi's Island (USA, Asia) (Rev 1).zip</path>
+		<name>슈퍼 마리오 월드 2 - 요시스 아일랜드 (개정판 1)</name>
+		<image>./boxart/Super Mario World 2 - Yoshi's Island (USA).png</image>
+		<video>./snap/Super Mario World 2 - Yoshi's Island.mp4</video>
+		<developer>닌텐도</developer>
+		<publisher>닌텐도</publisher>
+		<genre>플랫폼</genre>
+		<players>2</players>
+		<releasedate>19951004T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Metroid (Japan, USA) (En,Ja).zip</path>
+		<name>슈퍼 메트로이드 (영어)</name>
+		<image>./boxart/Super Metroid (USA).png</image>
+		<video>./snap/Super Metroid.mp4</video>
+		<developer>닌텐도</developer>
+		<publisher>닌텐도</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate>19940728T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Punch-Out!! (USA).zip</path>
+		<name>슈퍼 펀치아웃!!</name>
+		<image>./boxart/Super Punch-Out!! (USA).png</image>
+		<video>./snap/Super Punch-Out!!.mp4</video>
+		<developer>닌텐도</developer>
+		<publisher>닌텐도</publisher>
+		<genre>스포츠</genre>
+		<players>2</players>
+		<releasedate>19950126T000000</releasedate>
+	</game>
+</gameList>

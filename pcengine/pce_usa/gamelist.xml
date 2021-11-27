@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+* 원본 자료 출처 
+  https://dsno.tistory.com/7466
+  2021.6.19 [신 메뉴] PC 엔진 게임 모음
+  터보그래픽스 16 (북미판)
+
+* 덴타클팀(http://cafe.naver.com/raspigamer)의 레트로게임 롬 목록 한글화 프로젝트를 참조
+* 라이센스 : MIT
+* 작성자 : 브리티쉬 (british2@naver.com)
+-->
+<gameList>
+	<game>
+		<path>./Aero Blasters (USA).zip</path>
+		<name>에어로 블래스터즈</name>
+		<image>./boxart/Aero Blasters (USA).png</image>
+		<video>./snap/Aero Blasters (USA).mp4</video>
+		<developer>카네코</developer>
+		<publisher>카네코</publisher>
+		<players>2</players>
+		<releasedate>19901102T000000</releasedate>
+	</game>
+	<game>
+		<path>./Air Zonk (USA).zip</path>
+		<name>에어 종크</name>
+		<image>./boxart/Air Zonk (USA).png</image>
+		<video>./snap/Air Zonk (USA).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>1</players>
+		<releasedate>19920101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Alien Crush (USA).zip</path>
+		<name>에일리언 크러시</name>
+		<image>./boxart/Alien Crush (USA).png</image>
+		<video>./snap/Alien Crush (USA).mp4</video>
+		<developer>컴파일</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19880914T000000</releasedate>
+	</game>
+	<game>
+		<path>./Andre Panza Kick Boxing (USA).zip</path>
+		<name>안드레 판자 킥 복싱</name>
+		<image>./boxart/Andre Panza Kick Boxing (USA).png</image>
+		<video>./snap/Andre Panza Kick Boxing (USA).mp4</video>
+		<developer>퓨처라</developer>
+		<players>2</players>
+		<releasedate>19910101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Ballistix (USA).zip</path>
+		<name>발리스틱스</name>
+		<image>./boxart/Ballistix (USA).png</image>
+		<video>./snap/Ballistix (USA).mp4</video>
+		<developer>리플렉션 인터액티브</developer>
+		<publisher>터보 테크놀리지</publisher>
+		<players>2</players>
+		<releasedate>19911213T000000</releasedate>
+	</game>
+	<game>
+		<path>./Battle Royale (USA).zip</path>
+		<name>배틀 로얄</name>
+		<image>./boxart/Battle Royale (USA).png</image>
+		<video>./snap/Battle Royale (USA).mp4</video>
+		<developer>인크레더블 테크놀리지</developer>
+		<publisher>터보 테크놀리지</publisher>
+		<players>4</players>
+		<releasedate>19900101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Blazing Lazers (USA).zip</path>
+		<name>블레이징 레이저스</name>
+		<image>./boxart/Blazing Lazers (USA).png</image>
+		<video>./snap/Blazing Lazers (USA).mp4</video>
+		<developer>컴파일</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19890101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Bloody Wolf (USA).zip</path>
+		<name>블러디 울프</name>
+		<image>./boxart/Bloody Wolf (USA).png</image>
+		<video>./snap/Bloody Wolf (USA).mp4</video>
+		<developer>데이터 이스트</developer>
+		<publisher>데이터 이스트</publisher>
+		<players>1</players>
+		<releasedate>19900101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Bomber Man (USA).zip</path>
+		<name>봄버맨</name>
+		<image>./boxart/Bomber Man (USA).png</image>
+		<video>./snap/Bomber Man (USA).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>터보 테크놀리지</publisher>
+		<players>5</players>
+		<releasedate>19901207T000000</releasedate>
+	</game>
+	<game>
+		<path>./Bomber Man '93 (USA).zip</path>
+		<name>봄버맨 '93</name>
+		<image>./boxart/Bomber Man '93 (USA).png</image>
+		<video>./snap/Bomber Man '93 (USA).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>5</players>
+		<releasedate>19921211T000000</releasedate>
+	</game>
+	<game>
+		<path>./Bonk's Adventure (USA).zip</path>
+		<name>봉크스 어드벤처</name>
+		<image>./boxart/Bonk's Adventure (USA).png</image>
+		<video>./snap/Bonk's Adventure (USA).mp4</video>
+		<developer>아틀러스</developer>
+		<publisher>허드슨</publisher>
+		<players>1</players>
+		<releasedate>19900101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Bonk's Revenge (USA).zip</path>
+		<name>봉크스 리벤지</name>
+		<image>./boxart/Bonk's Revenge (USA).png</image>
+		<video>./snap/Bonk's Revenge (USA).mp4</video>
+		<developer>레드 컴퍼니</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19910101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Bonk 3 - Bonk's Big Adventure (USA).zip</path>
+		<name>봉크 3 - 봉크스 빅 어드벤처</name>
+		<image>./boxart/Bonk 3 - Bonk's Big Adventure (USA).png</image>
+		<video>./snap/Bonk 3 - Bonk's Big Adventure (USA).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>터보 테크놀리지</publisher>
+		<players>1</players>
+		<releasedate>19930101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Boxyboy (USA).zip</path>
+		<name>복시보이</name>
+		<image>./boxart/Boxyboy (USA).png</image>
+		<video>./snap/Boxyboy (USA).mp4</video>
+		<developer>NEC</developer>
+		<publisher>미디어링</publisher>
+		<players>2</players>
+		<releasedate>19900101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Bravoman (USA).zip</path>
+		<name>브라보맨</name>
+		<image>./boxart/Bravoman (USA).png</image>
+		<video>./snap/Bravoman (USA).mp4</video>
+		<developer>나우 프로덕션</developer>
+		<publisher>터보 테크놀리지</publisher>
+		<players>1</players>
+		<releasedate>19900101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Cadash (USA).zip</path>
+		<name>카다시</name>
+		<image>./boxart/Cadash (USA).png</image>
+		<video>./snap/Cadash (USA).mp4</video>
+		<developer>타이토</developer>
+		<publisher>워킹 디자인</publisher>
+		<players>2</players>
+		<releasedate>19910118T000000</releasedate>
+	</game>
+	<game>
+		<path>./Champions Forever Boxing (USA).zip</path>
+		<name>챔피언스 포에버 복싱</name>
+		<image>./boxart/Champions Forever Boxing (USA).png</image>
+		<video>./snap/Champions Forever Boxing (USA).mp4</video>
+		<developer>디스팅티브 소프트웨어</developer>
+		<publisher>NEC</publisher>
+		<players>2</players>
+		<releasedate>19910101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Chase H.Q. (USA).zip</path>
+		<name>체이스 H.Q.</name>
+		<image>./boxart/Chase H.Q. (USA).png</image>
+		<video>./snap/Chase H.Q. (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Chew-Man-Fu (USA).zip</path>
+		<name>츄만푸</name>
+		<image>./boxart/Chew-Man-Fu (USA).png</image>
+		<video>./snap/Chew-Man-Fu (USA).mp4</video>
+		<developer>나우 프로덕션</developer>
+		<publisher>NEC</publisher>
+		<players>2</players>
+		<releasedate>19900101T000000</releasedate>
+	</game>
+	<game>
+		<path>./China Warrior (USA).zip</path>
+		<name>차이나 워리어</name>
+		<image>./boxart/China Warrior (USA).png</image>
+		<video>./snap/China Warrior (USA).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>NEC</publisher>
+		<players>2</players>
+		<releasedate>19890101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Cratermaze (USA).zip</path>
+		<name>크레이터메이즈</name>
+		<image>./boxart/Cratermaze (USA).png</image>
+		<video>./snap/Cratermaze (USA).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19900101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Cyber Core (USA).zip</path>
+		<name>사이버 코어</name>
+		<image>./boxart/Cyber Core (USA).png</image>
+		<video>./snap/Cyber Core (USA).mp4</video>
+		<developer>알파 시스템</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19900309T000000</releasedate>
+	</game>
+	<game>
+		<path>./Darkwing Duck (USA).zip</path>
+		<name>다크윙 덕</name>
+		<image>./boxart/Darkwing Duck (USA).png</image>
+		<video>./snap/Darkwing Duck (USA).mp4</video>
+		<developer>터보 테크놀리지</developer>
+		<publisher>래디언스 소프트웨어</publisher>
+		<players>1</players>
+		<releasedate>19920101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Davis Cup Tennis (USA).zip</path>
+		<name>데이비스 컵 테니스</name>
+		<image>./boxart/Davis Cup Tennis (USA).png</image>
+		<video>./snap/Davis Cup Tennis (USA).mp4</video>
+		<developer>로리시엘</developer>
+		<publisher>마이크로 월드</publisher>
+		<releasedate>19910101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Dead Moon (USA).zip</path>
+		<name>데드 문</name>
+		<image>./boxart/Dead Moon (USA).png</image>
+		<video>./snap/Dead Moon (USA).mp4</video>
+		<developer>스튜디오 덕스</developer>
+		<publisher>나츠메</publisher>
+		<players>1</players>
+		<releasedate>19920101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Deep Blue (USA).zip</path>
+		<name>딥 블루</name>
+		<image>./boxart/Deep Blue (USA).png</image>
+		<video>./snap/Deep Blue (USA).mp4</video>
+		<developer>팩인 비디오</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19900101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Devil's Crush (USA).zip</path>
+		<name>데빌스 크러시</name>
+		<image>./boxart/Devil's Crush (USA).png</image>
+		<video>./snap/Devil's Crush (USA).mp4</video>
+		<developer>컴파일</developer>
+		<publisher>NEC</publisher>
+		<players>2</players>
+		<releasedate>19900101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Double Dungeons (USA).zip</path>
+		<name>더블 던전스</name>
+		<image>./boxart/Double Dungeons (USA).png</image>
+		<video>./snap/Double Dungeons (USA).mp4</video>
+		<developer>NCS</developer>
+		<publisher>마사야</publisher>
+		<players>1</players>
+		<releasedate>19890929T000000</releasedate>
+	</game>
+	<game>
+		<path>./Dragon Spirit (USA).zip</path>
+		<name>드래곤 스피릿</name>
+		<image>./boxart/Dragon Spirit (USA).png</image>
+		<video>./snap/Dragon Spirit (USA).mp4</video>
+		<developer>남코</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19881226T000000</releasedate>
+	</game>
+	<game>
+		<path>./Dragon's Curse (USA).zip</path>
+		<name>드래곤스 커즈</name>
+		<image>./boxart/Dragon's Curse (USA).png</image>
+		<video>./snap/Dragon's Curse (USA).mp4</video>
+		<developer>웨스톤</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19901231T000000</releasedate>
+	</game>
+	<game>
+		<path>./Drop Off (USA).zip</path>
+		<name>드롭 오프</name>
+		<image>./boxart/Drop Off (USA).png</image>
+		<video>./snap/Drop Off (USA).mp4</video>
+		<developer>데이터 이스트</developer>
+		<publisher>NEC</publisher>
+		<players>2</players>
+		<releasedate>19900101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Dungeon Explorer (USA).zip</path>
+		<name>던전 익스플로러</name>
+		<image>./boxart/Dungeon Explorer (USA).png</image>
+		<video>./snap/Dungeon Explorer (USA).mp4</video>
+		<developer>아틀러스</developer>
+		<publisher>NEC</publisher>
+		<players>5</players>
+		<releasedate>19890304T000000</releasedate>
+	</game>
+	<game>
+		<path>./Dungeons &amp; Dragons - Order of the Griffon (USA).zip</path>
+		<name>던전스 &amp; 드래곤스 - 오더 오브 더 그리폰</name>
+		<image>./boxart/Dungeons &amp; Dragons - Order of the Griffon (USA).png</image>
+		<video>./snap/Dungeons &amp; Dragons - Order of the Griffon (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Falcon (USA).zip</path>
+		<name>팔콘</name>
+		<image>./boxart/Falcon (USA).png</image>
+		<video>./snap/Falcon (USA).mp4</video>
+		<developer>스펙트럼 홀로바이츠</developer>
+		<publisher>스펙트럼 홀로바이츠</publisher>
+		<releasedate>19920101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Fantasy Zone (USA).zip</path>
+		<name>판타지 존</name>
+		<image>./boxart/Fantasy Zone (USA).png</image>
+		<video>./snap/Fantasy Zone (USA).mp4</video>
+		<developer>비츠 랩</developer>
+		<publisher>NEC 인터채널</publisher>
+		<players>2</players>
+		<releasedate>19881014T000000</releasedate>
+	</game>
+	<game>
+		<path>./Final Lap Twin (USA).zip</path>
+		<name>파이널 랩 트윈</name>
+		<image>./boxart/Final Lap Twin (USA).png</image>
+		<video>./snap/Final Lap Twin (USA).mp4</video>
+		<developer>NEC 인터채널</developer>
+		<publisher>남코</publisher>
+		<players>2</players>
+		<releasedate>19890707T000000</releasedate>
+	</game>
+	<game>
+		<path>./Galaga '90 (USA).zip</path>
+		<name>갤라가 '90</name>
+		<image>./boxart/Galaga '90 (USA).png</image>
+		<video>./snap/Galaga '90 (USA).mp4</video>
+		<developer>남코</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19890101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Ghost Manor (USA).zip</path>
+		<name>고스트 매너</name>
+		<image>./boxart/Ghost Manor (USA).png</image>
+		<video>./snap/Ghost Manor (USA).mp4</video>
+		<developer>아이콤</developer>
+		<publisher>터보 테크놀리지</publisher>
+		<releasedate>19920101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Gunboat (USA).zip</path>
+		<name>건보트</name>
+		<image>./boxart/Gunboat (USA).png</image>
+		<video>./snap/Gunboat (USA).mp4</video>
+		<developer>어콜레이드</developer>
+		<publisher>어콜레이드</publisher>
+		<releasedate>19920101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Hit the Ice - VHL - The Official Video Hockey League (USA).zip</path>
+		<name>히트 더 아이스 - 디 오피셜 비디오 하키 리그</name>
+		<image>./boxart/Hit the Ice - VHL - The Official Video Hockey League (USA).png</image>
+		<video>./snap/Hit the Ice - VHL - The Official Video Hockey League (USA).mp4</video>
+		<developer>타이토</developer>
+		<publisher>타이토</publisher>
+		<players>2</players>
+		<releasedate>19910920T000000</releasedate>
+	</game>
+	<game>
+		<path>./Impossamole (USA).zip</path>
+		<name>임파서몰</name>
+		<image>./boxart/Impossamole (USA).png</image>
+		<video>./snap/Impossamole (USA).mp4</video>
+		<developer>NEC 인터채널</developer>
+		<publisher>코어디자인</publisher>
+		<players>1</players>
+		<releasedate>19910101T000000</releasedate>
+	</game>
+	<game>
+		<path>./J.J. &amp; Jeff (USA).zip</path>
+		<name>J.J. &amp; 제프</name>
+		<image>./boxart/J.J. &amp; Jeff (USA).png</image>
+		<video>./snap/J.J. &amp; Jeff (USA).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>NEC 인터채널</publisher>
+		<players>1</players>
+		<releasedate>19900101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Jack Nicklaus' Turbo Golf (USA).zip</path>
+		<name>잭 니클라우스 터보 골프</name>
+		<image>./boxart/Jack Nicklaus' Turbo Golf (USA).png</image>
+		<video>./snap/Jack Nicklaus' Turbo Golf (USA).mp4</video>
+		<players>4</players>
+		<releasedate>19900101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Jackie Chan's Action Kung Fu (USA).zip</path>
+		<name>재키 챈스 액션 쿵푸</name>
+		<image>./boxart/Jackie Chan's Action Kung Fu (USA).png</image>
+		<video>./snap/Jackie Chan's Action Kung Fu (USA).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>1</players>
+		<releasedate>19920101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Keith Courage in Alpha Zones (USA).zip</path>
+		<name>케이스 코리지 인 알파 존스</name>
+		<image>./boxart/Keith Courage in Alpha Zones (USA).png</image>
+		<video>./snap/Keith Courage in Alpha Zones (USA).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19890101T000000</releasedate>
+	</game>
+	<game>
+		<path>./King of Casino (USA).zip</path>
+		<name>킹 오브 카지노</name>
+		<image>./boxart/King of Casino (USA).png</image>
+		<video>./snap/King of Casino (USA).mp4</video>
+		<developer>NEC</developer>
+		<publisher>NEC</publisher>
+		<players>5</players>
+		<releasedate>19900330T000000</releasedate>
+	</game>
+	<game>
+		<path>./Klax (USA).zip</path>
+		<name>클랙스</name>
+		<image>./boxart/Klax (USA).png</image>
+		<video>./snap/Klax (USA).mp4</video>
+		<developer>아타리</developer>
+		<publisher>덴젠</publisher>
+		<players>1</players>
+		<releasedate>19900810T000000</releasedate>
+	</game>
+	<game>
+		<path>./Legend of Hero Tonma (USA).zip</path>
+		<name>레전드 오브 히어로 톤마</name>
+		<image>./boxart/Legend of Hero Tonma (USA).png</image>
+		<video>./snap/Legend of Hero Tonma (USA).mp4</video>
+		<developer>아이렘</developer>
+		<publisher>아이렘</publisher>
+		<players>2</players>
+		<releasedate>19910313T000000</releasedate>
+	</game>
+	<game>
+		<path>./Legendary Axe, The (USA).zip</path>
+		<name>더 레젠더리 액스</name>
+		<image>./boxart/Legendary Axe, The (USA).png</image>
+		<video>./snap/Legendary Axe, The (USA).mp4</video>
+		<developer>마블러스 인터랙티브</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19890101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Legendary Axe II (USA).zip</path>
+		<name>레젠더리 액스 II</name>
+		<image>./boxart/Legendary Axe II (USA).png</image>
+		<video>./snap/Legendary Axe II (USA).mp4</video>
+		<developer>아틀러스</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19900101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Magical Chase (USA).zip</path>
+		<name>매지컬 체이스</name>
+		<image>./boxart/Magical Chase (USA).png</image>
+		<video>./snap/Magical Chase (USA).mp4</video>
+		<developer>퀘스트</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19911115T000000</releasedate>
+	</game>
+	<game>
+		<path>./Military Madness (USA).zip</path>
+		<name>밀리터리 매드니스</name>
+		<image>./boxart/Military Madness (USA).png</image>
+		<video>./snap/Military Madness (USA).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>NEC</publisher>
+		<players>2</players>
+		<releasedate>19890101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Moto Roader (USA).zip</path>
+		<name>모토 로더</name>
+		<image>./boxart/Moto Roader (USA).png</image>
+		<video>./snap/Moto Roader (USA).mp4</video>
+		<developer>NCS</developer>
+		<publisher>NEC</publisher>
+		<players>5</players>
+		<releasedate>19890223T000000</releasedate>
+	</game>
+	<game>
+		<path>./Neutopia (USA).zip</path>
+		<name>뉴토피아</name>
+		<image>./boxart/Neutopia (USA).png</image>
+		<video>./snap/Neutopia (USA).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19891117T000000</releasedate>
+	</game>
+	<game>
+		<path>./Neutopia II (USA).zip</path>
+		<name>뉴토피아 II</name>
+		<image>./boxart/Neutopia II (USA).png</image>
+		<video>./snap/Neutopia II (USA).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>1</players>
+		<releasedate>19910927T000000</releasedate>
+	</game>
+	<game>
+		<path>./New Adventure Island (USA).zip</path>
+		<name>뉴 어드벤처 아일랜드</name>
+		<image>./boxart/New Adventure Island (USA).png</image>
+		<video>./snap/New Adventure Island (USA).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>1</players>
+		<releasedate>19920101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Night Creatures (USA).zip</path>
+		<name>나이트 크리처스</name>
+		<image>./boxart/Night Creatures (USA).png</image>
+		<video>./snap/Night Creatures (USA).mp4</video>
+		<developer>만리 &amp; 어소시에이트</developer>
+		<publisher>NEC 인터채널</publisher>
+		<players>1</players>
+		<releasedate>19910101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Ninja Spirit (USA).zip</path>
+		<name>닌자 스피릿</name>
+		<image>./boxart/Ninja Spirit (USA).png</image>
+		<video>./snap/Ninja Spirit (USA).mp4</video>
+		<developer>아이렘</developer>
+		<publisher>아이렘</publisher>
+		<players>2</players>
+		<releasedate>19900101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Ordyne (USA).zip</path>
+		<name>오다인</name>
+		<image>./boxart/Ordyne (USA).png</image>
+		<video>./snap/Ordyne (USA).mp4</video>
+		<developer>남코</developer>
+		<publisher>NEC</publisher>
+		<players>2</players>
+		<releasedate>19890908T000000</releasedate>
+	</game>
+	<game>
+		<path>./Pac-Land (USA).zip</path>
+		<name>팩 랜드</name>
+		<image>./boxart/Pac-Land (USA).png</image>
+		<video>./snap/Pac-Land (USA).mp4</video>
+		<developer>남코</developer>
+		<publisher>NEC</publisher>
+		<players>2</players>
+		<releasedate>19890601T000000</releasedate>
+	</game>
+	<game>
+		<path>./Parasol Stars - The Story of Bubble Bobble III (USA).zip</path>
+		<name>파라솔 스타즈 - 더 스토리 오브 버블 보블 III</name>
+		<image>./boxart/Parasol Stars - The Story of Bubble Bobble III (USA).png</image>
+		<video>./snap/Parasol Stars - The Story of Bubble Bobble III (USA).mp4</video>
+		<developer>타이토</developer>
+		<publisher>워킹 디자인</publisher>
+		<players>2</players>
+		<releasedate>19910502T000000</releasedate>
+	</game>
+	<game>
+		<path>./Power Golf (USA).zip</path>
+		<name>파워 골프</name>
+		<image>./boxart/Power Golf (USA).png</image>
+		<video>./snap/Power Golf (USA).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>3</players>
+		<releasedate>19890525T000000</releasedate>
+	</game>
+	<game>
+		<path>./Psychosis (USA).zip</path>
+		<name>사이코시스</name>
+		<image>./boxart/Psychosis (USA).png</image>
+		<video>./snap/Psychosis (USA).mp4</video>
+		<developer>낙삿 소프트</developer>
+		<publisher>NEC 인터채널</publisher>
+		<players>1</players>
+		<releasedate>19900101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Raiden (USA).zip</path>
+		<name>라이덴</name>
+		<image>./boxart/Raiden (USA).png</image>
+		<video>./snap/Raiden (USA).mp4</video>
+		<developer>세이부 개발</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19911122T000000</releasedate>
+	</game>
+	<game>
+		<path>./R-Type (USA).zip</path>
+		<name>R-타입</name>
+		<image>./boxart/R-Type (USA).png</image>
+		<video>./snap/R-Type (USA).mp4</video>
+		<developer>아이렘</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19890101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Samurai-Ghost (USA).zip</path>
+		<name>사무라이 고스트</name>
+		<image>./boxart/Samurai-Ghost (USA).png</image>
+		<video>./snap/Samurai-Ghost (USA).mp4</video>
+		<developer>남코</developer>
+		<publisher>남코</publisher>
+		<players>1</players>
+		<releasedate>19920101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Shockman (USA).zip</path>
+		<name>쇼크맨</name>
+		<image>./boxart/Shockman (USA).png</image>
+		<video>./snap/Shockman (USA).mp4</video>
+		<developer>윈드</developer>
+		<publisher>NCS</publisher>
+		<players>2</players>
+		<releasedate>19920101T000000</releasedate>
+	</game>
+	<game>
+		<path>./SideArms (USA).zip</path>
+		<name>사이드 암즈</name>
+		<image>./boxart/SideArms (USA).png</image>
+		<video>./snap/SideArms (USA).mp4</video>
+		<developer>캡콤</developer>
+		<publisher>래디언스 소프트웨어</publisher>
+		<players>1</players>
+		<releasedate>19890101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Silent Debuggers (USA).zip</path>
+		<name>사일런트 디버거스</name>
+		<image>./boxart/Silent Debuggers (USA).png</image>
+		<video>./snap/Silent Debuggers (USA).mp4</video>
+		<developer>데이터 이스트</developer>
+		<publisher>NEC 인터채널</publisher>
+		<players>1</players>
+		<releasedate>19910329T000000</releasedate>
+	</game>
+	<game>
+		<path>./Sinistron (USA).zip</path>
+		<name>시니스트론</name>
+		<image>./boxart/Sinistron (USA).png</image>
+		<video>./snap/Sinistron (USA).mp4</video>
+		<developer>인포메이션 글로벌 서비스</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19910101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Soldier Blade (USA).zip</path>
+		<name>솔저 블레이드</name>
+		<image>./boxart/Soldier Blade (USA).png</image>
+		<video>./snap/Soldier Blade (USA).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>1</players>
+		<releasedate>19920710T000000</releasedate>
+	</game>
+	<game>
+		<path>./Somer Assault (USA).zip</path>
+		<name>소머 어썰트</name>
+		<image>./boxart/Somer Assault (USA).png</image>
+		<video>./snap/Somer Assault (USA).mp4</video>
+		<developer>아틀러스</developer>
+		<publisher>아틀러스</publisher>
+		<players>1</players>
+		<releasedate>19920101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Sonic Spike - World Championship Beach Volleyball (USA).zip</path>
+		<name>소닉 스파이크 - 월드 챔피언쉽 비치 발리볼</name>
+		<image>./boxart/Sonic Spike - World Championship Beach Volleyball (USA).png</image>
+		<video>./snap/Sonic Spike - World Championship Beach Volleyball (USA).mp4</video>
+		<developer>인포메이션 글로벌 서비스</developer>
+		<publisher>인포메이션 글로벌 서비스</publisher>
+		<players>2</players>
+		<releasedate>19900101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Space Harrier (USA).zip</path>
+		<name>스페이스 해리어</name>
+		<image>./boxart/Space Harrier (USA).png</image>
+		<video>./snap/Space Harrier (USA).mp4</video>
+		<developer>AM2연</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19881209T000000</releasedate>
+	</game>
+	<game>
+		<path>./Splatterhouse (USA).zip</path>
+		<name>스플래터하우스</name>
+		<image>./boxart/Splatterhouse (USA).png</image>
+		<video>./snap/Splatterhouse (USA).mp4</video>
+		<developer>남코</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19900403T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Star Soldier (USA).zip</path>
+		<name>슈퍼 스타 솔저</name>
+		<image>./boxart/Super Star Soldier (USA).png</image>
+		<video>./snap/Super Star Soldier (USA).mp4</video>
+		<developer>인터스테이트</developer>
+		<publisher>허드슨</publisher>
+		<players>1</players>
+		<releasedate>19900706T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Volleyball (USA).zip</path>
+		<name>슈퍼 발리볼</name>
+		<image>./boxart/Super Volleyball (USA).png</image>
+		<video>./snap/Super Volleyball (USA).mp4</video>
+		<developer>비디오 시스템</developer>
+		<publisher>NEC</publisher>
+		<players>2</players>
+		<releasedate>19900207T000000</releasedate>
+	</game>
+	<game>
+		<path>./Takin' It to the Hoop (USA).zip</path>
+		<name>테이킨 잇 투 더 후프</name>
+		<image>./boxart/Takin' It to the Hoop (USA).png</image>
+		<video>./snap/Takin' It to the Hoop (USA).mp4</video>
+		<developer>에이콤</developer>
+		<publisher>NEC</publisher>
+		<releasedate>19900101T000000</releasedate>
+	</game>
+	<game>
+		<path>./TaleSpin (USA).zip</path>
+		<name>테일스핀</name>
+		<image>./boxart/TaleSpin (USA).png</image>
+		<video>./snap/TaleSpin (USA).mp4</video>
+		<developer>인터랙티브 디자인</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19910101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Tiger Road (USA).zip</path>
+		<name>타이거 로드</name>
+		<image>./boxart/Tiger Road (USA).png</image>
+		<video>./snap/Tiger Road (USA).mp4</video>
+		<developer>고</developer>
+		<publisher>캡콤</publisher>
+		<players>1</players>
+		<releasedate>19900101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Time Cruise (USA).zip</path>
+		<name>타임 크루즈</name>
+		<image>./boxart/Time Cruise (USA).png</image>
+		<video>./snap/Time Cruise (USA).mp4</video>
+		<developer>페이스</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19920101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Timeball (USA).zip</path>
+		<name>타임볼</name>
+		<image>./boxart/Timeball (USA).png</image>
+		<video>./snap/Timeball (USA).mp4</video>
+		<players>2</players>
+		<releasedate>19900223T000000</releasedate>
+	</game>
+	<game>
+		<path>./Tricky Kick (USA).zip</path>
+		<name>트리키 킥</name>
+		<image>./boxart/Tricky Kick (USA).png</image>
+		<video>./snap/Tricky Kick (USA).mp4</video>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<players>1</players>
+		<releasedate>19900101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Turrican (USA).zip</path>
+		<name>터리칸</name>
+		<image>./boxart/Turrican (USA).png</image>
+		<video>./snap/Turrican (USA).mp4</video>
+		<developer>레인보우 아츠</developer>
+		<publisher>어콜레이드</publisher>
+		<players>1</players>
+		<releasedate>19910801T000000</releasedate>
+	</game>
+	<game>
+		<path>./TV Sports Basketball (USA).zip</path>
+		<name>TV 스포츠 배스킷볼</name>
+		<image>./boxart/TV Sports Basketball (USA).png</image>
+		<video>./snap/TV Sports Basketball (USA).mp4</video>
+		<developer>시네웨이브</developer>
+		<publisher>NEC</publisher>
+		<players>5</players>
+		<releasedate>19910101T000000</releasedate>
+	</game>
+	<game>
+		<path>./TV Sports Football (USA).zip</path>
+		<name>TV 스포츠 풋볼</name>
+		<image>./boxart/TV Sports Football (USA).png</image>
+		<video>./snap/TV Sports Football (USA).mp4</video>
+		<developer>시네웨이브</developer>
+		<publisher>NEC</publisher>
+		<players>5</players>
+		<releasedate>19910329T000000</releasedate>
+	</game>
+	<game>
+		<path>./TV Sports Hockey (USA).zip</path>
+		<name>TV 스포츠 하키</name>
+		<image>./boxart/TV Sports Hockey (USA).png</image>
+		<video>./snap/TV Sports Hockey (USA).mp4</video>
+		<developer>시네웨이브</developer>
+		<publisher>NEC</publisher>
+		<players>5</players>
+		<releasedate>19930429T000000</releasedate>
+	</game>
+	<game>
+		<path>./Veigues - Tactical Gladiator (USA).zip</path>
+		<name>베이구스 - 택티컬 글라디에이터</name>
+		<image>./boxart/Veigues - Tactical Gladiator (USA).png</image>
+		<video>./snap/Veigues - Tactical Gladiator (USA).mp4</video>
+		<developer>게임 아츠</developer>
+		<publisher>NEC</publisher>
+		<players>1</players>
+		<releasedate>19900629T000000</releasedate>
+	</game>
+	<game>
+		<path>./Victory Run (USA).zip</path>
+		<name>빅토리 런</name>
+		<image>./boxart/Victory Run (USA).png</image>
+		<video>./snap/Victory Run (USA).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>1</players>
+		<releasedate>19871228T000000</releasedate>
+	</game>
+	<game>
+		<path>./Vigilante (USA).zip</path>
+		<name>비질란테</name>
+		<image>./boxart/Vigilante (USA).png</image>
+		<video>./snap/Vigilante (USA).mp4</video>
+		<developer>NEC</developer>
+		<publisher>아이렘</publisher>
+		<players>1</players>
+		<releasedate>19890114T000000</releasedate>
+	</game>
+	<game>
+		<path>./World Class Baseball (USA).zip</path>
+		<name>월드 클래스 베이스볼</name>
+		<image>./boxart/World Class Baseball (USA).png</image>
+		<video>./snap/World Class Baseball (USA).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>NEC 인터채널</publisher>
+		<players>2</players>
+		<releasedate>19890101T000000</releasedate>
+	</game>
+	<game>
+		<path>./World Court Tennis (USA).zip</path>
+		<name>월드 코트 테니스</name>
+		<image>./boxart/World Court Tennis (USA).png</image>
+		<video>./snap/World Court Tennis (USA).mp4</video>
+		<developer>남코</developer>
+		<publisher>NEC</publisher>
+		<players>4</players>
+		<releasedate>19890101T000000</releasedate>
+	</game>
+	<game>
+		<path>./World Sports Competition (USA).zip</path>
+		<name>월드 스포츠 컴페티션</name>
+		<image>./boxart/World Sports Competition (USA).png</image>
+		<video>./snap/World Sports Competition (USA).mp4</video>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<players>5</players>
+		<releasedate>19930101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Yo, Bro (USA).zip</path>
+		<name>요, 브로</name>
+		<image>./boxart/Yo, Bro (USA).png</image>
+		<video>./snap/Yo, Bro (USA).mp4</video>
+		<developer>아이콤</developer>
+		<publisher>NEC</publisher>
+		<players>2</players>
+		<releasedate>19910101T000000</releasedate>
+	</game>
+</gameList>

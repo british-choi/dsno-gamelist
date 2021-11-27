@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+* 원본 자료 출처 
+  https://dsno.tistory.com/7497
+  2020.3.14 [신 메뉴] 원더스완 게임 모음
+
+* 덴타클팀(http://cafe.naver.com/raspigamer)의 레트로게임 롬 목록 한글화 프로젝트를 참조
+* 라이센스 : MIT
+* 작성자 : 브리티쉬 (british2@naver.com)
+-->
+<gameList>
+	<!--
+		원더스완 (일본판)
+	-->
+	<folder>
+		<path>./ws_jap</path>
+		<name>원더스완 (일본판)</name>
+		<image>./boxart/ws.png</image>
+	</folder>
+	<game>
+		<path>./ws_jap/Kaze no Klonoa - Moonlight Museum (Japan).zip</path>
+		<name>바람의 크로노아 - 문라이트 뮤지엄</name>
+		<image>./ws_jap/boxart/Kaze no Klonoa - Moonlight Museum.png</image>
+		<video>./ws_jap/snap/Kaze no Klonoa - Moonlight Museum.mp4</video>
+		<developer>남코</developer>
+		<publisher>반다이</publisher>
+		<genre>퍼즐게임</genre>
+		<players>1</players>
+		<releasedate>19990520T000000</releasedate>
+	</game>
+	<game>
+		<path>./ws_jap/Langrisser Millennium WS - The Last Century (Japan) (Rev 1).zip</path>
+		<name>랑그릿사 밀레니엄 WS - 라스트 센츄리</name>
+		<image>./ws_jap/boxart/Langrisser Millennium WS - The Last Century.png</image>
+		<video>./ws_jap/snap/Langrisser Millennium WS - The Last Century.mp4</video>
+		<developer>마사야</developer>
+		<publisher>NCS</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>20000309T000000</releasedate>
+	</game>
+	<game>
+		<path>./ws_jap/Pocket Fighter (Japan).zip</path>
+		<name>포켓 파이터</name>
+		<image>./ws_jap/boxart/Pocket Fighter.png</image>
+		<video>./ws_jap/snap/Pocket Fighter.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>반다이</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>20000406T000000</releasedate>
+	</game>
+	<game>
+		<path>./ws_jap/Super Robot Taisen Compact (Japan).zip</path>
+		<name>슈퍼 로봇 대전 콤팩트 (일본판)</name>
+		<image>./ws_jap/boxart/Super Robot Taisen Compact.png</image>
+		<video>./ws_jap/snap/Super Robot Taisen Compact.mp4</video>
+		<developer>토세</developer>
+		<publisher>반프레스토</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19990428T000000</releasedate>
+	</game>
+	<game>
+		<path>./ws_jap/Tekken Card Challenge (Japan).zip</path>
+		<name>철권 카드 챌린지</name>
+		<image>./ws_jap/boxart/Tekken Card Challenge.png</image>
+		<video>./ws_jap/snap/Tekken Card Challenge.mp4</video>
+		<developer>남코</developer>
+		<publisher>반다이</publisher>
+		<genre>전략</genre>
+		<players>1</players>
+		<releasedate>19990617T000000</releasedate>
+	</game>
+	<!--
+		원더스완 컬러 (일본판)
+	-->
+	<folder>
+		<path>./wsc_jap</path>
+		<name>원더스완 컬러 (일본판)</name>
+		<image>./boxart/wsc.png</image>
+	</folder>
+	<game>
+		<path>./wsc_jap/Final Fantasy IV (Japan).zip</path>
+		<name>파이널 판타지 4 (일본판)</name>
+		<image>./wsc_jap/boxart/Final Fantasy IV.png</image>
+		<video>./wsc_jap/snap/Final Fantasy IV.mp4</video>
+		<developer>스퀘어 에닉스</developer>
+		<publisher>스퀘어 에닉스</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>20020328T000000</releasedate>
+	</game>
+	<game>
+		<path>./wsc_jap/Golden Axe (Japan).zip</path>
+		<name>황금 도끼 / 골든 엑스 (일본판)</name>
+		<image>./wsc_jap/boxart/Golden Axe.png</image>
+		<video>./wsc_jap/snap/Golden Axe.mp4</video>
+		<developer>세가</developer>
+		<publisher>반다이</publisher>
+		<genre>롤플레잉</genre>
+		<players>43,832</players>
+		<releasedate>20020228T000000</releasedate>
+	</game>
+	<game>
+		<path>./wsc_jap/Kidou Senshi Gundam Seed (Japan).zip</path>
+		<name>기동전사 건담 SEED (일본판)</name>
+		<image>./wsc_jap/boxart/Kidou Senshi Gundam Seed.png</image>
+		<video>./wsc_jap/snap/Kidou Senshi Gundam Seed.mp4</video>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate>20030315T000000</releasedate>
+	</game>
+	<game>
+		<path>./wsc_jap/Super Robot Taisen Compact 3 (Japan) (Rev 5).zip</path>
+		<name>슈퍼 로봇 대전 콤팩트 3 (일본판)(개정판 5)</name>
+		<image>./wsc_jap/boxart/Super Robot Taisen Compact 3.png</image>
+		<video>./wsc_jap/snap/Super Robot Taisen Compact 3.mp4</video>
+		<developer>반프레스토</developer>
+		<publisher>반프레스토</publisher>
+		<genre>전략</genre>
+		<players>1</players>
+		<releasedate>20030717T000000</releasedate>
+	</game>
+	<game>
+		<path>./wsc_jap/Ultraman - Hikari no Kuni no Shisha (Japan).zip</path>
+		<name>울트라맨 - 빛의 나라의 사자 (일본판)</name>
+		<image>./wsc_jap/boxart/Ultraman - Hikari no Kuni no Shisha.png</image>
+		<video>./wsc_jap/snap/Ultraman - Hikari no Kuni no Shisha.mp4</video>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20010621T000000</releasedate>
+	</game>
+</gameList>

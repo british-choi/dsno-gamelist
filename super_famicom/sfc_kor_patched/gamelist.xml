@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+* 원본 자료 출처 
+  https://dsno.tistory.com/7495
+  2020.3.17 [신 메뉴] 슈퍼 패미콤 게임 모음
+  슈퍼 패미콤 (한글 패치판)
+
+* 덴타클팀(http://cafe.naver.com/raspigamer)의 레트로게임 롬 목록 한글화 프로젝트를 참조
+* 라이센스 : MIT
+* 작성자 : 브리티쉬 (british2@naver.com)
+-->
+<gameList>
+	<game>
+		<path>./Akumajou Dracula XX (Korea).zip</path>
+		<name>악마성 드라큘라 더블엑스 (한글)</name>
+		<image>./boxart/Akumajou Dracula XX.png</image>
+		<video>./snap/Akumajou Dracula XX.mp4</video>
+		<developer>코나미</developer>
+		<publisher>코나미</publisher>
+		<genre>플랫폼</genre>
+		<players>1</players>
+		<releasedate>19950721T000000</releasedate>
+	</game>
+	<game>
+		<path>./Alcahest (Korea).zip</path>
+		<name>알카에스트 (한글)</name>
+		<image>./boxart/Alcahest.png</image>
+		<video>./snap/Alcahest.mp4</video>
+		<developer>할 연구소</developer>
+		<publisher>스퀘어 에닉스</publisher>
+		<genre>롤플레잉</genre>
+		<players>2</players>
+		<releasedate>19971217T000000</releasedate>
+	</game>
+	<game>
+		<path>./Area 88 (Korea).zip</path>
+		<name>에어리어 88 (한글)</name>
+		<image>./boxart/Area 88.png</image>
+		<video>./snap/Area 88.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤/다이프로</publisher>
+		<genre>슈팅</genre>
+		<players>1</players>
+		<releasedate>19910726T000000</releasedate>
+	</game>
+	<game>
+		<path>./Ball Bullet Gun (Korea).zip</path>
+		<name>볼 불렛 건 (한글)</name>
+		<image>./boxart/Ball Bullet Gun.png</image>
+		<video>./snap/Ball Bullet Gun.mp4</video>
+		<developer>아이맥스</developer>
+		<publisher>비탑/아이맥스</publisher>
+		<genre>전략</genre>
+		<players>2</players>
+		<releasedate>19951201T000000</releasedate>
+	</game>
+	<game>
+		<path>./Battle Robot Retsuden (Korea).zip</path>
+		<name>배틀 로봇 열전 (한글)</name>
+		<image>./boxart/Battle Robot Retsuden.png</image>
+		<video>./snap/Battle Robot Retsuden.mp4</video>
+		<developer>윙키 소프트</developer>
+		<publisher>반프레스토</publisher>
+		<genre>전략</genre>
+		<players>2</players>
+		<releasedate>19950901T000000</releasedate>
+	</game>
+	<game>
+		<path>./Bishoujo Senshi Sailor Moon S - Kondo wa Puzzle de Oshioki yo! (Korea).zip</path>
+		<name>미소녀 전사 세일러 문 S 퍼즐로 벌하겠어! (한글)</name>
+		<image>./boxart/Bishoujo Senshi Sailor Moon S - Kondo wa Puzzle de Oshioki yo!.png</image>
+		<video>./snap/Bishoujo Senshi Sailor Moon S - Kondo wa Puzzle de Oshioki yo!.mp4</video>
+		<developer>톰 크리에이트</developer>
+		<publisher>반다이</publisher>
+		<genre>퍼즐게임</genre>
+		<players>2</players>
+		<releasedate>19940815T000000</releasedate>
+	</game>
+	<game>
+		<path>./Brandish (Korea).zip</path>
+		<name>브랜디쉬 (한글)</name>
+		<image>./boxart/Brandish.png</image>
+		<video>./snap/Brandish.mp4</video>
+		<developer>코에이</developer>
+		<publisher>코에이</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19940625T000000</releasedate>
+	</game>
+	<game>
+		<path>./Choujikuu Yousai Macross - Scrambled Valkyrie (Korea).zip</path>
+		<name>초시공요새 마크로스 - 스크럼블 발키리 (한글)</name>
+		<image>./boxart/Choujikuu Yousai Macross - Scrambled Valkyrie.png</image>
+		<video>./snap/Choujikuu Yousai Macross - Scrambled Valkyrie.mp4</video>
+		<developer>자무즈</developer>
+		<publisher>자무즈</publisher>
+		<genre>슈팅</genre>
+		<players>1</players>
+		<releasedate>19931029T000000</releasedate>
+	</game>
+	<game>
+		<path>./Chrono Trigger (Korea).zip</path>
+		<name>크로노 트리거 (한글)</name>
+		<image>./boxart/Chrono Trigger.png</image>
+		<video>./snap/Chrono Trigger.mp4</video>
+		<developer>스퀘어 에닉스</developer>
+		<publisher>스퀘어 소프트</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19950311T000000</releasedate>
+	</game>
+	<game>
+		<path>./Clock Tower (Korea).zip</path>
+		<name>클락 타워 (한글)</name>
+		<image>./boxart/Clock Tower.png</image>
+		<video>./snap/Clock Tower.mp4</video>
+		<developer>휴먼</developer>
+		<publisher>휴먼</publisher>
+		<genre>어드벤처</genre>
+		<players>6</players>
+		<releasedate>19950914T000000</releasedate>
+	</game>
+	<game>
+		<path>./Dai-3-ji Super Robot Taisen (Korea).zip</path>
+		<name>제3차 슈퍼로봇대전 (한글)</name>
+		<image>./boxart/Dai-3-ji Super Robot Taisen.png</image>
+		<video>./snap/Dai-3-ji Super Robot Taisen.mp4</video>
+		<developer>반프레스토</developer>
+		<publisher>반프레스토</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19930123T000000</releasedate>
+	</game>
+	<game>
+		<path>./Dai-4-ji Super Robot Taisen (Korea) (Rev 1).zip</path>
+		<name>제4차 슈퍼로봇대전 (한글)</name>
+		<image>./boxart/Dai-4-ji Super Robot Taisen.png</image>
+		<video>./snap/Dai-4-ji Super Robot Taisen.mp4</video>
+		<developer>반프레스토</developer>
+		<publisher>반프레스토</publisher>
+		<genre>롤플레잉</genre>
+		<players>4</players>
+		<releasedate>19950317T000000</releasedate>
+	</game>
+	<game>
+		<path>./Densetsu no Ogre Battle - The March of the Black Queen (Korea).zip</path>
+		<name>전설의 오우거 배틀 - 더 마치 오브 블랙 퀸 (한글)</name>
+		<image>./boxart/Densetsu no Ogre Battle - The March of the Black Queen.png</image>
+		<video>./snap/Densetsu no Ogre Battle - The March of the Black Queen.mp4</video>
+		<developer>퀘스트</developer>
+		<publisher>에닉스</publisher>
+		<genre>롤플레잉</genre>
+		<players/>
+		<releasedate>19930312T000000</releasedate>
+	</game>
+	<game>
+		<path>./Dokuritsu Sensou - Liberty or Death (Korea).zip</path>
+		<name>독립전쟁 - 자유 또는 죽음 (한글)</name>
+		<image>./boxart/Dokuritsu Sensou - Liberty or Death.png</image>
+		<video>./snap/Dokuritsu Sensou - Liberty or Death.mp4</video>
+		<developer>코에이</developer>
+		<publisher>코에이</publisher>
+		<genre>전략</genre>
+		<players>2</players>
+		<releasedate>19940318T000000</releasedate>
+	</game>
+	<game>
+		<path>./Dragon Ball Z - Super Gokuu Den - Kakusei Hen (Korea).zip</path>
+		<name>드래곤 볼 Z 초오공전 - 각성편 (한글)</name>
+		<image>./boxart/Dragon Ball Z - Super Gokuu Den - Kakusei Hen.png</image>
+		<video>./snap/Dragon Ball Z - Super Gokuu Den - Kakusei Hen.mp4</video>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19950922T000000</releasedate>
+	</game>
+	<game>
+		<path>./Dragon Ball Z - Super Gokuu Den - Totsugeki Hen (Korea).zip</path>
+		<name>드래곤 볼 Z 초오공전 - 돌격편 (한글)</name>
+		<image>./boxart/Dragon Ball Z - Super Gokuu Den - Totsugeki Hen.png</image>
+		<video>./snap/Dragon Ball Z - Super Gokuu Den - Totsugeki Hen.mp4</video>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre>롤플레잉</genre>
+		<players>2</players>
+		<releasedate>19950324T000000</releasedate>
+	</game>
+	<game>
+		<path>./Dual Orb II (Korea).zip</path>
+		<name>듀얼 보브 2 (한글)</name>
+		<image>./boxart/Dual Orb II.png</image>
+		<video>./snap/Dual Orb II.mp4</video>
+		<developer>아이맥스</developer>
+		<publisher>아이맥스</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19941229T000000</releasedate>
+	</game>
+	<game>
+		<path>./Estpolis Denki (Korea).zip</path>
+		<name>에스트폴리스 전기 (한글)</name>
+		<image>./boxart/Estpolis Denki.png</image>
+		<video>./snap/Estpolis Denki.mp4</video>
+		<developer>타이토</developer>
+		<publisher>타이토</publisher>
+		<genre>롤플레잉</genre>
+		<players/>
+		<releasedate>19930625T000000</releasedate>
+	</game>
+	<game>
+		<path>./Final Fantasy IV (Korea).zip</path>
+		<name>파이널 판타지 4 (한글)</name>
+		<image>./boxart/Final Fantasy IV.png</image>
+		<video>./snap/Final Fantasy IV.mp4</video>
+		<developer>스퀘어 에닉스</developer>
+		<publisher>스퀘어 에닉스</publisher>
+		<genre>롤플레잉</genre>
+		<players>2</players>
+		<releasedate>19910719T000000</releasedate>
+	</game>
+	<game>
+		<path>./Final Fantasy V (Korea).zip</path>
+		<name>파이널 판타지 5 (한글)</name>
+		<image>./boxart/Final Fantasy V.png</image>
+		<video>./snap/Final Fantasy V.mp4</video>
+		<developer>스퀘어 에닉스</developer>
+		<publisher>스퀘어 에닉스</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19921206T000000</releasedate>
+	</game>
+	<game>
+		<path>./Final Fantasy VI (Korea).zip</path>
+		<name>파이널 판타지 6 (한글)</name>
+		<image>./boxart/Final Fantasy VI.png</image>
+		<video>./snap/Final Fantasy VI.mp4</video>
+		<developer>스퀘어 에닉스</developer>
+		<publisher>스퀘어 에닉스</publisher>
+		<genre>롤플레잉</genre>
+		<players>2</players>
+		<releasedate>19940402T000000</releasedate>
+	</game>
+	<game>
+		<path>./Fire Emblem - Monshou no Nazo (Korea).zip</path>
+		<name>파이어 엠플럼 - 문장의 비밀 (한글)</name>
+		<image>./boxart/Fire Emblem - Monshou no Nazo.png</image>
+		<video>./snap/Fire Emblem - Monshou no Nazo.mp4</video>
+		<developer>인텔리전트 시스템</developer>
+		<publisher>닌텐도</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19940121T000000</releasedate>
+	</game>
+	<game>
+		<path>./Fire Emblem - Seisen no Keifu (Korea).zip</path>
+		<name>파이어 엠플럼 - 성전의 계보 (한글)</name>
+		<image>./boxart/Fire Emblem - Seisen no Keifu.png</image>
+		<video>./snap/Fire Emblem - Seisen no Keifu.mp4</video>
+		<developer>인텔리전트 시스템</developer>
+		<publisher>닌텐도</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19960514T000000</releasedate>
+	</game>
+	<game>
+		<path>./Fire Emblem - Thracia 776 (Korea).zip</path>
+		<name>파이어 엠플럼 - 트라이카 776 (한글)</name>
+		<image>./boxart/Fire Emblem - Thracia 776.png</image>
+		<video>./snap/Fire Emblem - Thracia 776.mp4</video>
+		<developer>인텔리전트 시스템</developer>
+		<publisher>닌텐도</publisher>
+		<genre>롤플레잉</genre>
+		<players/>
+		<releasedate>20000121T000000</releasedate>
+	</game>
+	<game>
+		<path>./Firemen, The (Korea).zip</path>
+		<name>파이어맨 (한글)</name>
+		<image>./boxart/The Firemen.png</image>
+		<video>./snap/The Firemen.mp4</video>
+		<developer>휴먼</developer>
+		<publisher>휴먼</publisher>
+		<genre>액션</genre>
+		<players>2</players>
+		<releasedate>19950301T000000</releasedate>
+	</game>
+	<game>
+		<path>./From TV Animation Slam Dunk 2 - IH Yosen Kanzen Ban!! (Korea).zip</path>
+		<name>TV 애니메니션 슬램덩크 2 - IH 예선 완전판!! (한글)</name>
+		<image>./boxart/From TV Animation Slam Dunk 2 - IH Yosen Kanzen Ban!!.png</image>
+		<video>./snap/From TV Animation Slam Dunk 2 - IH Yosen Kanzen Ban!!.mp4</video>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre>스포츠</genre>
+		<players>2</players>
+		<releasedate>19950224T000000</releasedate>
+	</game>
+	<game>
+		<path>./Front Mission (Korea).zip</path>
+		<name>프론트 미션 (한글)</name>
+		<image>./boxart/Front Mission.png</image>
+		<video>./snap/Front Mission.mp4</video>
+		<developer>스퀘어 에닉스</developer>
+		<publisher>스퀘어 에닉스</publisher>
+		<genre>롤플레잉</genre>
+		<players>2</players>
+		<releasedate>19950224T000000</releasedate>
+	</game>
+	<game>
+		<path>./Fushigi no Dungeon 2 - Fuurai no Shiren (Korea) (Rev 1) (NP).zip</path>
+		<name>이상한 던젼 2 - 풍래의 시렌 (한글)</name>
+		<image>./boxart/Fushigi no Dungeon 2 - Fuurai no Shiren.png</image>
+		<video>./snap/Fushigi no Dungeon 2 - Fuurai no Shiren.mp4</video>
+		<developer>춘소프트</developer>
+		<publisher>춘소프트</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19951201T000000</releasedate>
+	</game>
+	<game>
+		<path>./Go Go Ackman (Korea).zip</path>
+		<name>고 고 아크맨 (한글)</name>
+		<image>./boxart/Go Go Ackman.png</image>
+		<video>./snap/Go Go Ackman.mp4</video>
+		<developer>반프레스토</developer>
+		<publisher>반프레스토</publisher>
+		<genre>플랫폼</genre>
+		<players/>
+		<releasedate>19941223T000000</releasedate>
+	</game>
+	<game>
+		<path>./Go Go Ackman 2 (Korea).zip</path>
+		<name>고 고 아크맨 2 (한글)</name>
+		<image>./boxart/Go Go Ackman 2.png</image>
+		<video>./snap/Go Go Ackman 2.mp4</video>
+		<developer>반프레스토</developer>
+		<publisher>반프레스토</publisher>
+		<genre>플랫폼</genre>
+		<players>2</players>
+		<releasedate>19950721T000000</releasedate>
+	</game>
+	<game>
+		<path>./Gourmet Sentai Barayarou (Korea).zip</path>
+		<name>미식전대 장미남자 (한글)</name>
+		<image>./boxart/Gourmet Sentai Barayarou.png</image>
+		<video>./snap/Gourmet Sentai Barayarou.mp4</video>
+		<developer>푸팩/윈드</developer>
+		<publisher>버진</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19950929T000000</releasedate>
+	</game>
+	<game>
+		<path>./Hagane (Korea).zip</path>
+		<name>하가네 (한글)</name>
+		<image>./boxart/Hagane.png</image>
+		<video>./snap/Hagane.mp4</video>
+		<developer>CA프로덕션</developer>
+		<publisher>허드슨</publisher>
+		<genre>플랫폼</genre>
+		<players>6</players>
+		<releasedate>19941118T000000</releasedate>
+	</game>
+	<game>
+		<path>./Hameln no Violin Hiki (Korea).zip</path>
+		<name>하멜의 바이올린 (한글)</name>
+		<image>./boxart/Hameln no Violin Hiki.png</image>
+		<video>./snap/Hameln no Violin Hiki.mp4</video>
+		<developer>에닉스</developer>
+		<publisher>에닉스</publisher>
+		<genre>플랫폼</genre>
+		<players>2</players>
+		<releasedate>19950929T000000</releasedate>
+	</game>
+	<game>
+		<path>./Harvest Moon (Korea).zip</path>
+		<name>하베스트 문 (한글)</name>
+		<image>./boxart/Harvest Moon.png</image>
+		<video>./snap/Harvest Moon.mp4</video>
+		<developer>팩인 비디오</developer>
+		<publisher>나츠메</publisher>
+		<genre>어드벤처</genre>
+		<players>2</players>
+		<releasedate>19970601T000000</releasedate>
+	</game>
+	<game>
+		<path>./Hoshi no Kirby 3 (Korea).zip</path>
+		<name>별의 커비 3 (한글)</name>
+		<image>./boxart/Hoshi no Kirby 3.png</image>
+		<video>./snap/Hoshi no Kirby 3.mp4</video>
+		<developer>할 연구소</developer>
+		<publisher>닌텐도</publisher>
+		<genre>플랫폼</genre>
+		<players>1</players>
+		<releasedate>19980327T000000</releasedate>
+	</game>
+	<game>
+		<path>./Iron Commando - Koutetsu no Senshi (Korea).zip</path>
+		<name>강철의 전사 - 아이언 코만도 (한글)</name>
+		<image>./boxart/Iron Commando - Koutetsu no Senshi.png</image>
+		<video>./snap/Iron Commando - Koutetsu no Senshi.mp4</video>
+		<developer>아케이드존</developer>
+		<publisher>아케이드존</publisher>
+		<genre>격투</genre>
+		<players/>
+		<releasedate>19950210T000000</releasedate>
+	</game>
+	<game>
+		<path>./Juusou Kihei Valken (Korea).zip</path>
+		<name>중장기병 발켄 (한글)</name>
+		<image>./boxart/Juusou Kihei Valken.png</image>
+		<video>./snap/Juusou Kihei Valken.mp4</video>
+		<developer>마사야</developer>
+		<publisher>마사야</publisher>
+		<genre>슈팅</genre>
+		<players>1</players>
+		<releasedate>19921218T000000</releasedate>
+	</game>
+	<game>
+		<path>./King of Dragons, The (Korea).zip</path>
+		<name>나이트 오브 드래곤 (한글)</name>
+		<image>./boxart/The King of Dragons.png</image>
+		<video>./snap/The King of Dragons.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>격투</genre>
+		<players>3</players>
+		<releasedate>19940304T000000</releasedate>
+	</game>
+	<game>
+		<path>./Live A Live (Korea).zip</path>
+		<name>라이브 어 라이브 (한글)</name>
+		<image>./boxart/Live A Live.png</image>
+		<video>./snap/Live A Live.mp4</video>
+		<developer>스퀘어 에닉스</developer>
+		<publisher>스퀘어 에닉스</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19940902T000000</releasedate>
+	</game>
+	<game>
+		<path>./Magic Knight Rayearth (Korea).zip</path>
+		<name>마법 기사 레이어스 (한글)</name>
+		<image>./boxart/Magic Knight Rayearth.png</image>
+		<video>./snap/Magic Knight Rayearth.mp4</video>
+		<developer>판도라 박스</developer>
+		<publisher>토미</publisher>
+		<genre>롤플레잉</genre>
+		<players>2</players>
+		<releasedate>19950929T000000</releasedate>
+	</game>
+	<game>
+		<path>./Magical Pop'n (Korea).zip</path>
+		<name>매지컬 포픈 (한글)</name>
+		<image>./boxart/Magical Pop'n.png</image>
+		<video>./snap/Magical Pop'n.mp4</video>
+		<developer>폴스타</developer>
+		<publisher>팩인 비디오</publisher>
+		<genre>플랫폼</genre>
+		<players/>
+		<releasedate>19950310T000000</releasedate>
+	</game>
+	<game>
+		<path>./Mahoujin Guruguru 2 (Korea).zip</path>
+		<name>마법진 구루구루 2 (한글)</name>
+		<image>./boxart/Mahoujin Guruguru 2.png</image>
+		<video>./snap/Mahoujin Guruguru 2.mp4</video>
+		<developer>탐탐</developer>
+		<publisher>에닉스</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19960412T000000</releasedate>
+	</game>
+	<game>
+		<path>./Melfand Stories (Korea).zip</path>
+		<name>멜판드 스토리 (한글)</name>
+		<image>./boxart/Melfand Stories.png</image>
+		<video>./snap/Melfand Stories.mp4</video>
+		<developer>스팅</developer>
+		<publisher>아스키</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19940325T000000</releasedate>
+	</game>
+	<game>
+		<path>./Neugier - Umi to Kaze no Kodou (Korea).zip</path>
+		<name>노이기아 - 바다와 바람의 고동 (한글)</name>
+		<image>./boxart/Neugier - Umi to Kaze no Kodou.png</image>
+		<video>./snap/Neugier - Umi to Kaze no Kodou.mp4</video>
+		<developer>울프 팀</developer>
+		<publisher>텔넷 저팬</publisher>
+		<genre>롤플레잉</genre>
+		<players>5</players>
+		<releasedate>19930326T000000</releasedate>
+	</game>
+	<game>
+		<path>./Nosferatu (Korea).zip</path>
+		<name>노스페라투 (한글)</name>
+		<image>./boxart/Nosferatu.png</image>
+		<video>./snap/Nosferatu.mp4</video>
+		<developer>세타</developer>
+		<publisher>세타</publisher>
+		<genre>플랫폼</genre>
+		<players/>
+		<releasedate>19941007T000000</releasedate>
+	</game>
+	<game>
+		<path>./Otogirisou (Korea).zip</path>
+		<name>제절초 (한글)</name>
+		<image>./boxart/Otogirisou.png</image>
+		<video>./snap/Otogirisou.mp4</video>
+		<developer>춘소프트</developer>
+		<publisher>춘소프트</publisher>
+		<genre>어드벤처</genre>
+		<players>2</players>
+		<releasedate>19920307T000000</releasedate>
+	</game>
+	<game>
+		<path>./Rockman 7 - Shukumei no Taiketsu! (Korea).zip</path>
+		<name>록맨 7 - 숙명의 대결! (한글)</name>
+		<image>./boxart/Rockman 7 - Shukumei no Taiketsu!.png</image>
+		<video>./snap/Rockman 7 - Shukumei no Taiketsu!.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>플랫폼</genre>
+		<players>2</players>
+		<releasedate>19950324T000000</releasedate>
+	</game>
+	<game>
+		<path>./Rockman X (Korea) (Rev 1).zip</path>
+		<name>록맨 X (한글)</name>
+		<image>./boxart/Rockman X.png</image>
+		<video>./snap/Rockman X.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>플랫폼</genre>
+		<players>4</players>
+		<releasedate>19940107T000000</releasedate>
+	</game>
+	<game>
+		<path>./Rockman X2 (Korea).zip</path>
+		<name>록맨 X2 (한글)</name>
+		<image>./boxart/Rockman X2.png</image>
+		<video>./snap/Rockman X2.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>플랫폼</genre>
+		<players>1</players>
+		<releasedate>19950114T000000</releasedate>
+	</game>
+	<game>
+		<path>./Rockman X3 (Korea).zip</path>
+		<name>록맨 X3 (한글)</name>
+		<image>./boxart/Rockman X3.png</image>
+		<video>./snap/Rockman X3.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>플랫폼</genre>
+		<players>1</players>
+		<releasedate>19960123T000000</releasedate>
+	</game>
+	<game>
+		<path>./Rockman &amp; Forte (Korea).zip</path>
+		<name>록맨 &amp; 포르테 (한글)</name>
+		<image>./boxart/Rockman &amp; Forte.png</image>
+		<video>./snap/Rockman &amp; Forte.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>플랫폼</genre>
+		<players>2</players>
+		<releasedate>19980424T000000</releasedate>
+	</game>
+	<game>
+		<path>./Rokudenashi Blues - Taiketsu! Tokyo Shitennou (Korea).zip</path>
+		<name>별볼일 없는 블루스 - 대결! 도쿄사천왕 (한글)</name>
+		<image>./boxart/Rokudenashi Blues - Taiketsu! Tokyo Shitennou.png</image>
+		<video>./snap/Rokudenashi Blues - Taiketsu! Tokyo Shitennou.mp4</video>
+		<developer>토세</developer>
+		<publisher>반다이</publisher>
+		<genre>어드벤처</genre>
+		<players>2</players>
+		<releasedate>19940415T000000</releasedate>
+	</game>
+	<game>
+		<path>./Romancing Sa-Ga (Korea).zip</path>
+		<name>로맨싱 사가 (한글)</name>
+		<image>./boxart/Romancing Sa-Ga.png</image>
+		<video>./snap/Romancing Sa-Ga.mp4</video>
+		<developer>스퀘어 에닉스</developer>
+		<publisher>스퀘어 에닉스</publisher>
+		<genre>롤플레잉</genre>
+		<players>2</players>
+		<releasedate>19920128T000000</releasedate>
+	</game>
+	<game>
+		<path>./Romancing Sa-Ga 2 (Korea).zip</path>
+		<name>로맨싱 사가 2 (한글)</name>
+		<image>./boxart/Romancing Sa-Ga 2.png</image>
+		<video>./snap/Romancing Sa-Ga 2.mp4</video>
+		<developer>스퀘어 에닉스</developer>
+		<publisher>스퀘어 에닉스</publisher>
+		<genre>롤플레잉</genre>
+		<players>4</players>
+		<releasedate>19931210T000000</releasedate>
+	</game>
+	<game>
+		<path>./Romancing Sa-Ga 3 (Korea).zip</path>
+		<name>로맨싱 사가 3 (한글)</name>
+		<image>./boxart/Romancing Sa-Ga 3.png</image>
+		<video>./snap/Romancing Sa-Ga 3.mp4</video>
+		<developer>스퀘어 에닉스</developer>
+		<publisher>스퀘어 에닉스</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19951111T000000</releasedate>
+	</game>
+	<game>
+		<path>./Rudra no Hihou (Korea).zip</path>
+		<name>루드라의 비보 (한글)</name>
+		<image>./boxart/Rudra no Hihou.png</image>
+		<video>./snap/Rudra no Hihou.mp4</video>
+		<developer>스퀘어 에닉스</developer>
+		<publisher>스퀘어 에닉스</publisher>
+		<genre>롤플레잉</genre>
+		<players>2</players>
+		<releasedate>19960405T000000</releasedate>
+	</game>
+	<game>
+		<path>./Seiken Densetsu 2 (Korea).zip</path>
+		<name>성검전설 2 (한글)</name>
+		<image>./boxart/Seiken Densetsu 2.png</image>
+		<video>./snap/Seiken Densetsu 2.mp4</video>
+		<developer>스퀘어 에닉스</developer>
+		<publisher>스퀘어 에닉스</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19931003T000000</releasedate>
+	</game>
+	<game>
+		<path>./Seiken Densetsu 3 (Korea).zip</path>
+		<name>성검전설 3 (한글)</name>
+		<image>./boxart/Seiken Densetsu 3.png</image>
+		<video>./snap/Seiken Densetsu 3.mp4</video>
+		<developer>스퀘어 에닉스</developer>
+		<publisher>스퀘어 에닉스</publisher>
+		<genre>롤플레잉</genre>
+		<players>2</players>
+		<releasedate>19950930T000000</releasedate>
+	</game>
+	<game>
+		<path>./Slayers (Korea).zip</path>
+		<name>슬레이어즈 (한글)</name>
+		<image>./boxart/Slayers.png</image>
+		<video>./snap/Slayers.mp4</video>
+		<developer>BEC</developer>
+		<publisher>반프레스토</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19940624T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Fox (Korea) (Rev 1).zip</path>
+		<name>스타 폭스 (한글)</name>
+		<image>./boxart/Star Fox.png</image>
+		<video>./snap/Star Fox.mp4</video>
+		<developer>닌텐도</developer>
+		<publisher>닌텐도</publisher>
+		<genre>슈팅</genre>
+		<players>1</players>
+		<releasedate>19930221T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Donkey Kong (Korea) (Rev 1).zip</path>
+		<name>슈퍼 동키콩 (한글)</name>
+		<image>./boxart/Super Donkey Kong.png</image>
+		<video>./snap/Super Donkey Kong.mp4</video>
+		<developer>레어웨어</developer>
+		<publisher>닌텐도</publisher>
+		<genre>플랫폼</genre>
+		<players>8</players>
+		<releasedate>19941126T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Mario World - Super Mario Bros. 4 (Korea).zip</path>
+		<name>슈퍼 마리오 월드 - 슈퍼 마리오 브라더즈 4 (한글)</name>
+		<image>./boxart/Super Mario World - Super Mario Bros. 4.png</image>
+		<video>./snap/Super Mario World - Super Mario Bros. 4.mp4</video>
+		<developer>닌텐도</developer>
+		<publisher>닌텐도</publisher>
+		<genre>플랫폼</genre>
+		<players>2</players>
+		<releasedate>19901121T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Mario - Yossy Island (Korea) (Rev 2).zip</path>
+		<name>슈퍼 마리오 - 요시 아일랜드 (한글)</name>
+		<image>./boxart/Super Mario - Yossy Island.png</image>
+		<video>./snap/Super Mario - Yossy Island.mp4</video>
+		<developer>닌텐도</developer>
+		<publisher>닌텐도</publisher>
+		<genre>플랫폼</genre>
+		<players>4</players>
+		<releasedate>19950805T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Mario All-Stars (Korea).zip</path>
+		<name>슈퍼 마리오 올 스타즈 (한글)</name>
+		<image>./boxart/Super Mario All-Stars.png</image>
+		<video>./snap/Super Mario All-Stars.mp4</video>
+		<developer>닌텐도</developer>
+		<publisher>닌텐도</publisher>
+		<genre>플랫폼</genre>
+		<players>2</players>
+		<releasedate>19931216T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Mario Kart (Korea).zip</path>
+		<name>슈퍼 마리오 카트 (한글)</name>
+		<image>./boxart/Super Mario Kart.png</image>
+		<video>./snap/Super Mario Kart.mp4</video>
+		<developer>닌텐도</developer>
+		<publisher>닌텐도</publisher>
+		<genre>레이싱</genre>
+		<players>1</players>
+		<releasedate>19930121T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Mario RPG (Korea).zip</path>
+		<name>슈퍼 마리오 RPG (한글)</name>
+		<image>./boxart/Super Mario RPG.png</image>
+		<video>./snap/Super Mario RPG.mp4</video>
+		<developer>스퀘어 에닉스</developer>
+		<publisher>닌텐도/스퀘어</publisher>
+		<genre>롤플레잉</genre>
+		<players>2</players>
+		<releasedate>19960309T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Metroid (Korea, USA) (En,Ko).zip</path>
+		<name>슈퍼 메트로이드 (한글)</name>
+		<image>./boxart/Super Metroid.png</image>
+		<video>./snap/Super Metroid.mp4</video>
+		<developer>닌텐도</developer>
+		<publisher>닌텐도</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate>19940728T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Robot Taisen EX (Korea).zip</path>
+		<name>슈퍼 로봇 대전 EX (한글)</name>
+		<image>./boxart/Super Robot Taisen EX.png</image>
+		<video>./snap/Super Robot Taisen EX.mp4</video>
+		<developer>반프레스토</developer>
+		<publisher>반프레스토</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19940325T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Robot Taisen Gaiden - Masoukishin - The Lord of Elemental (Korea).zip</path>
+		<name>슈퍼 로봇 대전 외전 - 마장기신 - 더 로드 오브 엘레멘탈 (한글)</name>
+		<image>./boxart/Super Robot Taisen Gaiden - Masoukishin - The Lord of Elemental.png</image>
+		<video>./snap/Super Robot Taisen Gaiden - Masoukishin - The Lord of Elemental.mp4</video>
+		<developer>반프레스토</developer>
+		<publisher>반프레스토</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19960322T000000</releasedate>
+	</game>
+	<game>
+		<path>./Tactics Ogre - Let Us Cling Together (Korea) (Rev 2).zip</path>
+		<name>택틱스 오우거 (한글)</name>
+		<image>./boxart/Tactics Ogre - Let Us Cling Together.png</image>
+		<video>./snap/Tactics Ogre - Let Us Cling Together.mp4</video>
+		<developer>퀘스트</developer>
+		<publisher>퀘스트</publisher>
+		<genre>롤플레잉</genre>
+		<players>2</players>
+		<releasedate>19951006T000000</releasedate>
+	</game>
+	<game>
+		<path>./Tales of Phantasia (Korea).zip</path>
+		<name>테일즈 오브 판타지아 (한글)</name>
+		<image>./boxart/Tales of Phantasia.png</image>
+		<video>./snap/Tales of Phantasia.mp4</video>
+		<developer>남코</developer>
+		<publisher>남코</publisher>
+		<genre>롤플레잉</genre>
+		<players>2</players>
+		<releasedate>19951215T000000</releasedate>
+	</game>
+	<game>
+		<path>./Terranigma (Korea).zip</path>
+		<name>테라니그마 (한글)</name>
+		<image>./boxart/Terranigma.png</image>
+		<video>./snap/Terranigma.mp4</video>
+		<developer>퀸텟</developer>
+		<publisher>닌텐도</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19961219T000000</releasedate>
+	</game>
+	<game>
+		<path>./Treasure Hunter G (Korea).zip</path>
+		<name>트레져 헌터 G (한글)</name>
+		<image>./boxart/Treasure Hunter G.png</image>
+		<video>./snap/Treasure Hunter G.mp4</video>
+		<developer>스팅</developer>
+		<publisher>스퀘어 에닉스</publisher>
+		<genre>롤플레잉</genre>
+		<players>2</players>
+		<releasedate>19960524T000000</releasedate>
+	</game>
+	<game>
+		<path>./Undercover Cops (Korea).zip</path>
+		<name>언더커버 캅스 (한글)</name>
+		<image>./boxart/Undercover Cops.png</image>
+		<video>./snap/Undercover Cops.mp4</video>
+		<developer>바리</developer>
+		<publisher>아이렘</publisher>
+		<genre>격투</genre>
+		<players/>
+		<releasedate>19950303T000000</releasedate>
+	</game>
+	<game>
+		<path>./Wedding Peach (Korea).zip</path>
+		<name>웨딩 피치 (한글)</name>
+		<image>./boxart/Wedding Peach.png</image>
+		<video>./snap/Wedding Peach.mp4</video>
+		<developer>시마다 키카쿠</developer>
+		<publisher>KSS</publisher>
+		<genre>캐주얼게임</genre>
+		<players/>
+		<releasedate>19950929T000000</releasedate>
+	</game>
+	<game>
+		<path>./Xak - The Art of Visual Stage (Korea).zip</path>
+		<name>쟈크 - 더 아트 오브 비쥬얼 스테이지 (한글)</name>
+		<image>./boxart/Xak - The Art of Visual Stage.png</image>
+		<video>./snap/Xak - The Art of Visual Stage.mp4</video>
+		<developer>마이크로캐빈</developer>
+		<publisher>선소프트</publisher>
+		<genre>롤플레잉</genre>
+		<players>2</players>
+		<releasedate>19930226T000000</releasedate>
+	</game>
+	<game>
+		<path>./Ys III - Wanderers from Ys (Korea).zip</path>
+		<name>이스 3 - 원더러스 프롬 이스 (한글)</name>
+		<image>./boxart/Ys III - Wanderers from Ys.png</image>
+		<video>./snap/Ys III - Wanderers from Ys.mp4</video>
+		<developer>니혼 팔콘</developer>
+		<publisher>토킨하우스</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19910621T000000</releasedate>
+	</game>
+	<game>
+		<path>./Ys IV - Mask of the Sun (Korea).zip</path>
+		<name>이스 4 - 마스크 오브 더 선 (한글)</name>
+		<image>./boxart/Ys IV - Mask of the Sun.png</image>
+		<video>./snap/Ys IV - Mask of the Sun.mp4</video>
+		<developer>니혼 팔콘</developer>
+		<publisher>토킨하우스</publisher>
+		<genre>롤플레잉</genre>
+		<players/>
+		<releasedate>19931119T000000</releasedate>
+	</game>
+	<game>
+		<path>./Zelda no Densetsu - Kamigami no Triforce (Korea) (Rev 2).zip</path>
+		<name>젤다의 전설 - 신들의 트라이포스 (한글)</name>
+		<image>./boxart/Zelda no Densetsu - Kamigami no Triforce.png</image>
+		<video>./snap/Zelda no Densetsu - Kamigami no Triforce.mp4</video>
+		<developer>닌텐도</developer>
+		<publisher>닌텐도</publisher>
+		<genre>어드벤처</genre>
+		<players/>
+		<releasedate>19911121T000000</releasedate>
+	</game>
+</gameList>

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+* 원본 자료 출처 
+  https://dsno.tistory.com/7439
+  2021.6.4 [신 메뉴] 메가 드라이브 게임 모음
+  메가 드라이브 (한글 패치판)
+
+* 덴타클팀(http://cafe.naver.com/raspigamer)의 레트로게임 롬 목록 한글화 프로젝트를 참조
+* 라이센스 : MIT
+* 작성자 : 브리티쉬 (british2@naver.com)
+-->
+<gameList>
+	<game>
+		<path>./Advanced Busterhawk Gleylancer (Korea).zip</path>
+		<name>그레이랜서 어드벤스드 버스터호크 (한글패치)</name>
+		<image>./boxart/Advanced Busterhawk Gleylancer.png</image>
+		<video>./snap/Advanced Busterhawk Gleylancer.mp4</video>
+		<developer>마사야</developer>
+		<publisher>NCS</publisher>
+		<genre>슈팅</genre>
+		<players>1</players>
+		<releasedate>19920717T000000</releasedate>
+	</game>
+	<game>
+		<path>./Alisia Dragoon (Korea).zip</path>
+		<name>알리시아 드라군 (한글패치)</name>
+		<image>./boxart/Alisia Dragoon.png</image>
+		<video>./snap/Alisia Dragoon.mp4</video>
+		<developer>게임 아츠</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>1</players>
+		<releasedate>19920401T000000</releasedate>
+	</game>
+	<game>
+		<path>./Contra - The Hard Corps (Korea).zip</path>
+		<name>혼두라 - 하드 콥스 (한글패치)</name>
+		<image>./boxart/Contra - The Hard Corps.png</image>
+		<video>./snap/Contra - The Hard Corps.mp4</video>
+		<developer>코나미</developer>
+		<publisher>코나미</publisher>
+		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>19940101T000000</releasedate>
+	</game>
+	<game>
+		<path>./El. Viento (Korea).zip</path>
+		<name>엘비엔토 (한글패치)</name>
+		<image>./boxart/El.Viento.png</image>
+		<video>./snap/El. Viento.mp4</video>
+		<developer>울프 팀</developer>
+		<publisher>리노베이션 프로덕츠</publisher>
+		<genre>플랫폼</genre>
+		<players>1</players>
+		<releasedate>19910101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Elemental Master (Korea).zip</path>
+		<name>엘리멘탈 마스터 (한글패치)</name>
+		<image>./boxart/Elemental Master.png</image>
+		<video>./snap/Elemental Master.mp4</video>
+		<developer>테크노소프트</developer>
+		<publisher>테크노소프트</publisher>
+		<genre>슈팅</genre>
+		<players>1</players>
+		<releasedate>19900101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Exile - Toki no Hazama he (Korea).zip</path>
+		<name>엑자일 - 시의 협간 (한글패치)</name>
+		<image>./boxart/Exile - Toki no Hazama he.png</image>
+		<video>./snap/Exile - Toki no Hazama he.mp4</video>
+		<developer>리노베이션 프로덕츠</developer>
+		<publisher>텔넷</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19911206T000000</releasedate>
+	</game>
+	<game>
+		<path>./Gunstar Heroes (Korea).zip</path>
+		<name>건 스타 히어로즈 (한글패치)</name>
+		<image>./boxart/Gunstar Heroes.png</image>
+		<video>./snap/Gunstar Heroes.mp4</video>
+		<developer>트레저</developer>
+		<publisher>세가</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19930910T000000</releasedate>
+	</game>
+	<game>
+		<path>./Honoo no Toukyuuji - Dodge Danpei (Korea).zip</path>
+		<name>피구왕 통키 (한글패치)</name>
+		<image>./boxart/Honoo no Toukyuuji - Dodge Danpei.png</image>
+		<video>./snap/Honoo no Toukyuuji - Dodge Danpei.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>1</players>
+		<releasedate>19920710T000000</releasedate>
+	</game>
+	<game>
+		<path>./Immortal, The (Korea).zip</path>
+		<name>임모탈 (한글패치)</name>
+		<image>./boxart/The Immortal.png</image>
+		<video>./snap/The Immortal.mp4</video>
+		<developer>샌드캐슬</developer>
+		<publisher>일렉트로닉 아츠</publisher>
+		<genre>어드벤쳐</genre>
+		<players>1</players>
+		<releasedate>19911101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Landstalker - Koutei no Zaihou (Korea).zip</path>
+		<name>랜드스토커 - 황제의 재보 (한글패치)</name>
+		<image>./boxart/Landstalker - Koutei no Zaihou.png</image>
+		<video>./snap/Landstalker - Koutei no Zaihou.mp4</video>
+		<developer>클라이막스 엔터테인먼트</developer>
+		<publisher>세가</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19921030T000000</releasedate>
+	</game>
+	<game>
+		<path>./Mugen Senshi Valis (Korea).zip</path>
+		<name>몽환 전사 바리스 (한글패치)</name>
+		<image>./boxart/Mugen Senshi Valis.png</image>
+		<video>./snap/Mugen Senshi Valis.mp4</video>
+		<developer>액션</developer>
+		<publisher>액션</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate>19910101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Musha Aleste - Full Metal Fighter Ellinor (Korea).zip</path>
+		<name>무사 알레스트 - 풀메탈 파이터 엘리노어 (한글패치)</name>
+		<image>./boxart/Musha Aleste - Full Metal Fighter Ellinor.png</image>
+		<video>./snap/Musha Aleste - Full Metal Fighter Ellinor.mp4</video>
+		<developer>컴파일</developer>
+		<publisher>세이즈믹 소프트웨어</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate>19901221T000000</releasedate>
+	</game>
+	<game>
+		<path>./Phantasy Star - Sennenki no Owari ni (Korea).zip</path>
+		<name>판타지 스타 - 천년기의 마지막에 (한글패치)</name>
+		<image>./boxart/Phantasy Star - Sennenki no Owari ni.png</image>
+		<video>./snap/Phantasy Star - Sennenki no Owari ni.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>대전격투</genre>
+		<players>1</players>
+		<releasedate>19940402T000000</releasedate>
+	</game>
+	<game>
+		<path>./Phantasy Star II - Kaerazaru Toki no Owari ni (Korea).zip</path>
+		<name>판타지 스타 II - 돌아오지 않는 시간의 끝 (한글패치)</name>
+		<image>./boxart/Phantasy Star II - Kaerazaru Toki no Owari ni.png</image>
+		<video>./snap/Phantasy Star II - Kaerazaru Toki no Owari ni.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19890321T000000</releasedate>
+	</game>
+	<game>
+		<path>./SD Valis (Korea).zip</path>
+		<name>SD 바리스 (한글패치)</name>
+		<image>./boxart/SD Valis.png</image>
+		<video>./snap/SD Valis.mp4</video>
+		<developer>리노베이션 프로덕츠</developer>
+		<publisher>레이져 소프트</publisher>
+		<genre>플랫폼</genre>
+		<players>1</players>
+		<releasedate>19920214T000000</releasedate>
+	</game>
+	<game>
+		<path>./Shining and the Darkness (Korea).zip</path>
+		<name>샤이닝 앤드 더 다크니스 (한글패치)</name>
+		<image>./boxart/Shining and the Darkness.png</image>
+		<video>./snap/Shining and the Darkness.mp4</video>
+		<developer>클라이막스 엔터테인먼트</developer>
+		<publisher>클라이막스/세가/소닉소프트웨어 플래닝</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19910329T000000</releasedate>
+	</game>
+	<game>
+		<path>./Shining Force - Kamigami no Isan (Korea).zip</path>
+		<name>샤이닝 포스 - 신들의 유산 (한글패치)</name>
+		<image>./boxart/Shining Force - Kamigami no Isan.png</image>
+		<video>./snap/Shining Force - Kamigami no Isan.mp4</video>
+		<developer>클라이막스 엔터테인먼트</developer>
+		<publisher>클라이막스/세가/소닉소프트웨어 플래닝</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19920320T000000</releasedate>
+	</game>
+	<game>
+		<path>./Shining Force II - Inishie no Fuuin (Korea).zip</path>
+		<name>샤이닝 포스 II - 과거의 봉인 (한글패치)</name>
+		<image>./boxart/Shining Force II - Inishie no Fuuin.png</image>
+		<video>./snap/Shining Force II - Inishie no Fuuin.mp4</video>
+		<developer>카멜롯 소프트</developer>
+		<publisher>세가/소닉소프트웨어 플래닝</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19931001T000000</releasedate>
+	</game>
+	<game>
+		<path>./Story of Thor, The - Hikari o Tsugumono (Korea).zip</path>
+		<name>스토리 오브 토르 - 빛을 계승하는 자 (한글패치)</name>
+		<image>./boxart/The Story of Thor - Hikari o Tsugumono.png</image>
+		<video>./snap/The Story of Thor - Hikari o Tsugumono.mp4</video>
+		<developer>세가</developer>
+		<publisher>에이션트/세가</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19941209T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Fantasy Zone (Korea).zip</path>
+		<name>슈퍼 판타지 존 (한글패치)</name>
+		<image>./boxart/Super Fantasy Zone.png</image>
+		<video>./snap/Super Fantasy Zone.mp4</video>
+		<developer>선소프트</developer>
+		<publisher>세가/선소프트</publisher>
+		<genre>슈팅</genre>
+		<players>1</players>
+		<releasedate>19930101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Shinobi II, The (Korea).zip</path>
+		<name>수퍼 시노비 II (한글패치)</name>
+		<image>./boxart/The Super Shinobi II.png</image>
+		<video>./snap/The Super Shinobi II.mp4</video>
+		<developer>메가소프트</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>1</players>
+		<releasedate>19930723T000000</releasedate>
+	</game>
+	<game>
+		<path>./Twinkle Tale (Korea).zip</path>
+		<name>트윙클 테일 (한글패치)</name>
+		<image>./boxart/Twinkle Tale.png</image>
+		<video>./snap/Twinkle Tale.mp4</video>
+		<developer>원더 어뮤즈먼트 스튜디오</developer>
+		<publisher>토요 레코딩/원더 어뮤즈먼트 스튜디오</publisher>
+		<genre>슈팅</genre>
+		<players>1</players>
+		<releasedate>19920724T000000</releasedate>
+	</game>
+	<game>
+		<path>./Valis III (Korea).zip</path>
+		<name>바리스 III (한글패치)</name>
+		<image>./boxart/Valis III.png</image>
+		<video>./snap/Valis III.mp4</video>
+		<developer>텔넷</developer>
+		<publisher>텔넷 저팬</publisher>
+		<genre>플랫폼</genre>
+		<players>1</players>
+		<releasedate>19910322T000000</releasedate>
+	</game>
+	<game>
+		<path>./Ys - Wanderers from Ys (Korea).zip</path>
+		<name>이스 3 - 원더러스 프롬 이스 (한글패치)</name>
+		<image>./boxart/Ys - Wanderers from Ys.png</image>
+		<video>./snap/Ys - Wanderers from Ys.mp4</video>
+		<developer>니혼 팔콘</developer>
+		<publisher>팔콤/리노베이션 프로덕츠</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19911101T000000</releasedate>
+	</game>
+</gameList>

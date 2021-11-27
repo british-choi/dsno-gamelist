@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+* 원본 자료 출처 
+  https://dsno.tistory.com/7497
+  2020.3.14 [신 메뉴] 원더스완 게임 모음
+  원더스완 (일본판)
+
+* 덴타클팀(http://cafe.naver.com/raspigamer)의 레트로게임 롬 목록 한글화 프로젝트를 참조
+* 라이센스 : MIT
+* 작성자 : 브리티쉬 (british2@naver.com)
+-->
+<gameList>
+	<game>
+		<path>./Kaze no Klonoa - Moonlight Museum (Japan).zip</path>
+		<name>바람의 크로노아 - 문라이트 뮤지엄</name>
+		<image>./boxart/Kaze no Klonoa - Moonlight Museum.png</image>
+		<video>./snap/Kaze no Klonoa - Moonlight Museum.mp4</video>
+		<developer>남코</developer>
+		<publisher>반다이</publisher>
+		<genre>퍼즐게임</genre>
+		<players>1</players>
+		<releasedate>19990520T000000</releasedate>
+	</game>
+	<game>
+		<path>./Langrisser Millennium WS - The Last Century (Japan) (Rev 1).zip</path>
+		<name>랑그릿사 밀레니엄 WS - 라스트 센츄리</name>
+		<image>./boxart/Langrisser Millennium WS - The Last Century.png</image>
+		<video>./snap/Langrisser Millennium WS - The Last Century.mp4</video>
+		<developer>마사야</developer>
+		<publisher>NCS</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>20000309T000000</releasedate>
+	</game>
+	<game>
+		<path>./Pocket Fighter (Japan).zip</path>
+		<name>포켓 파이터</name>
+		<image>./boxart/Pocket Fighter.png</image>
+		<video>./snap/Pocket Fighter.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>반다이</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>20000406T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Robot Taisen Compact (Japan).zip</path>
+		<name>슈퍼 로봇 대전 콤팩트 (일본판)</name>
+		<image>./boxart/Super Robot Taisen Compact.png</image>
+		<video>./snap/Super Robot Taisen Compact.mp4</video>
+		<developer>토세</developer>
+		<publisher>반프레스토</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>19990428T000000</releasedate>
+	</game>
+	<game>
+		<path>./Tekken Card Challenge (Japan).zip</path>
+		<name>철권 카드 챌린지</name>
+		<image>./boxart/Tekken Card Challenge.png</image>
+		<video>./snap/Tekken Card Challenge.mp4</video>
+		<developer>남코</developer>
+		<publisher>반다이</publisher>
+		<genre>전략</genre>
+		<players>1</players>
+		<releasedate>19990617T000000</releasedate>
+	</game>
+</gameList>

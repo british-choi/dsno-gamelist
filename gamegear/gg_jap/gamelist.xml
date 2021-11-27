@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+* 원본 자료 출처 
+  https://dsno.tistory.com/7435
+  2020.3.12 [신 메뉴] 게임 기어 게임 모음
+  게임 기어 (일본판)
+
+* 덴타클팀(http://cafe.naver.com/raspigamer)의 레트로게임 롬 목록 한글화 프로젝트를 참조
+* 라이센스 : MIT
+* 작성자 : 브리티쉬 (british2@naver.com)
+-->
+<gameList>
+	<game>
+		<path>./Dynamite Headdy (Japan).zip</path>
+		<name>다이너마이트 헤디 (일본판)</name>
+		<image>./boxart/Dynamite Headdy.png</image>
+		<video>./snap/Dynamite Headdy.mp4</video>
+		<developer>트레저</developer>
+		<publisher>세가</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate>19940805T000000</releasedate>
+	</game>
+	<game>
+		<path>./Garou Densetsu Special (Japan).zip</path>
+		<name>아랑전설 스페셜 (일본판)</name>
+		<image>./boxart/Garou Densetsu Special.png</image>
+		<video>./snap/Garou Densetsu Special.mp4</video>
+		<developer>타쿠요</developer>
+		<publisher>SNK</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19950302T000000</releasedate>
+	</game>
+	<game>
+		<path>./Puyo Puyo Tsuu (Japan).zip</path>
+		<name>뿌요 뿌요 통 (일본판)</name>
+		<image>./boxart/Puyo Puyo Tsuu.png</image>
+		<video>./snap/Puyo Puyo Tsuu.mp4</video>
+		<developer>컴파일</developer>
+		<publisher>세가</publisher>
+		<genre>퍼즐</genre>
+		<players>2</players>
+		<releasedate>19940101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Puzzle &amp; Action - Ichidanto-R (Japan).zip</path>
+		<name>퍼즐 &amp; 액션 - 이치탄토R</name>
+		<image>./boxart/Puzzle &amp; Action - Ichidanto-R.png</image>
+		<video>./snap/Puzzle &amp; Action - Ichidanto-R.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>퍼즐</genre>
+		<players>2</players>
+		<releasedate>19950113T000000</releasedate>
+	</game>
+	<game>
+		<path>./Puzzle &amp; Action - Tanto-R (Japan).zip</path>
+		<name>퍼즐 &amp; 액션 - 탄토R</name>
+		<image>./boxart/Puzzle &amp; Action - Tanto-R.png</image>
+		<video>./snap/Puzzle &amp; Action - Tanto-R.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>퍼즐</genre>
+		<players>2</players>
+		<releasedate>19940101T000000</releasedate>
+	</game>
+</gameList>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+* 원본 자료 출처 
+  https://dsno.tistory.com/7493
+  2020.3.13 [신 메뉴] 32X 게임 모음
+  32X (일본판)
+
+* 덴타클팀(http://cafe.naver.com/raspigamer)의 레트로게임 롬 목록 한글화 프로젝트를 참조
+* 라이센스 : MIT
+* 작성자 : 브리티쉬 (british2@naver.com)
+-->
+<gameList>
+	<game>
+		<path>./Sangokushi IV (Japan).zip</path>
+		<name>삼국지 4</name>
+		<image>./boxart/Sangokushi IV.png</image>
+		<video>./snap/Sangokushi IV.mp4</video>
+		<developer>세가</developer>
+		<publisher>코에이</publisher>
+		<genre>시뮬레이션</genre>
+		<players>1</players>
+		<releasedate>19950707T000000</releasedate>
+	</game>
+	<game>
+		<path>./Space Harrier (Japan, USA).zip</path>
+		<name>스페이스 해리어</name>
+		<image>./boxart/Space Harrier.png</image>
+		<video>./snap/Space Harrier.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>1</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Wars Arcade (Japan).zip</path>
+		<name>스타 워즈 아케이드 (일본판)</name>
+		<image>./boxart/Star Wars Arcade (Japan).png</image>
+		<video>./snap/Star Wars Arcade.mp4</video>
+		<developer>루카스아츠</developer>
+		<publisher>루카스아츠</publisher>
+		<genre>액션</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Virtua Fighter (Japan, USA).zip</path>
+		<name>버추어 파이터</name>
+		<image>./boxart/Virtua Fighter (Japan, USA).png</image>
+		<video>./snap/Virtua Fighter.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19951020T000000</releasedate>
+	</game>
+	<game>
+		<path>./Virtua Racing Deluxe (Japan).zip</path>
+		<name>버추어 레이싱 디럭스 (일본판)</name>
+		<image>./boxart/Virtua Racing Deluxe (Japan).png</image>
+		<video>./snap/Virtua Racing Deluxe.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19941121T000000</releasedate>
+	</game>
+</gameList>
