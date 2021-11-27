@@ -1,6 +1,6 @@
 # dsno_gamelist
 
-* fbneo : 2021.5.20 [신 메뉴] FB Neo 게임 모음
+* fbneo : 2021.8.22 [신 메뉴] FB Neo 게임 모음
 * gamegear : 2020.3.12 [신 메뉴] 게임 기어 게임 모음
 * mame2003p : 2021.2.7 [신 메뉴] Mame2003 Plus 게임 모음
 * megadrive : 2021.6.4 [신 메뉴] 메가 드라이브 게임 모음
