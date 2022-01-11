@@ -2,7 +2,7 @@
 <!--
 * 원본 자료 출처 
   https://dsno.tistory.com/7423
-  2021.11.24 [신 메뉴] FB Neo 게임 모음
+  2022.1.7 [신 메뉴] FB Neo 게임 모음
 
 * 덴타클팀(http://cafe.naver.com/raspigamer)의 레트로게임 롬 목록 한글화 프로젝트를 참조
 * 에뮬 게임동(https://cafe.naver.com/setopbox)의 연두공주님 게임리스트 참조
@@ -10,7 +10,9 @@
 * 작성자 : 브리티쉬 (british2@naver.com)
 -->
 <gameList>
-	<!--	90년대 이전 캡콤 게임 목록	-->
+	<!--
+		90년대 이전 캡콤 게임 목록
+	-->
 	<folder>
 		<path>./capcom</path>
 		<name>90년대 이전 캡콤</name>
@@ -743,7 +745,9 @@ SNK 이까리 시리즈와 비슷한 군인 전쟁 종스크롤 게임으로 임
 간단한 조작으로 등장하는 수많은 적을 파괴하는 고전 슈팅 게임.
 두 가지 무기인 블래스터 및 제한된 폭탄만 가지고도 재미 있게 즐길수 있는 게임</desc>
 	</game>
-	<!--	케이브 게임 목록	-->
+	<!--
+		케이브 게임 목록
+	-->
 	<folder>
 		<path>./cave</path>
 		<name>케이브</name>
@@ -1305,7 +1309,9 @@ C버튼은 폭탄 개념으로 기체가 가진 가장 강력한 무기를 발�
 공은 조이스틱으로 제어되는 '핀볼 플런저'를 통해 플레이 영역으로 발사되며 핀볼에서와 같이 플런저를 뒤로 당겨 볼을 좀 더 정확히 멀리 보내어 연쇄하는 방식.  
 각 공을 목표물에 정확하게 떨어뜨리기 위해서는 필요한 힘과 거리를 마스터하는 것이 이게임의 고수가 되는 지름길</desc>
 	</game>
-	<!--	CPS-1	-->
+	<!--
+		CPS-1
+	-->
 	<folder>
 		<path>./cps1</path>
 		<name>캡콤 플레이 시스템 I</name>
@@ -3129,7 +3135,9 @@ CPU : 68000, Z80
 경우에 따라서는 적을 한 방에 죽일 수 있는 의천검같은 아이템도 나온다. 또한 징을 먹으면 말이 나오며 이 말에 탑승할 수 있다. 음식은 체력을 회복시킨다.
 조작키는 A공격, B버튼이 점프, A버튼과 B버튼을 같이 누르면 필살기로 이는 기존의 대전격투게임에서 사용된 버튼구조이다. 또한 각 캐릭터마다 필살기가 존재한다.</desc>
 	</game>
-	<!--	CPS-2	-->
+	<!--
+		CPS-2
+	-->
 	<folder>
 		<path>./cps2</path>
 		<name>캡콤 플레이 시스템 II</name>
@@ -4736,6 +4744,17 @@ VS시리즈 제 3탄으로 일단 메인 캐릭터와 보조 캐릭터를 합쳐
 고우키(아쿠마)의 경악할만한 데뷔작으로도 알려져있는 작품.</desc>
 	</game>
 	<game>
+		<path>./cps2/ssf2xjr1trn.zip</path>
+		<name>슈퍼 스트리트 파이터 II X - GMC 트레이너 (940223 일본판)</name>
+		<image>./cps2/boxart/ssf2xj.png</image>
+		<video>./cps2/snap/ssf2t.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>1994</releasedate>
+	</game>
+	<game>
 		<path>./cps2/vhunt2.zip</path>
 		<name>뱀파이어 헌터 2 - 다크스토커의 복수 (970929 일본판)</name>
 		<image>./cps2/boxart/vhunt2.png</image>
@@ -4918,7 +4937,9 @@ X-MEN 세력으론 사이클롭스, 울버린, 스톰, 로그, 마그네트, 저
 스트리트 파이터 세력으론 류, 캔, 고우키, 춘리, 캐미, 장기에프, 달심, 베가, 냇쉬등이 나오고, 
 X-MEN 세력으론 사이클롭스, 울버린, 스톰, 로그, 마그네트, 저거노트, 아포칼립스 등이 있다.</desc>
 	</game>
-	<!--	CPS-3	-->
+	<!--
+		CPS-3
+	-->
 	<folder>
 		<path>./cps3</path>
 		<name>캡콤 플레이 시스템 III</name>
@@ -5237,7 +5258,9 @@ RYU에 커서를 위치하고 위, 아래, 위 -&gt; Ken으로 이동 후 위(x2
 캐릭터 선택시 누르는 버튼에 따라 6종류의 색상으로 의상이 바뀌어 나온다.
 숨겨진 색상 : 캐릭터 선택시 약펀치+중킥+강펀치 를 누르면 숨겨진 색상으로 선택가능하다.</desc>
 	</game>
-	<!--	데이터 이스트	-->
+	<!--
+		데이터 이스트
+	-->
 	<folder>
 		<path>./dataeast</path>
 		<name>데이터 이스트</name>
@@ -8305,7 +8328,9 @@ KBO출신의 첫 일본리그 진출사례이고 본작은 세계대회가 컨�
 하지만 자비가인은 지형을 교묘하게 이용해, 지중에 제국을 재건해 그 형세를 살피고 있었던 것이다.
 그리고 지금, 전투기 CX－19에의 공격이 시작되려 하고 있었다···</desc>
 	</game>
-	<!--	갤럭시안	-->
+	<!--
+		갤럭시안
+	-->
 	<folder>
 		<path>./galaxian</path>
 		<name>갤럭시안</name>
@@ -9254,7 +9279,9 @@ KBO출신의 첫 일본리그 진출사례이고 본작은 세계대회가 컨�
 		<players>2</players>
 		<releasedate>1982</releasedate>
 	</game>
-	<!--	아이렘	-->
+	<!--
+		아이렘
+	-->
 	<folder>
 		<path>./irem</path>
 		<name>아이렘</name>
@@ -11054,7 +11081,9 @@ A가 공격, B가 점프로 상당히 키 조작이 단순하다.
 빼앗긴 평화의 수호신"미네르바"을 되찾지 않으면 우리 뮤르족은 멸망 해 버린다······.
 그 때, 뮤르중에서 한사람의 용감한 젊은이가 일어섰다.</desc>
 	</game>
-	<!--	카네코	-->
+	<!--
+		카네코
+	-->
 	<folder>
 		<path>./kaneko</path>
 		<name>카네코</name>
@@ -12047,7 +12076,9 @@ Ferrari, Alfa Romeo, Mercedes Benz 등의 클래식 자동차가 등장하는 �
 		<desc>1993년 아틀라스에서 발매한 2인용 슈팅 게임.
 카네코16 드라이버를 사용하여 제작이 되었으며 라이덴1과 타수진을 합쳐 놓은듯한 슈팅 게임입니다.</desc>
 	</game>
-	<!--	코나미	-->
+	<!--
+		코나미
+	-->
 	<folder>
 		<path>./konami</path>
 		<name>코나미</name>
@@ -15408,7 +15439,9 @@ X-Men의 임무는 사악한 돌연변이에게 붙잡혀 현재 매그니토에
 패미컴판에는 얍삽이가 있다. 수직점프 하강중 점프킥을 상대가 맞으면 경직되는데 다시 수직점프 하강중 점프킥을 맞출 수 있으므로
 무한 하메가 성립. 일본에서는 나름 유명한 비기였는지 변집동화에서 필살기로 사용한다.</desc>
 	</game>
-	<!--	미드웨이	-->
+	<!--
+		미드웨이
+	-->
 	<folder>
 		<path>./midway</path>
 		<name>미드웨이</name>
@@ -15957,7 +15990,37 @@ WWF 챔피언쉽의 경우 이쪽은 혼자인데 상대는 2명, 또는 3명이
 돌진하는 기술이 있다거나, 장풍기술도 더 많아져서 역시 인유어하우스 추가 캐릭터인 오웬 하트는 플레잉 카드를 장풍으로 쏜다거나 하기도 한다.
 언더테이커한테만 페이탈리티가 있다. 물론 모탈 컴뱃의 그것들처럼 잔인하게 죽이는 건 아니고, 상대를 관짝 안에 가두는 마무리.</desc>
 	</game>
-	<!--	네오지오	-->
+	<game>
+		<path>./midway/wwfmanac.zip</path>
+		<name>WWF: 레슬매니아 (애시드 클로운 에디션 2020.12.02 SP2)</name>
+		<image>./midway/boxart/wwfmania.png</image>
+		<video>./midway/snap/wwfmania.mp4</video>
+		<developer>미드웨이</developer>
+		<publisher>미드웨이</publisher>
+		<genre>스포츠 / 레슬링</genre>
+		<players>2</players>
+		<releasedate>1995</releasedate>
+		<desc>미국의 게임제작사 미드웨이에서 1995년에 만든 레슬링 게임.
+본래 오락실용 게임이지만 한국에서는 PC 이식판으로 더 유명하다.
+미국의 프로레슬링인 WWF(현재의 WWE)를 소재로 만든 게임이지만(정확히는 레슬매니아를 게임화)
+북미쪽에서 만든 게임이라서 같은 WWF 소재인 WWF 레슬페스트와는 차이가 상당히 나는 게임이다.
+누가 모탈 컴뱃 제작사인 미드웨이 아니랄까봐 모든 선수들이 실사로 처리되어 있으며,핀폴이 없고
+대전액션게임처럼 상대방의 체력 게이지를 다 떨구면 이기는 게임이다.
+물론 슈퍼머슬봄버와는 달리 3카운트가 없는 것을 빼면 '레슬링 게임'으로서의 기본기는 충실히 갖춘 게임이니까 걱정할 필요는 없다.
+특수기술 버튼을 누르면 장풍을 사용하는 모습을 보여주기도 한다.(예 : 언더테이커의 유령장풍)
+그리고 게임이 나온 시기가 시기다보니까 선수들 역시 WWF 레슬페스트와는 한명도 안 겹친다.(실제 WWF에서도 선수들이 다 물갈이가 되었으므로)
+2000년 출시된 WWF 노 머시와도 겹치는 선수들이 언더테이커, 숀 마이클스 밖에 없다.
+게임 방식은 WWF 인터컨티넨탈 챔피언쉽과 WWF 챔피언쉽이 있는데, WWF 인터컨티넨탈 챔피언쉽의 경우 1대1로 대결하지만
+WWF 챔피언쉽의 경우 이쪽은 혼자인데 상대는 2명, 또는 3명이라서 난이도가 더 어렵다.
+이 게임을 해보면 같은 WWF를 소재로 만든 게임이면서도 미국에서 만든 게임과 일본에서 만든 게임(WWF 레슬페스트같은)의 차이를
+확실히 느낄 수 있다. 후속작으로 WWF 인 유어 하우스가 있다.
+과장된 필살기 연출은 더 심해져서,일례로 인유어하우스 추가 캐릭터인 브리티시 불독의 경우 머리통이 진짜 불독(...)으로 변하면서
+돌진하는 기술이 있다거나, 장풍기술도 더 많아져서 역시 인유어하우스 추가 캐릭터인 오웬 하트는 플레잉 카드를 장풍으로 쏜다거나 하기도 한다.
+언더테이커한테만 페이탈리티가 있다. 물론 모탈 컴뱃의 그것들처럼 잔인하게 죽이는 건 아니고, 상대를 관짝 안에 가두는 마무리.</desc>
+	</game>
+	<!--
+		네오지오
+	-->
 	<folder>
 		<path>./neogeo</path>
 		<name>네오지오</name>
@@ -20900,6 +20963,22 @@ CPU : 68000, Z80
 필살 슛도 존재.</desc>
 	</game>
 	<game>
+		<path>./neogeo/xenocrisis.zip</path>
+		<name>제노 크라이시스 (NGM-BB01) (NGH-BB01)</name>
+		<image>./neogeo/boxart/xenocrisis.png</image>
+		<video>./neogeo/snap/xenocrisis.mp4</video>
+		<developer>Bitmap Bureau</developer>
+		<publisher>Bitmap Bureau</publisher>
+		<genre>슈팅 / 걷기</genre>
+		<players>2</players>
+		<releasedate>2019</releasedate>
+		<desc>한 방의 적을 모두 처치하면 다음 방으로 이동하는 형태의 탑뷰 슈팅 액션게임입니다.
+투박하면서도 강렬한 픽셀 그래픽이 매력적입니다. 피가 끓어오르는 헤비메탈
+사운드에 흠뻑 취해 다양한 총기로 적을 찟고 불태우고 난도질하다보면 
+스트레스따위는 저멀리 날려버릴 수 있습니다. 그래도 힘들다면 군번줄을 모아 캐릭터
+자체를 강화할 수 있고요. 역시 군대는 전우와 짬밥이죠.</desc>
+	</game>
+	<game>
 		<path>./neogeo/zedblade.zip</path>
 		<name>오퍼레이션 라그나로크</name>
 		<image>./neogeo/boxart/zedblade.png</image>
@@ -20944,7 +21023,9 @@ NMK 가 개발한 횡스크롤 슈팅작품.</desc>
 		<desc>2001년에 발매된 스노우 브라더스형 플랫폼 액션 게임.
 스노우 브라더스의 눈뭉치 대신 꼬마 분신을 이용한 공격이 특징.</desc>
 	</game>
-	<!--	팩맨	-->
+	<!--
+		팩맨
+	-->
 	<folder>
 		<path>./pacman</path>
 		<name>팩맨</name>
@@ -21291,7 +21372,9 @@ NMK 가 개발한 횡스크롤 슈팅작품.</desc>
 		<players>2</players>
 		<releasedate>1981</releasedate>
 	</game>
-	<!--	폴리게임 마스터	-->
+	<!--
+		폴리게임 마스터
+	-->
 	<folder>
 		<path>./pgm</path>
 		<name>폴리게임 마스터</name>
@@ -21432,7 +21515,7 @@ NMK 가 개발한 횡스크롤 슈팅작품.</desc>
 	</game>
 	<game>
 		<path>./pgm/ddpdojblk.zip</path>
-		<name>도돈파치 대왕생 블랙 레이블 (일본판, 2002.10.07. 블랙 버전)</name>
+		<name>도돈파치 대왕생 블랙 레이블 (일본판, 2002.10.07. 블랙 버전, 새것)</name>
 		<image>./pgm/boxart/ddpdojblk.png</image>
 		<video>./pgm/snap/ddpdojblk.mp4</video>
 		<developer>케이브 (AMI 라이선스)</developer>
@@ -22080,7 +22163,7 @@ PGM의 초기와 말기를 장식한 게임 시리즈로 알려져 있다.</desc
 	</game>
 	<game>
 		<path>./pgm/kovytzy.zip</path>
-		<name>삼국전기 - 일통중원 (V201, 중국판, 복제품)</name>
+		<name>삼국전기 - 일통중원 (V201, 중국판)</name>
 		<image>./pgm/boxart/kovsh.png</image>
 		<video>./pgm/snap/kovsh.mp4</video>
 		<developer>IGS</developer>
@@ -22635,7 +22718,9 @@ SUPER에서 보스 선택이 가능해진 등의 변화가 있었다.
 무림의 충돌이 곧 일어날것 같은 형세다
 중원 협격들이 모르는 사이에 원나라 조정의 음모에 빠졌다.</desc>
 	</game>
-	<!--	90년도 이후	-->
+	<!--
+		90년도 이후
+	-->
 	<folder>
 		<path>./post90s</path>
 		<name>90년도 이후</name>
@@ -26965,6 +27050,17 @@ US AAF 무스탕 및 썬더드래곤과는 달리 본작의 라이덴 사운드�
 		<desc>1998년 국내 윤성에서 제작한 퍼즐 버블 짝퉁 게임. 이번에는 성인 버전</desc>
 	</game>
 	<game>
+		<path>./post90s/magicstk.zip</path>
+		<name>매직 스틱스</name>
+		<image>./post90s/boxart/magicstk.png</image>
+		<video>./post90s/snap/magicstk.mp4</video>
+		<developer>플레이마크</developer>
+		<publisher>플레이마크</publisher>
+		<genre>카지노</genre>
+		<players>1</players>
+		<releasedate>1995</releasedate>
+	</game>
+	<game>
 		<path>./post90s/magipur.zip</path>
 		<name>매직 퍼플</name>
 		<image>./post90s/boxart/magipur.png</image>
@@ -28178,6 +28274,17 @@ Pairs는 다섯 명의 소녀가 등장하는 성인용 카드 게임입니다.
 		<releasedate>1999</releasedate>
 		<desc>1999년 아페가에서 제작한 영어 퀴즈 블록 게임.
 미국 인기 퀴즈 프로그램 DEAL OR NO DEAL의 형식과 비슷합니다.</desc>
+	</game>
+	<game>
+		<path>./post90s/powerbal.zip</path>
+		<name>파워 볼스</name>
+		<image>./post90s/boxart/powerbal.png</image>
+		<video>./post90s/snap/powerbal.mp4</video>
+		<developer>플레이마크</developer>
+		<publisher>플레이마크</publisher>
+		<genre>퍼즐 / 공 &amp; 라켓</genre>
+		<players>2</players>
+		<releasedate>1994</releasedate>
 	</game>
 	<game>
 		<path>./post90s/powerins.zip</path>
@@ -29512,6 +29619,17 @@ A.D. 2005 NEOARC CITY
 각 라운드에는 단일 화면 레벨을 지우고 여정을 계속하기 위해 완료해야 하는 새로운 목표가 있습니다.
 각 스테이지에는 12개의 라운드가 있으며 각 스테이지는 보스전으로 끝납니다.
 스테이지 내에는 플레이어가 추가 생명을 얻을 수 있는 다양한 미니 게임 챌린지가 있습니다.</desc>
+	</game>
+	<game>
+		<path>./post90s/shoottv.zip</path>
+		<name>머스트 샷 TV (시제품)</name>
+		<image>./post90s/boxart/shoottv.png</image>
+		<video>./post90s/snap/shoottv.mp4</video>
+		<developer>인크레디블 테크놀로지</developer>
+		<publisher>인크레디블 테크놀로지</publisher>
+		<genre>슈팅 / 총</genre>
+		<players>2</players>
+		<releasedate>199?</releasedate>
 	</game>
 	<game>
 		<path>./post90s/shufshot.zip</path>
@@ -31697,7 +31815,9 @@ KBO 리그를 배경으로 만든 게임이지만, KBO의 라이센스를 따지
 		<releasedate>1995</releasedate>
 		<desc>1995년 바코에서 제작한 벽돌깨기류 퍼즐 성인 게임.</desc>
 	</game>
-	<!--	90년도 이전	-->
+	<!--
+		90년도 이전
+	-->
 	<folder>
 		<path>./pre90s</path>
 		<name>90년도 이전</name>
@@ -35928,6 +36048,17 @@ KBO 리그를 배경으로 만든 게임이지만, KBO의 라이센스를 따지
 		<releasedate>1983</releasedate>
 	</game>
 	<game>
+		<path>./pre90s/nsub.zip</path>
+		<name>N-서브 (수직형)</name>
+		<image>./pre90s/boxart/nsub.png</image>
+		<video>./pre90s/snap/nsub.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅 / 갤러리</genre>
+		<players>1</players>
+		<releasedate>1980</releasedate>
+	</game>
+	<game>
 		<path>./pre90s/omega.zip</path>
 		<name>오메가</name>
 		<image>./pre90s/boxart/omega.png</image>
@@ -36256,6 +36387,17 @@ KBO 리그를 배경으로 만든 게임이지만, KBO의 라이센스를 따지
 		<genre>스포츠</genre>
 		<players>2</players>
 		<releasedate>1985</releasedate>
+	</game>
+	<game>
+		<path>./pre90s/playball.zip</path>
+		<name>플레이볼! (시제품)</name>
+		<image>./pre90s/boxart/playball.png</image>
+		<video>./pre90s/snap/playball.mp4</video>
+		<developer>윌리엄스</developer>
+		<publisher>윌리엄스</publisher>
+		<genre>퍼즐 / 공 &amp; 라켓</genre>
+		<players>1</players>
+		<releasedate>1983</releasedate>
 	</game>
 	<game>
 		<path>./pre90s/pleiads.zip</path>
@@ -39046,7 +39188,9 @@ KBO 리그를 배경으로 만든 게임이지만, KBO의 라이센스를 따지
 		<players>2</players>
 		<releasedate>1982</releasedate>
 	</game>
-	<!--	사이쿄	-->
+	<!--
+		사이쿄
+	-->
 	<folder>
 		<path>./psikyo</path>
 		<name>사이쿄</name>
@@ -39751,7 +39895,9 @@ PLUS 버전에서 추가된 T.A. DEATH 모드는 그야말로 충격과 공포 �
 일반 버전 발매된 뒤 얼마후 일부 변경점과 추가모드가 있는 PLUS버전을 무료로 배포했습니다.
 대부분 TGM2를 언급할때는 PLUS 버전을 의미하는 경우가 많습니다.</desc>
 	</game>
-	<!--	세가	-->
+	<!--
+		세가
+	-->
 	<folder>
 		<path>./sega</path>
 		<name>세가</name>
@@ -40361,6 +40507,28 @@ BGM 역시 중독성 있고 좋다.</desc>
 당시 일본 여자 레슬링 선수를 모델로 하였겠지만 다들 못생겨서 어글리 여자 프로 레슬링이라고도 불렸던 게임.</desc>
 	</game>
 	<game>
+		<path>./sega/borench.zip</path>
+		<name>보렌치 (세트 1)</name>
+		<image>./sega/boxart/borench.png</image>
+		<video>./sega/snap/borench.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>퍼즐 / 미로</genre>
+		<players>2</players>
+		<releasedate>1990</releasedate>
+	</game>
+	<game>
+		<path>./sega/borenchj.zip</path>
+		<name>보렌치 (일본판)</name>
+		<image>./sega/boxart/borench.png</image>
+		<video>./sega/snap/borench.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>퍼즐 / 미로</genre>
+		<players>2</players>
+		<releasedate>1990</releasedate>
+	</game>
+	<game>
 		<path>./sega/brain.zip</path>
 		<name>브레인</name>
 		<image>./sega/boxart/brain.png</image>
@@ -40502,6 +40670,50 @@ BGM 역시 중독성 있고 좋다.</desc>
 		<players>2</players>
 		<releasedate>1991</releasedate>
 		<desc>1991년 실제 메이져 리그 선수들이 등장하는 야구 게임.</desc>
+	</game>
+	<game>
+		<path>./sega/columns.zip</path>
+		<name>컬럼스 (세계판)</name>
+		<image>./sega/boxart/columns.png</image>
+		<video>./sega/snap/columns.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>퍼즐 / 낙하</genre>
+		<players>2</players>
+		<releasedate>1990</releasedate>
+	</game>
+	<game>
+		<path>./sega/columnsj.zip</path>
+		<name>컬럼스 (일본판)</name>
+		<image>./sega/boxart/columns.png</image>
+		<video>./sega/snap/columns.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>퍼즐 / 낙하</genre>
+		<players>2</players>
+		<releasedate>1990</releasedate>
+	</game>
+	<game>
+		<path>./sega/columns2.zip</path>
+		<name>컬럼스 II: 더 보이지 스루 타임 (세계판)</name>
+		<image>./sega/boxart/columns.png</image>
+		<video>./sega/snap/columns.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>퍼즐 / 낙하</genre>
+		<players>2</players>
+		<releasedate>1990</releasedate>
+	</game>
+	<game>
+		<path>./sega/column2j.zip</path>
+		<name>컬럼스 II: 더 보이지 스루 타임 (일본판)</name>
+		<image>./sega/boxart/columns.png</image>
+		<video>./sega/snap/columns.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>퍼즐 / 낙하</genre>
+		<players>2</players>
+		<releasedate>1990</releasedate>
 	</game>
 	<game>
 		<path>./sega/combh.zip</path>
@@ -41333,6 +41545,17 @@ E.Y.E도 ESWAT를 무력화하려고 들면서 ESWAT의 소탕 대상이 된 것
 		<releasedate>1994</releasedate>
 	</game>
 	<game>
+		<path>./sega/headonch.zip</path>
+		<name>모니타와 리모코의 헤드 온 채널 (시제품, 핵)</name>
+		<image>./sega/boxart/headonch.png</image>
+		<video>./sega/snap/headonch.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>퍼즐 / 미로</genre>
+		<players>2</players>
+		<releasedate>1994</releasedate>
+	</game>
+	<game>
 		<path>./sega/holo.zip</path>
 		<name>홀로세움 (북미판, 리비전 A)</name>
 		<image>./sega/boxart/holo.png</image>
@@ -41397,6 +41620,39 @@ E.Y.E도 ESWAT를 무력화하려고 들면서 ESWAT의 소탕 대상이 된 것
 		<genre>스포츠 / 권투</genre>
 		<players>1</players>
 		<releasedate>1987</releasedate>
+	</game>
+	<game>
+		<path>./sega/ichir.zip</path>
+		<name>퍼즐 &amp; 액션: 이치단트-R (세계판)</name>
+		<image>./sega/boxart/ichir.png</image>
+		<video>./sega/snap/ichir.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>퍼즐 / 미니게임</genre>
+		<players>2</players>
+		<releasedate>1994</releasedate>
+	</game>
+	<game>
+		<path>./sega/ichirj.zip</path>
+		<name>퍼즐 &amp; 액션: 이치단트-R (일본판)</name>
+		<image>./sega/boxart/ichirj.png</image>
+		<video>./sega/snap/ichir.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>퍼즐 / 미니게임</genre>
+		<players>2</players>
+		<releasedate>1994</releasedate>
+	</game>
+	<game>
+		<path>./sega/ichirk.zip</path>
+		<name>퍼즐 &amp; 액션: 이치단트-R (한국판)</name>
+		<image>./sega/boxart/ichir.png</image>
+		<video>./sega/snap/ichir.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>퍼즐 / 미니게임</genre>
+		<players>2</players>
+		<releasedate>1994</releasedate>
 	</game>
 	<game>
 		<path>./sega/imsorry.zip</path>
@@ -41651,6 +41907,17 @@ E.Y.E도 ESWAT를 무력화하려고 들면서 ESWAT의 소탕 대상이 된 것
 		<releasedate>1986</releasedate>
 	</game>
 	<game>
+		<path>./sega/ooparts.zip</path>
+		<name>오파츠 (시제품, 조이스틱 핵)</name>
+		<image>./sega/boxart/ooparts.png</image>
+		<video>./sega/snap/ooparts.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>퍼즐 / 벽돌깨기</genre>
+		<players>2</players>
+		<releasedate>1992</releasedate>
+	</game>
+	<game>
 		<path>./sega/opaopa.zip</path>
 		<name>오파 오파 (MC-8123, 317-0042)</name>
 		<image>./sega/boxart/opaopa.png</image>
@@ -41792,6 +42059,50 @@ E.Y.E도 ESWAT를 무력화하려고 들면서 ESWAT의 소탕 대상이 된 것
 		<genre>플랫폼 / 런 &amp; 점프</genre>
 		<players>2</players>
 		<releasedate>1985</releasedate>
+	</game>
+	<game>
+		<path>./sega/potopoto.zip</path>
+		<name>포토 포토 (일본판, 리비전 A)</name>
+		<image>./sega/boxart/potopoto.png</image>
+		<video>./sega/snap/potopoto.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>퍼즐 / 낙하</genre>
+		<players>2</players>
+		<releasedate>1994</releasedate>
+	</game>
+	<game>
+		<path>./sega/puyo.zip</path>
+		<name>뿌요뿌요 (세계판)</name>
+		<image>./sega/boxart/puyo.png</image>
+		<video>./sega/snap/puyo.mp4</video>
+		<developer>세가/컴파일</developer>
+		<publisher>세가/컴파일</publisher>
+		<genre>퍼즐 / 낙하</genre>
+		<players>2</players>
+		<releasedate>1992</releasedate>
+	</game>
+	<game>
+		<path>./sega/puyoj.zip</path>
+		<name>뿌요뿌요 (일본판, 리비전 B)</name>
+		<image>./sega/boxart/puyoj.png</image>
+		<video>./sega/snap/puyo.mp4</video>
+		<developer>세가/컴파일</developer>
+		<publisher>세가/컴파일</publisher>
+		<genre>퍼즐 / 낙하</genre>
+		<players>2</players>
+		<releasedate>1992</releasedate>
+	</game>
+	<game>
+		<path>./sega/puyopuy2.zip</path>
+		<name>뿌요뿌요 2 (일본판)</name>
+		<image>./sega/boxart/puyopuy2.png</image>
+		<video>./sega/snap/puyopuy2.mp4</video>
+		<developer>컴파일</developer>
+		<publisher>컴파일</publisher>
+		<genre>퍼즐 / 낙하</genre>
+		<players>2</players>
+		<releasedate>1994</releasedate>
 	</game>
 	<game>
 		<path>./sega/qgh.zip</path>
@@ -41946,6 +42257,28 @@ E.Y.E도 ESWAT를 무력화하려고 들면서 ESWAT의 소탕 대상이 된 것
 		<genre>슈팅 / 수직 운전</genre>
 		<players>2</players>
 		<releasedate>1983</releasedate>
+	</game>
+	<game>
+		<path>./sega/ribbit.zip</path>
+		<name>리빗!</name>
+		<image>./sega/boxart/ribbit.png</image>
+		<video>./sega/snap/ribbit.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>퍼즐 / 미로</genre>
+		<players>2</players>
+		<releasedate>1991</releasedate>
+	</game>
+	<game>
+		<path>./sega/ribbitj.zip</path>
+		<name>리빗! (일본판)</name>
+		<image>./sega/boxart/ribbit.png</image>
+		<video>./sega/snap/ribbit.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>퍼즐 / 미로</genre>
+		<players>2</players>
+		<releasedate>1991</releasedate>
 	</game>
 	<game>
 		<path>./sega/ridleofp.zip</path>
@@ -42212,6 +42545,28 @@ E.Y.E도 ESWAT를 무력화하려고 들면서 ESWAT의 소탕 대상이 된 것
 		<releasedate>1987</releasedate>
 	</game>
 	<game>
+		<path>./sega/soniccar.zip</path>
+		<name>두근두근 소닉 패트롤 카</name>
+		<image>./sega/boxart/soniccar.png</image>
+		<video>./sega/snap/soniccar.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅 / 운전</genre>
+		<players>1</players>
+		<releasedate>1991</releasedate>
+	</game>
+	<game>
+		<path>./sega/sonicfgt.zip</path>
+		<name>세가 소닉 코스모 파이터</name>
+		<image>./sega/boxart/sonicfgt.png</image>
+		<video>./sega/snap/sonicfgt.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players>1</players>
+		<releasedate>1993</releasedate>
+	</game>
+	<game>
 		<path>./sega/spacfury.zip</path>
 		<name>스페이스 퓨리 (리비전 C)</name>
 		<image>./sega/boxart/spacfury.png</image>
@@ -42278,6 +42633,17 @@ E.Y.E도 ESWAT를 무력화하려고 들면서 ESWAT의 소탕 대상이 된 것
 		<releasedate>1991</releasedate>
 	</game>
 	<game>
+		<path>./sega/ssonicbr.zip</path>
+		<name>세가 소닉 브라더스 (시제품, 핵)</name>
+		<image>./sega/boxart/ssonicbr.png</image>
+		<video>./sega/snap/ssonicbr.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼 / 런 &amp; 점프</genre>
+		<players>2</players>
+		<releasedate>1992</releasedate>
+	</game>
+	<game>
 		<path>./sega/sspirits.zip</path>
 		<name>스크램블 스피리츠 (세계판, 플로피 기반)</name>
 		<image>./sega/boxart/sspirits.png</image>
@@ -42320,6 +42686,28 @@ E.Y.E도 ESWAT를 무력화하려고 들면서 ESWAT의 소탕 대상이 된 것
 		<genre>슈팅 / 1인칭 비행</genre>
 		<players>1</players>
 		<releasedate>1982</releasedate>
+	</game>
+	<game>
+		<path>./sega/stkclmns.zip</path>
+		<name>스택 컬럼스 (세계판)</name>
+		<image>./sega/boxart/stkclmns.png</image>
+		<video>./sega/snap/stkclmns.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>퍼즐 / 낙하</genre>
+		<players>2</players>
+		<releasedate>1994</releasedate>
+	</game>
+	<game>
+		<path>./sega/stkclmnsj.zip</path>
+		<name>스택 컬럼스 (일본판)</name>
+		<image>./sega/boxart/stkclmns.png</image>
+		<video>./sega/snap/stkclmns.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>퍼즐 / 낙하</genre>
+		<players>2</players>
+		<releasedate>1994</releasedate>
 	</game>
 	<game>
 		<path>./sega/strkfgtr.zip</path>
@@ -42421,6 +42809,28 @@ E.Y.E도 ESWAT를 무력화하려고 들면서 ESWAT의 소탕 대상이 된 것
 		<releasedate>1982</releasedate>
 	</game>
 	<game>
+		<path>./sega/tantr.zip</path>
+		<name>퍼즐 &amp; 액션: 탄트-R (일본판)</name>
+		<image>./sega/boxart/tantr.png</image>
+		<video>./sega/snap/tantr.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>퍼즐 / 미니게임</genre>
+		<players>2</players>
+		<releasedate>1992</releasedate>
+	</game>
+	<game>
+		<path>./sega/tantrkor.zip</path>
+		<name>퍼즐 &amp; 액션: 탄트-R (한국판)</name>
+		<image>./sega/boxart/tantrkor.png</image>
+		<video>./sega/snap/tantrkor.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>퍼즐 / 미니게임</genre>
+		<players>2</players>
+		<releasedate>1992</releasedate>
+	</game>
+	<game>
 		<path>./sega/teddybb.zip</path>
 		<name>테디보이 블루스 (315-5115, 새 버전)</name>
 		<image>./sega/boxart/teddybb.png</image>
@@ -42441,6 +42851,28 @@ E.Y.E도 ESWAT를 무력화하려고 들면서 ESWAT의 소탕 대상이 된 것
 		<genre>퍼즐 / 낙하</genre>
 		<players>2</players>
 		<releasedate>1988</releasedate>
+	</game>
+	<game>
+		<path>./sega/tfrceac.zip</path>
+		<name>썬더 포스 AC</name>
+		<image>./sega/boxart/tfrceac.png</image>
+		<video>./sega/snap/tfrceac.mp4</video>
+		<developer>세가/테크노소프트</developer>
+		<publisher>세가/테크노소프트</publisher>
+		<genre>슈팅 / 수평 비행</genre>
+		<players>2</players>
+		<releasedate>1990</releasedate>
+	</game>
+	<game>
+		<path>./sega/tfrceacj.zip</path>
+		<name>썬더 포스 AC (일본판)</name>
+		<image>./sega/boxart/tfrceac.png</image>
+		<video>./sega/snap/tfrceac.mp4</video>
+		<developer>세가/테크노소프트</developer>
+		<publisher>세가/테크노소프트</publisher>
+		<genre>슈팅 / 수평 비행</genre>
+		<players>2</players>
+		<releasedate>1990</releasedate>
 	</game>
 	<game>
 		<path>./sega/tetrisse.zip</path>
@@ -42575,6 +43007,17 @@ E.Y.E도 ESWAT를 무력화하려고 들면서 ESWAT의 소탕 대상이 된 것
 		<releasedate>1981</releasedate>
 	</game>
 	<game>
+		<path>./sega/twinsqua.zip</path>
+		<name>트윈 스쿼시</name>
+		<image>./sega/boxart/twinsqua.png</image>
+		<video>./sega/snap/twinsqua.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>퍼즐 / 벽돌깨기</genre>
+		<players>2</players>
+		<releasedate>1991</releasedate>
+	</game>
+	<game>
 		<path>./sega/ufosensi.zip</path>
 		<name>UFO 전사 요코쨩 (MC-8123, 317-0064)</name>
 		<image>./sega/boxart/ufosensi.png</image>
@@ -42707,6 +43150,17 @@ E.Y.E도 ESWAT를 무력화하려고 들면서 ESWAT의 소탕 대상이 된 것
 		<releasedate>1992</releasedate>
 	</game>
 	<game>
+		<path>./sega/wwmarine.zip</path>
+		<name>두근두근 마린</name>
+		<image>./sega/boxart/wwmarine.png</image>
+		<video>./sega/snap/wwmarine.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅 / 기타</genre>
+		<players>1</players>
+		<releasedate>1992</releasedate>
+	</game>
+	<game>
 		<path>./sega/zaxxon.zip</path>
 		<name>잭슨 (세트 1, 리비전 D)</name>
 		<image>./sega/boxart/zaxxon.png</image>
@@ -42750,7 +43204,20 @@ E.Y.E도 ESWAT를 무력화하려고 들면서 ESWAT의 소탕 대상이 된 것
 		<players>1</players>
 		<releasedate>1982</releasedate>
 	</game>
-	<!--	세타	-->
+	<game>
+		<path>./sega/zunkyou.zip</path>
+		<name>준준교의 야망 (일본판)</name>
+		<image>./sega/boxart/zunkyou.png</image>
+		<video>./sega/snap/zunkyou.mp4</video>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅 / 3인칭</genre>
+		<players>2</players>
+		<releasedate>1994</releasedate>
+	</game>
+	<!--
+		세타
+	-->
 	<folder>
 		<path>./seta</path>
 		<name>세타</name>
@@ -43994,7 +44461,9 @@ SNK의 사무라이 쇼다운을 따라가고 있다
 		<players>2</players>
 		<releasedate>1995</releasedate>
 	</game>
-	<!--	타이토	-->
+	<!--
+		타이토
+	-->
 	<folder>
 		<path>./taito</path>
 		<name>타이토</name>
@@ -47375,7 +47844,9 @@ SNK의 사무라이 쇼다운을 따라가고 있다
 		<players>2</players>
 		<releasedate>1982</releasedate>
 	</game>
-	<!--	테크노스	-->
+	<!--
+		테크노스
+	-->
 	<folder>
 		<path>./technos</path>
 		<name>테크노스</name>
@@ -47698,7 +48169,9 @@ SNK의 사무라이 쇼다운을 따라가고 있다
 		<players>2</players>
 		<releasedate>1986</releasedate>
 	</game>
-	<!--	토아플랜	-->
+	<!--
+		토아플랜
+	-->
 	<folder>
 		<path>./toaplan</path>
 		<name>토아플랜</name>
