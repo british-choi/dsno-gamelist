@@ -2,7 +2,7 @@
 <!--
 * 원본 자료 출처 
   https://dsno.tistory.com/7423
-  2022.1.7 [신 메뉴] FB Neo 게임 모음
+  2022.1.31 [신 메뉴] FB Neo 게임 모음
 
 * 덴타클팀(http://cafe.naver.com/raspigamer)의 레트로게임 롬 목록 한글화 프로젝트를 참조
 * 에뮬 게임동(https://cafe.naver.com/setopbox)의 연두공주님 게임리스트 참조
@@ -2543,7 +2543,7 @@ Capcom CPS1 하드웨어의 미공개 퍼즐 게임</desc>
 	</game>
 	<game>
 		<path>./cps1/sf2mix.zip</path>
-		<name>스트리트 파이터 II 믹스 (v1.0)</name>
+		<name>스트리트 파이터 II 믹스 (v1.2)</name>
 		<image>./cps1/boxart/sf2mix.png</image>
 		<video>./cps1/snap/sf2mix.mp4</video>
 		<developer>해적판</developer>
@@ -4428,6 +4428,38 @@ VS시리즈 제 3탄으로 일단 메인 캐릭터와 보조 캐릭터를 합쳐
 현재 이 제로 3 이후로 정통 2D 대전액션이 100만장이 넘은 사례는 '더 킹 오브 파이터즈' 시리즈가 유일하다.</desc>
 	</game>
 	<game>
+		<path>./cps2/sfa3ce.zip</path>
+		<name>스트리트 파이터 알파 3 - 챌린저스 에디션 (980904 북미판)</name>
+		<image>./cps2/boxart/sfa3.png</image>
+		<video>./cps2/snap/sfa3.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>1998</releasedate>
+		<desc>제로 시리즈의 제 3탄이자 종결작. 
+이번은 'ISM 셀렉트' 라고 하는 새로운 시스템을 탑재해,
+1명의 캐릭터에 대해 3종류의 슈퍼콤보가 선택 가능해졌다.
+위력이 크며 게이지도 모이기 쉬운 'X-ISM'이나, 3단계의 레벨을 버튼으로 구분하여 사용가능한 'Z-ISM',
+3명의 잔상과 함께 오리지날 콤보가 작렬하는 'V-ISM'의 3 종류.
+또 '가드 크래쉬'나 '공중 콤보' 등의 신시스템도 추가되고 있다.
+
+캐릭터 구성은 제로 시리즈에 등장하지 않았던 
+기존의 캐릭터 바이슨, 발록, 블랑카, 혼다등이 새롭게 참전했으며 여기에 행방이 묘연했던 
+파이널 파이트의 주인공 코디가 첫 참전. 
+
+하지만 충격적이게도 죄수로 등장하여 많은 올드팬을 
+놀라움에 빠지게 되었는데 게임상에서 코디를 고를 시 그 원인을 알 수 있는데 평화로운 삶에 
+적응하지 못하여 방황하는 내용을 담고있다. 특히 시나리오적인 부분역시 보강되어 
+중간보스 시스템을 도입했는데 플레이어가 선택한 캐릭터에 따라 중간보스가 달라졌다. 
+특히 마지막 보스 베가와 깊은 원한이 있는 캐릭터일 경우 중간보스는 유리&amp;유니로서 
+2 대1 로 싸워야 하지만 유리와 유니가 약체인 캐미의 복사판인 관계로 난이도는 그렇게 높지 않았다. 
+
+게임자체는 결정판이라는 평가에 걸맞게 오랜시간 인기를 끌었고 2D 대전액션으로는 
+최후의 밀리언 셀러 (PS용)를 찍으면서 2D 대전액션의 마지막 투혼을 보여주었다. 
+현재 이 제로 3 이후로 정통 2D 대전액션이 100만장이 넘은 사례는 '더 킹 오브 파이터즈' 시리즈가 유일하다.</desc>
+	</game>
+	<game>
 		<path>./cps2/sfz3jh.zip</path>
 		<name>스트리트 파이터 제로 3 (980904 일본판, 히든 핵)</name>
 		<image>./cps2/boxart/sfz3j.png</image>
@@ -4753,6 +4785,11 @@ VS시리즈 제 3탄으로 일단 메인 캐릭터와 보조 캐릭터를 합쳐
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate>1994</releasedate>
+		<desc>2의 4번째 버전업이자 최후의 버전업. 2 시리즈의 결정판이라고 할 만큼 현재까지 많은 인기를 구가하고 있다. 
+애초에 발매예정에 있지 않았지만 "슈퍼 스트리트 파이터 2" 를 제작하고 나서 기판이 생각보다 남아서 처분할 목적으로 만들었지만 
+"2 대쉬" 를 연상케 할 만큼 현재까지 인기를 구가하고 있는 버전이다. 구 클래식 시리즈의 결정판중의 결정판이고 현재 2 시리즈 중에서는 
+가장 대중적인 인기를 보유하고 있으며 '투극' 에서는 2008년까지 정식종목이었지만 EVO 2009 에서는 여전히 정식종목으로 채택되어있다. 
+고우키(아쿠마)의 경악할만한 데뷔작으로도 알려져있는 작품.</desc>
 	</game>
 	<game>
 		<path>./cps2/vhunt2.zip</path>
@@ -6429,7 +6466,7 @@ RPG형 액션게임으로 인기를 끈 게임입니다.
 	</game>
 	<game>
 		<path>./dataeast/dietgo.zip</path>
-		<name>다이어트 고 고 (유럽판 v1.1 1992.09.26)</name>
+		<name>다이어트 고 고 (유럽판 v1.1 1992.09.26 V3)</name>
 		<image>./dataeast/boxart/dietgo.png</image>
 		<video>./dataeast/snap/dietgo.mp4</video>
 		<developer>데이터 이스트</developer>
@@ -11522,6 +11559,17 @@ A가 공격, B가 점프로 상당히 키 조작이 단순하다.
 이런 사람들이 자리를 뜨는 이유의 9할은 실력 부족으로 인한 게임 오버. 반면 여동생과 함께 끝까지 90% 이상으로 깬 사람도 있다고…</desc>
 	</game>
 	<game>
+		<path>./kaneko/galpaniex.zip</path>
+		<name>갈스 패닉 EX (한국판)</name>
+		<image>./kaneko/boxart/galpaniex.png</image>
+		<video>./kaneko/snap/galpani4.mp4</video>
+		<developer>카네코</developer>
+		<publisher>카네코</publisher>
+		<genre>퍼즐 / 땅따먹기 *성인*</genre>
+		<players>2</players>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
 		<path>./kaneko/galpanis.zip</path>
 		<name>갈스 패닉 S - 엑스트라 에디션 (유럽판, 리비전 1)</name>
 		<image>./kaneko/boxart/galpanis.png</image>
@@ -15999,24 +16047,7 @@ WWF 챔피언쉽의 경우 이쪽은 혼자인데 상대는 2명, 또는 3명이
 		<publisher>미드웨이</publisher>
 		<genre>스포츠 / 레슬링</genre>
 		<players>2</players>
-		<releasedate>1995</releasedate>
-		<desc>미국의 게임제작사 미드웨이에서 1995년에 만든 레슬링 게임.
-본래 오락실용 게임이지만 한국에서는 PC 이식판으로 더 유명하다.
-미국의 프로레슬링인 WWF(현재의 WWE)를 소재로 만든 게임이지만(정확히는 레슬매니아를 게임화)
-북미쪽에서 만든 게임이라서 같은 WWF 소재인 WWF 레슬페스트와는 차이가 상당히 나는 게임이다.
-누가 모탈 컴뱃 제작사인 미드웨이 아니랄까봐 모든 선수들이 실사로 처리되어 있으며,핀폴이 없고
-대전액션게임처럼 상대방의 체력 게이지를 다 떨구면 이기는 게임이다.
-물론 슈퍼머슬봄버와는 달리 3카운트가 없는 것을 빼면 '레슬링 게임'으로서의 기본기는 충실히 갖춘 게임이니까 걱정할 필요는 없다.
-특수기술 버튼을 누르면 장풍을 사용하는 모습을 보여주기도 한다.(예 : 언더테이커의 유령장풍)
-그리고 게임이 나온 시기가 시기다보니까 선수들 역시 WWF 레슬페스트와는 한명도 안 겹친다.(실제 WWF에서도 선수들이 다 물갈이가 되었으므로)
-2000년 출시된 WWF 노 머시와도 겹치는 선수들이 언더테이커, 숀 마이클스 밖에 없다.
-게임 방식은 WWF 인터컨티넨탈 챔피언쉽과 WWF 챔피언쉽이 있는데, WWF 인터컨티넨탈 챔피언쉽의 경우 1대1로 대결하지만
-WWF 챔피언쉽의 경우 이쪽은 혼자인데 상대는 2명, 또는 3명이라서 난이도가 더 어렵다.
-이 게임을 해보면 같은 WWF를 소재로 만든 게임이면서도 미국에서 만든 게임과 일본에서 만든 게임(WWF 레슬페스트같은)의 차이를
-확실히 느낄 수 있다. 후속작으로 WWF 인 유어 하우스가 있다.
-과장된 필살기 연출은 더 심해져서,일례로 인유어하우스 추가 캐릭터인 브리티시 불독의 경우 머리통이 진짜 불독(...)으로 변하면서
-돌진하는 기술이 있다거나, 장풍기술도 더 많아져서 역시 인유어하우스 추가 캐릭터인 오웬 하트는 플레잉 카드를 장풍으로 쏜다거나 하기도 한다.
-언더테이커한테만 페이탈리티가 있다. 물론 모탈 컴뱃의 그것들처럼 잔인하게 죽이는 건 아니고, 상대를 관짝 안에 가두는 마무리.</desc>
+		<releasedate>2020</releasedate>
 	</game>
 	<!--
 		네오지오
@@ -20967,16 +20998,11 @@ CPU : 68000, Z80
 		<name>제노 크라이시스 (NGM-BB01) (NGH-BB01)</name>
 		<image>./neogeo/boxart/xenocrisis.png</image>
 		<video>./neogeo/snap/xenocrisis.mp4</video>
-		<developer>Bitmap Bureau</developer>
-		<publisher>Bitmap Bureau</publisher>
+		<developer>비트맵 브루</developer>
+		<publisher>비트맵 브루</publisher>
 		<genre>슈팅 / 걷기</genre>
 		<players>2</players>
-		<releasedate>2019</releasedate>
-		<desc>한 방의 적을 모두 처치하면 다음 방으로 이동하는 형태의 탑뷰 슈팅 액션게임입니다.
-투박하면서도 강렬한 픽셀 그래픽이 매력적입니다. 피가 끓어오르는 헤비메탈
-사운드에 흠뻑 취해 다양한 총기로 적을 찟고 불태우고 난도질하다보면 
-스트레스따위는 저멀리 날려버릴 수 있습니다. 그래도 힘들다면 군번줄을 모아 캐릭터
-자체를 강화할 수 있고요. 역시 군대는 전우와 짬밥이죠.</desc>
+		<releasedate>2018</releasedate>
 	</game>
 	<game>
 		<path>./neogeo/zedblade.zip</path>
