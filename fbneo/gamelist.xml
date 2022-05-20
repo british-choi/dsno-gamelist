@@ -2,7 +2,7 @@
 <!--
 * 원본 자료 출처 
   https://dsno.tistory.com/7423
-  2022.1.31 [신 메뉴] FB Neo 게임 모음
+  2022.5.19 [신 메뉴] FB Neo 게임 모음
 
 * 덴타클팀(http://cafe.naver.com/raspigamer)의 레트로게임 롬 목록 한글화 프로젝트를 참조
 * 에뮬 게임동(https://cafe.naver.com/setopbox)의 연두공주님 게임리스트 참조
@@ -799,6 +799,17 @@ F-15XX 미드나이트 이글과 F/A-18G 킬러 호넷 기체를 골라서 플�
 개발에는 당시 도산하고 있었던 동아플랜社 스탭이 관련되고 있었고, 후에「수령봉」의 스탭과 함께 케이브社에서「에스프레이드」나「프로기어의 폭풍우」등을 개발하게 된다.</desc>
 	</game>
 	<game>
+		<path>./cave/akatana.zip</path>
+		<name>아카이 카타나 (2010/08/13 마스터 버전.)</name>
+		<image>./cave/boxart/akatana.png</image>
+		<video>./cave/snap/akatana.mp4</video>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<players>2</players>
+		<releasedate>2010</releasedate>
+	</game>
+	<game>
 		<path>./cave/crusherm.zip</path>
 		<name>크러셔 마코짱 (일본판)</name>
 		<image>./cave/boxart/crusherm.png</image>
@@ -899,6 +910,92 @@ F-15XX 미드나이트 이글과 F/A-18G 킬러 호넷 기체를 골라서 플�
 돈파치의 후속작으로, 전작에서 이어온 GP(Get Point)시스템(콤보 시스템)과 샷과 레이저 강화 시스템, 봄 캐퍼서티 시스템을 계승발전한 봄 맥시멈 시스템으로 많은 탄환을 피하는 짜릿함 외에도 특이한 게임성을 추가시켰다</desc>
 	</game>
 	<game>
+		<path>./cave/ddpdfk.zip</path>
+		<name>도돈파치 대부활 버전 1.5 (2008/06/23 마스터 버전 1.5)</name>
+		<image>./cave/boxart/ddpdfk.png</image>
+		<video>./cave/snap/ddpdfk.mp4</video>
+		<developer>케이브</developer>
+		<publisher>케이브</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players>2</players>
+		<releasedate>2008</releasedate>
+		<desc>돈파치 시리즈의 다섯 번째 작품으로 2008년 케이브가 내놓은 종스크롤 탄막 슈팅 게임.</desc>
+	</game>
+	<game>
+		<path>./cave/ddpdfk10.zip</path>
+		<name>도돈파치 대부활 버전 1.0 (2008/05/16 마스터 버전)</name>
+		<image>./cave/boxart/ddpdfk10.png</image>
+		<video>./cave/snap/ddpdfk10.mp4</video>
+		<developer>케이브</developer>
+		<publisher>케이브</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players>2</players>
+		<releasedate>2008</releasedate>
+		<desc>돈파치 시리즈의 다섯 번째 작품으로 2008년 케이브가 내놓은 종스크롤 탄막 슈팅 게임.</desc>
+	</game>
+	<game>
+		<path>./cave/dfkbl.zip</path>
+		<name>도돈파치 대부활 블랙 라벨 (2010/01/18 블랙 라벨)</name>
+		<image>./cave/boxart/dfkbl.png</image>
+		<video>./cave/snap/dfkbl.mp4</video>
+		<developer>케이브</developer>
+		<publisher>케이브</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players>2</players>
+		<releasedate>2010</releasedate>
+		<desc>돈파치 시리즈의 다섯 번째 작품으로 2008년 케이브가 내놓은 종스크롤 탄막 슈팅 게임.</desc>
+	</game>
+	<game>
+		<path>./cave/ddpsdoj.zip</path>
+		<name>도돈파치 최대왕생 (2012/04/20)</name>
+		<image>./cave/boxart/ddpsdoj.png</image>
+		<video>./cave/snap/ddpsdoj.mp4</video>
+		<developer>케이브</developer>
+		<publisher>케이브</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players>2</players>
+		<releasedate>2012</releasedate>
+	</game>
+	<game>
+		<path>./cave/sdojak.zip</path>
+		<name>도돈파치 최대왕생 &amp; 너클즈 (케이브드웰러스 핵, 2012/04/20)</name>
+		<image>./cave/boxart/ddpsdoj.png</image>
+		<video>./cave/snap/sdojak.mp4</video>
+		<developer>케이브</developer>
+		<publisher>케이브</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players>2</players>
+		<releasedate>2012</releasedate>
+	</game>
+	<game>
+		<path>./cave/deathsml.zip</path>
+		<name>데스스마일즈 (2007/10/09 마스터 버전)</name>
+		<image>./cave/boxart/deathsml.png</image>
+		<video>./cave/snap/deathsml.mp4</video>
+		<developer>케이브</developer>
+		<publisher>케이브</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players>2</players>
+		<releasedate>2007</releasedate>
+		<desc>2007년 케이브에서 발매한 횡스크롤 탄막 슈팅 게임.
+프로기어의 폭풍에 이은 케이브의 두 번째 횡스크롤 슈팅이다.
+오컬트와 고딕의 영향을 많이받은 미적 스타일로 유명하다.</desc>
+	</game>
+	<game>
+		<path>./cave/dsmbl.zip</path>
+		<name>데스스마일즈 메가블랙 라벨 (2008/10/06 메가블랙 라벨 버전)</name>
+		<image>./cave/boxart/dsmbl.png</image>
+		<video>./cave/snap/dsmbl.mp4</video>
+		<developer>케이브</developer>
+		<publisher>케이브</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players>2</players>
+		<releasedate>2008</releasedate>
+		<desc>2007년 케이브에서 발매한 횡스크롤 탄막 슈팅 게임.
+프로기어의 폭풍에 이은 케이브의 두 번째 횡스크롤 슈팅이다.
+오컬트와 고딕의 영향을 많이받은 미적 스타일로 유명하다.</desc>
+	</game>
+	<game>
 		<path>./cave/esprade.zip</path>
 		<name>에스프레이드 - A.D. 2018 도쿄 (국제판, 버전 98/04/22)</name>
 		<image>./cave/boxart/esprade.png</image>
@@ -943,6 +1040,17 @@ C버튼은 별도의 에너지를 소모해서 방어막을 펼치며 무적상�
 적 탄환의 숫자는 어마어마 하지만 "건버드" 나 "1945" 시리즈와는 다르게 탄의 타격부위가 캐릭터의 머리부분이기 때문에 의외로 피하기가 쉽다.
 "에스프레이드" 라고 읽는다.
 ESP는 "ExtraSensory Perception (초감각적 지각력)"을 의미한다.</desc>
+	</game>
+	<game>
+		<path>./cave/espgal2.zip</path>
+		<name>에스프가루다 II (2005/11/14 마스터 버전, 새것 CV1000-B PCB)</name>
+		<image>./cave/boxart/espgal2.png</image>
+		<video>./cave/snap/espgal2.mp4</video>
+		<developer>케이브</developer>
+		<publisher>케이브</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players>2</players>
+		<releasedate>2005</releasedate>
 	</game>
 	<game>
 		<path>./cave/feversos.zip</path>
@@ -1047,6 +1155,28 @@ ESP는 "ExtraSensory Perception (초감각적 지각력)"을 의미한다.</desc
 게임과 제목이 완전히 무관한 게임 중에 하나</desc>
 	</game>
 	<game>
+		<path>./cave/ibara.zip</path>
+		<name>이바라 (2005/03/22 마스터 버전)</name>
+		<image>./cave/boxart/ibara.png</image>
+		<video>./cave/snap/ibara.mp4</video>
+		<developer>케이브</developer>
+		<publisher>케이브</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players>2</players>
+		<releasedate>2005</releasedate>
+	</game>
+	<game>
+		<path>./cave/ibarablk.zip</path>
+		<name>이바라 흑 블랙 라벨 (2006/02/06 마스터 버전)</name>
+		<image>./cave/boxart/ibarablk.png</image>
+		<video>./cave/snap/ibarablk.mp4</video>
+		<developer>케이브</developer>
+		<publisher>케이브</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players>2</players>
+		<releasedate>2006</releasedate>
+	</game>
+	<game>
 		<path>./cave/korokoro.zip</path>
 		<name>코로 코로 퀘스트 (일본판)</name>
 		<image>./cave/boxart/korokoro.png</image>
@@ -1128,6 +1258,105 @@ C버튼은 폭탄 개념으로 기체가 가진 가장 강력한 무기를 발�
 플레이를 거의 해보질 못했던 게임.
 타격, 피격시 화면이 흔들리는 연출과 가드했을 때 경쾌한 칼 부딪히는 소리가 나는 게임으로만 기억이 있는
 대전격투 게임인데, 게임상의 버그와 밸런스등에 문제가 많아 동네 오락실에서는 거의 하는 사람이 없던 비인기 게임</desc>
+	</game>
+	<game>
+		<path>./cave/mmpork.zip</path>
+		<name>무찌무찌 포크! (2007/04/17 마스터 버전)</name>
+		<image>./cave/boxart/mmpork.png</image>
+		<video>./cave/snap/mmpork.mp4</video>
+		<developer>케이브</developer>
+		<publisher>케이브</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players>2</players>
+		<releasedate>2007</releasedate>
+	</game>
+	<game>
+		<path>./cave/mushisam.zip</path>
+		<name>벌레 공주님 (2004/10/12 마스터 버전)</name>
+		<image>./cave/boxart/mushisam.png</image>
+		<video>./cave/snap/mushisam.mp4</video>
+		<developer>케이브</developer>
+		<publisher>케이브</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players>2</players>
+		<releasedate>2004</releasedate>
+	</game>
+	<game>
+		<path>./cave/futari15.zip</path>
+		<name>벌레 공주님 후타리 버전 1.5 (2006/12/08 마스터 버전 1.54.)</name>
+		<image>./cave/boxart/futari15.png</image>
+		<video>./cave/snap/futari15.mp4</video>
+		<developer>케이브</developer>
+		<publisher>케이브</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players>2</players>
+		<releasedate>2006</releasedate>
+	</game>
+	<game>
+		<path>./cave/futari10.zip</path>
+		<name>벌레 공주님 후타리 버전 1.0 (2006/10/23 마스터 버전)</name>
+		<image>./cave/boxart/futari10.png</image>
+		<video>./cave/snap/futari15.mp4</video>
+		<developer>케이브</developer>
+		<publisher>케이브</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players>2</players>
+		<releasedate>2006</releasedate>
+	</game>
+	<game>
+		<path>./cave/futaribl.zip</path>
+		<name>벌레 공주님 후타리 블랙 라벨 - 언아더 버전 (2009/11/27 국제판 BL)</name>
+		<image>./cave/boxart/futaribl.png</image>
+		<video>./cave/snap/futaribl.mp4</video>
+		<developer>케이브</developer>
+		<publisher>케이브</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players>2</players>
+		<releasedate>2009</releasedate>
+	</game>
+	<game>
+		<path>./cave/futariblj.zip</path>
+		<name>벌레 공주님 후타리 블랙 라벨 (2007/12/11 블랙 라벨 버전)</name>
+		<image>./cave/boxart/futariblj.png</image>
+		<video>./cave/snap/futariblj.mp4</video>
+		<developer>케이브</developer>
+		<publisher>케이브</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players>2</players>
+		<releasedate>2007</releasedate>
+	</game>
+	<game>
+		<path>./cave/mushitam.zip</path>
+		<name>퍼즐! 벌레 공주 구슬 (2005/09/09 마스터 버전)</name>
+		<image>./cave/boxart/mushitam.png</image>
+		<video>./cave/snap/mushitam.mp4</video>
+		<developer>케이브</developer>
+		<publisher>케이브</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players>2</players>
+		<releasedate>2005</releasedate>
+	</game>
+	<game>
+		<path>./cave/pinkswts.zip</path>
+		<name>핑크 스위츠: 이바라 그리고 (2006/04/06 마스터 버전)</name>
+		<image>./cave/boxart/pinkswts.png</image>
+		<video>./cave/snap/pinkswts.mp4</video>
+		<developer>케이브</developer>
+		<publisher>케이브</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players>2</players>
+		<releasedate>2006</releasedate>
+	</game>
+	<game>
+		<path>./cave/pinkswtssc.zip</path>
+		<name>핑크 스위츠: 수어사이드 클럽 (2017/10/31 수어사이드 클럽 버전, 복제판)</name>
+		<image>./cave/boxart/pinkswtssc.png</image>
+		<video>./cave/snap/pinkswts.mp4</video>
+		<developer>해적판</developer>
+		<publisher>해적판</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players>2</players>
+		<releasedate>2017</releasedate>
 	</game>
 	<game>
 		<path>./cave/plegends.zip</path>
@@ -1431,6 +1660,17 @@ CAPtain COMmando = CAPCOM
 "캡틴 코만도" 는 북미 성향 게임의 대표작이다.</desc>
 	</game>
 	<game>
+		<path>./cps1/captcommr1pwx.zip</path>
+		<name>캡틴 코만도 (언리미티드 불릿)</name>
+		<image>./cps1/boxart/captcomm.png</image>
+		<video>./cps1/snap/captcomm.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>격투 / 아케이드</genre>
+		<players>4</players>
+		<releasedate>2021</releasedate>
+	</game>
+	<game>
 		<path>./cps1/captcommv4.zip</path>
 		<name>캡틴 코만도 (911202 세계판, 1 vs 4 핵)</name>
 		<image>./cps1/boxart/captcomm.png</image>
@@ -1549,8 +1789,19 @@ CAPtain COMmando = CAPCOM
 "Xenozoic Tales" 라는 미국 만화를 원작으로한 애니메이션 "Cadillacs and Dinosaurs (1993, 미국 CBS)" 가 원작이다.</desc>
 	</game>
 	<game>
+		<path>./cps1/dinore.zip</path>
+		<name>캐딜락 &amp; 다이노소어 리어저스티드 (핵, v1.0)</name>
+		<image>./cps1/boxart/dinore.png</image>
+		<video>./cps1/snap/dino.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>격투 / 아케이드</genre>
+		<players>3</players>
+		<releasedate>2022</releasedate>
+	</game>
+	<game>
 		<path>./cps1/dinosyn.zip</path>
-		<name>캐딜락 &amp; 다이노소어 (28주년, 핵)</name>
+		<name>캐딜락 &amp; 다이노소어 (30주년, 핵)</name>
 		<image>./cps1/boxart/dinosyn.png</image>
 		<video>./cps1/snap/dino.mp4</video>
 		<developer>캡콤</developer>
@@ -2016,6 +2267,23 @@ Capcom CPS1 하드웨어의 미공개 퍼즐 게임</desc>
 '록 맨'이라고 불리는 게임이지만 해외에서는 '메가 맨'으로 되어 있다.</desc>
 	</game>
 	<game>
+		<path>./cps1/rockmank.zip</path>
+		<name>록맨 - 더 파워 배틀 (950922 한글 패치판)</name>
+		<image>./cps1/boxart/rockmanj.png</image>
+		<video>./cps1/snap/megaman.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>격투 / 아케이드</genre>
+		<players>2</players>
+		<releasedate>1995</releasedate>
+		<desc>일본판을 기본으로 DSNO, 한마루님의 한국어 패치 버전.
+가정용 게임기로 인기가 높은 액션 게임 '록 맨'을 아케이드 게임화한 역이식 작품.
+가정용 게임기에서는 보스까지 나아가는 액션 타입의 게임이었지만 이 작품에서는 고정 화면에서 보스와의 싸움을 펼치는 대전 액션 게임형식으로 되어 있다.
+조작은 8방향 레버로 이동, 공격과 점프에 2개의 버튼을 사용한다.
+공격 버튼을 계속 눌러, 강력한 공격을 하는것도 가능.
+'록 맨'이라고 불리는 게임이지만 해외에서는 '메가 맨'으로 되어 있다.</desc>
+	</game>
+	<game>
 		<path>./cps1/mercs.zip</path>
 		<name>머크스 (900302 기타)</name>
 		<image>./cps1/boxart/mercs.png</image>
@@ -2265,6 +2533,50 @@ Capcom CPS1 하드웨어의 미공개 퍼즐 게임</desc>
 		<genre>격투 / 아케이드</genre>
 		<players>2</players>
 		<releasedate>1993</releasedate>
+		<desc>캡콤의 마블 코믹스와 계약을 채결해 만든 횡스크롤 액션 게임. 원작은 "마블 코믹스社" 의 "퍼니셔" 란 만화. 
+퍼니셔는 기존의 캡콤식 횡스크롤 액션 게임의 시스템을 그대로 이어가면서 
+연속 콤보 몇 가지와 기술을 변경해주면서 완전히 새로운 게임으로 태어났다. 
+퍼니셔만의 특징을 예로 들자면 기본 위기 회피 특수 기술을 빼고, 점프에서 버튼 두개를 누르거나 달려가면서 사용할 수 있는 수류탄 공격이 추가됐으며, 
+게임 진행 도중 총을 가진 적이 나오면 퍼니셔가 순간 총을 꺼내 들어 주먹 대신 사격을 하는 모드로 들어간다. 
+무기는 한번 잡으면 몇번씩 계속 쓸 수 있는 게 아니라 횟수가 따로 정해져 있는데, 
+야구 방망이 같은 것은 캐딜락처럼 적을 때리다 부서지면 부서진 자루로 사정없이 쑤셔 받는 것까지 나온다. 
+선택가능 캐릭터는 '퍼니셔' 와 '닉 퓨리' 밖에 나오지 않고 그 둘의 차이는 아래 위 공격 특수 기술의 연출 밖에 없지만 상당히 다양한 기술을 구사한다. 
+퍼니셔 원작 만화에 나오는 캐릭터가 보스로 등장하며 최종 보스는 퍼니셔의 구적이자 스파이더맨의 라이벌이기도 한 '킹핀' 이다. 
+참고로 같은 회사 게임인 "파이널 파이트" 와 유사한 점이 많다. 특이한 점은, 기본은 펀치와 킥의 격투 액션이지만,
+적이 권총을 뽑으면 자동적으로 권총 모드로 바뀌어 총격전이 전개된다. 총은 자동 조준.</desc>
+	</game>
+	<game>
+		<path>./cps1/punisherhr.zip</path>
+		<name>더 퍼니셔 (레드 맨 에디션, 핵)</name>
+		<image>./cps1/boxart/punisher.png</image>
+		<video>./cps1/snap/punisher.mp4</video>
+		<developer>해적판</developer>
+		<publisher>해적판</publisher>
+		<genre>격투 / 아케이드</genre>
+		<players>2</players>
+		<releasedate>2018</releasedate>
+		<desc>캡콤의 마블 코믹스와 계약을 채결해 만든 횡스크롤 액션 게임. 원작은 "마블 코믹스社" 의 "퍼니셔" 란 만화. 
+퍼니셔는 기존의 캡콤식 횡스크롤 액션 게임의 시스템을 그대로 이어가면서 
+연속 콤보 몇 가지와 기술을 변경해주면서 완전히 새로운 게임으로 태어났다. 
+퍼니셔만의 특징을 예로 들자면 기본 위기 회피 특수 기술을 빼고, 점프에서 버튼 두개를 누르거나 달려가면서 사용할 수 있는 수류탄 공격이 추가됐으며, 
+게임 진행 도중 총을 가진 적이 나오면 퍼니셔가 순간 총을 꺼내 들어 주먹 대신 사격을 하는 모드로 들어간다. 
+무기는 한번 잡으면 몇번씩 계속 쓸 수 있는 게 아니라 횟수가 따로 정해져 있는데, 
+야구 방망이 같은 것은 캐딜락처럼 적을 때리다 부서지면 부서진 자루로 사정없이 쑤셔 받는 것까지 나온다. 
+선택가능 캐릭터는 '퍼니셔' 와 '닉 퓨리' 밖에 나오지 않고 그 둘의 차이는 아래 위 공격 특수 기술의 연출 밖에 없지만 상당히 다양한 기술을 구사한다. 
+퍼니셔 원작 만화에 나오는 캐릭터가 보스로 등장하며 최종 보스는 퍼니셔의 구적이자 스파이더맨의 라이벌이기도 한 '킹핀' 이다. 
+참고로 같은 회사 게임인 "파이널 파이트" 와 유사한 점이 많다. 특이한 점은, 기본은 펀치와 킥의 격투 액션이지만,
+적이 권총을 뽑으면 자동적으로 권총 모드로 바뀌어 총격전이 전개된다. 총은 자동 조준.</desc>
+	</game>
+	<game>
+		<path>./cps1/punisherly.zip</path>
+		<name>더 퍼니셔 (플레임 에디션, 핵)</name>
+		<image>./cps1/boxart/punisher.png</image>
+		<video>./cps1/snap/punisher.mp4</video>
+		<developer>해적판</developer>
+		<publisher>해적판</publisher>
+		<genre>격투 / 아케이드</genre>
+		<players>2</players>
+		<releasedate>2018</releasedate>
 		<desc>캡콤의 마블 코믹스와 계약을 채결해 만든 횡스크롤 액션 게임. 원작은 "마블 코믹스社" 의 "퍼니셔" 란 만화. 
 퍼니셔는 기존의 캡콤식 횡스크롤 액션 게임의 시스템을 그대로 이어가면서 
 연속 콤보 몇 가지와 기술을 변경해주면서 완전히 새로운 게임으로 태어났다. 
@@ -2729,7 +3041,7 @@ Capcom CPS1 하드웨어의 미공개 퍼즐 게임</desc>
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate>1995</releasedate>
-		<desc>일본판을 기본으로 DSNO, 한마루님님의 한국어 패치 우라모드 지원 버전.
+		<desc>일본판을 기본으로 DSNO, 한마루님의 한국어 패치 우라모드 지원 버전.
 셀 에니메이션 방식으로 제작된 새로운 시리즈. 기존의 구 시리즈와는 느낌이 상당히 다르다. 
 시스템은 뱀파이어 시리즈에서 선보인 체인콤보가 채용되어 있다. 
 시나리오의 경우 당시 '스트리트 파이터 2' 의 이전의 이야기다. 혹은 아니다 라는 논쟁이 크게 발생하였지만 
@@ -3050,7 +3362,7 @@ CPU : 68000, Z80
 	</game>
 	<game>
 		<path>./cps1/wofjdr.zip</path>
-		<name>천지를 먹다 II - 적벽의 전투 (마스터 에디션, 핵)</name>
+		<name>천지를 먹다 II - 적벽의 전투 (마스터 에디션)</name>
 		<image>./cps1/boxart/wofjdr.png</image>
 		<video>./cps1/snap/wof.mp4</video>
 		<developer>캡콤</developer>
@@ -3101,8 +3413,7 @@ CPU : 68000, Z80
 		<genre>격투 / 아케이드</genre>
 		<players>3</players>
 		<releasedate>1992</releasedate>
-		<desc>dsno, 한마루님 합작 한글 패치 게임.
-모토미야 히로시 원작의 동명 만화를 원작으로 1989년 캡콤이 개발한 횡스크롤 아케이드 게임의 후속작으로서 1992년 개발되었다. 
+		<desc>모토미야 히로시 원작의 동명 만화를 원작으로 1989년 캡콤이 개발한 횡스크롤 아케이드 게임의 후속작으로서 1992년 개발되었다. 
 동탁 타도 이후 손권과 힘을 합쳐 조조를 타도하기까지의 과정을 묘사하고 있다. 최대 3명의 플레이어가 
 삼국지 촉의 5명의 장군(관우, 장비, 조운, 황충, 위연)중 한명을 골라 플레이 할 수 있으며, 전작과는 달리 거의 완전한 횡스크롤 격투게임이다.
 플레이어의 목표는 제 1장에서는 신야에서 조조군의 장수 하후돈과 허저가 이끄는 부대를 격파하는 것이며, 제 2장에서는 조조가 이끄는 군대를 손권과 힘을 합하여 토벌하는 것이다. 
@@ -3286,6 +3597,23 @@ CPU : 68000, Z80
 린 쿠로사와 중위는 "스트리트 파이터 알파 2" 에서 켄 스테이지 배경에 까메오로 등장하기도 한다.</desc>
 	</game>
 	<game>
+		<path>./cps2/avspk.zip</path>
+		<name>에일리언 vs 프레데터 (940520 한글 패치판)</name>
+		<image>./cps2/boxart/avsp.png</image>
+		<video>./cps2/snap/avsp.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>격투 / 아케이드</genre>
+		<players>3</players>
+		<releasedate>1994</releasedate>
+		<desc>2명의 해병대원과 2명의 프레데터를 선택해서 에일리언을 쫓는 게임으로 적을 바운드 시켜서 추격타가 가능한 점이 특징.
+'20세기 폭스社'  인기 영화 '에일리언' 과 '프레데터' 의 두 작품을 결합한 격투 액션 게임으로 미국 다크호스 코믹社 에서 출판된 코믹스를 기본으로 만든 게임이다.
+에일리언과 프레데터가 동시에 등장하는 최초의 게임이다.
+적 에이리언이 한번에 대량으로 등장하기도 해서 난이도가 높은 것 같이 생각되는 작품이지만,
+횡 스크롤 액션 게임으로서의 완성도는 대단히 높아 명작으로 화자되고 있는 작품이다.
+린 쿠로사와 중위는 "스트리트 파이터 알파 2" 에서 켄 스테이지 배경에 까메오로 등장하기도 한다.</desc>
+	</game>
+	<game>
 		<path>./cps2/batcir.zip</path>
 		<name>배틀 서킷 (970319 유럽판)</name>
 		<image>./cps2/boxart/batcir.png</image>
@@ -3378,6 +3706,23 @@ Mitchell의 성인 상하이 게임. 목표는 타이머가 다 떨어지기 전
 "스매시 스타즈" 테니스 게임에서 중국 선수로 "스트리트 파이터" 의 '춘리' 를 매우 닮은 '리리' 가 등장한다.</desc>
 	</game>
 	<game>
+		<path>./cps2/csclubk.zip</path>
+		<name>캡콤 스포츠 클럽 (970722 한글 패치판)</name>
+		<image>./cps2/boxart/csclub.png</image>
+		<video>./cps2/snap/csclub.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>스포츠 / 멀티플래이</genre>
+		<players>2</players>
+		<releasedate>1997</releasedate>
+		<desc>3 가지 스포츠 게임을 즐길 수 있는 게임.
+5 대 5 로 하는 미니 축구 "킥 스타즈", 3 대 3 으로 하는 미니 농구 "덩크 스타즈" 그리고 여자 단식 테니스 "스매시 스타즈" 가 한 게임에 포함되어 있다.
+기본 적인 경기 조작은 쉬운편이며 숙련된 사람을 위한 커멘드 기술도 존재한다.
+진행은 1회전, 준결승, 결승의 3 단계로 진행되며 토너먼트에서 승리하는 것으로 클리어 가능하다.
+1 크레딧으로 3 경기를 순서대로 플레이도 가능.
+"스매시 스타즈" 테니스 게임에서 중국 선수로 "스트리트 파이터" 의 '춘리' 를 매우 닮은 '리리' 가 등장한다.</desc>
+	</game>
+	<game>
 		<path>./cps2/cybots.zip</path>
 		<name>사이버보츠 - 풀메탈 매드니스 (950424 유럽판)</name>
 		<image>./cps2/boxart/cybots.png</image>
@@ -3412,6 +3757,23 @@ Mitchell의 성인 상하이 게임. 목표는 타이머가 다 떨어지기 전
 진은 "마블 대 캡콤" 게임에서 선택 가능한 캐릭터로 등장한다.</desc>
 	</game>
 	<game>
+		<path>./cps2/cybotsam.zip</path>
+		<name>사이버보츠 - 풀메탈 매드니스 (액세스 모드, 핵)</name>
+		<image>./cps2/boxart/cybots.png</image>
+		<video>./cps2/snap/cybots.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>2022</releasedate>
+		<desc>캡콤의 액션 게임 "파워드 기어" 를 대전 격투 게임으로 옮긴 게임이다.
+로보트 간의 대전 게임으로 화려한 연출이 특징.
+6명의 파일럿과 12기의 로보트가 존재하며 선택에 따라 별개의 스토리 진행을 보여준다.
+모든 로보트는 "파워드 기어" 에 등장했던 것들이며
+'데빌롯'은 "슈퍼 퍼즐 파이터 2 터보" 에서 비밀 캐릭터로 등장하며 "마블 대 캡콤" 에선 스트라이커 캐릭터로 등장한다.
+진은 "마블 대 캡콤" 게임에서 선택 가능한 캐릭터로 등장한다.</desc>
+	</game>
+	<game>
 		<path>./cps2/ddtod.zip</path>
 		<name>던전스 &amp; 드래곤스 - 파멸의 탑 (940412 유럽판)</name>
 		<image>./cps2/boxart/ddtod.png</image>
@@ -3430,6 +3792,22 @@ Mitchell의 성인 상하이 게임. 목표는 타이머가 다 떨어지기 전
 	<game>
 		<path>./cps2/ddtodj.zip</path>
 		<name>던전스 &amp; 드래곤스 - 파멸의 탑 (940412 일본판)</name>
+		<image>./cps2/boxart/ddtod.png</image>
+		<video>./cps2/snap/ddtod.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>격투 / 아케이드</genre>
+		<players>4</players>
+		<releasedate>1994</releasedate>
+		<desc>1974년 미국 TSR 에서 출시되어 전세계적으로 인기를 끌었던 테이블 토크 RPG 게임 "Dungeons and Dragons" 를 아케이드 게임화한 작품.
+국가나 인물등의 기본적인 배경은 "D and D" 에서 가져왔지만 스토리 자체는 캡콤 오리지널이다.
+4명의 종족&amp;직업에서 캐릭터를 선택할 수 있고 4인 동시 플레이도 가능한 게임으로 팀 플레이시 전략적인 파티 플레이가 가능한 점이 이 게임의 묘미이다.
+유명한 RPG 시스템인 "Dungeons and Dragons" 를 기본으로 만든 게임.
+캡콤의 횡스크롤 액션 게임인 "원탁의 기사 (Knights Of The Round)" 와 유사한 점이 있다.</desc>
+	</game>
+	<game>
+		<path>./cps2/ddtodk.zip</path>
+		<name>던전스 &amp; 드래곤스 - 파멸의 탑 (940412 한글 패치판)</name>
 		<image>./cps2/boxart/ddtod.png</image>
 		<video>./cps2/snap/ddtod.mp4</video>
 		<developer>캡콤</developer>
@@ -3703,6 +4081,17 @@ CPS1 게임 "Street Fighter II - The World Warrior", "Street Fighter II' - Champ
 캐릭터 선택 화면 레이아웃은 "Super Street Fighter II Turbo"와 동일하지만 음악 자체가 리믹스된 "Super Street Fighter II - The New Challengers"의 캐릭터 선택 음악으로 다시 변경됨</desc>
 	</game>
 	<game>
+		<path>./cps2/hsf2pp.zip</path>
+		<name>하이퍼 스트리트 파이터 II 플러스 플러스</name>
+		<image>./cps2/boxart/hsf2.png</image>
+		<video>./cps2/snap/hsf2.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>2017</releasedate>
+	</game>
+	<game>
 		<path>./cps2/jyangoku.zip</path>
 		<name>작국지 -패왕의 채패- (일본판)</name>
 		<image>./cps2/boxart/jyangoku.png</image>
@@ -3747,6 +4136,34 @@ CPS1 게임 "Street Fighter II - The World Warrior", "Street Fighter II' - Champ
 		<players>2</players>
 		<releasedate>1996</releasedate>
 		<desc>제작년도 : 1996.07
+개발사 : 캡콤 , 공급사 : 캡콤
+장르 : 대전격투
+컨트롤러 : 8 방향 레버 + 3 버튼 
+시스템기판：캡콤 플레이 시스템 2 (CPS 2)  
+CPU : 68000, Z80
+사운드칩 : QSound
+"록맨 - 파워 배틀" 의 속편. 
+전작 '록맨 - 파워배틀' 과 기본적인 시스템은 동일. 2인 동시플레이가 가능하다. 단, 이번엔 보스 클리어 후 둘 중 한명만 특수무기를 받을 수 있다.
+신 캐릭터 듀오가 추가되었고 보스들이 일부 변경. 필살기, 아이템, 옵션캐릭터 등 신규 시스템이 추가되었다.
+전작에서는 각시리즈 작마다 전개가 나누어져 있었지만, 이번 작품은 3개의 다른 스토리로 되어있다.
+'와일리를 쫓아라!' , '롤을 구해라!' , '신파츠를 되찾아라!' 3가지 중 하나를 골라 진행해야 하는데 어떤 스토리를 고르건 
+엔딩은 똑같고 상대해야할 보스들만 달라진다.
+"와일리를 쫓아라!'를 선택한 경우 - 쉐도우맨, 플랜트맨, 쟈이로맨, 켄타우로스맨, 버블맨, 히트맨과 승부.
+"롤을 구해라!"를 선택한 경우 - 컷맨, 스톤맨, 쉐이드맨, 일렉맨, 다이브맨, 슬래쉬맨과 승부.
+"신파츠를 되찾아라!"를 선택한 경우 - 갓츠맨, 파라오맨, 에어맨, 퀵맨, 제미니맨, 네이팜맨과 승부.</desc>
+	</game>
+	<game>
+		<path>./cps2/rockman2k.zip</path>
+		<name>록맨 2 - 더 파워 파이터즈 (960708 한글 패치판)</name>
+		<image>./cps2/boxart/rmancp2j.png</image>
+		<video>./cps2/snap/megaman2.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>격투 / 아케이드</genre>
+		<players>2</players>
+		<releasedate>1996</releasedate>
+		<desc>일본판을 기본으로 DSNO, 한마루님의 한국어 패치 버전.
+제작년도 : 1996.07
 개발사 : 캡콤 , 공급사 : 캡콤
 장르 : 대전격투
 컨트롤러 : 8 방향 레버 + 3 버튼 
@@ -4121,6 +4538,39 @@ VS시리즈 제 3탄으로 일단 메인 캐릭터와 보조 캐릭터를 합쳐
 나와서 프로레슬링 이라고 하기 보다는 거의 대전 액션에 가까워저 버렸다.</desc>
 	</game>
 	<game>
+		<path>./cps2/rmancp2j.zip</path>
+		<name>록맨 - 더 파워 배틀 (950922 일본판)</name>
+		<image>./cps2/boxart/rmancp2j.png</image>
+		<video>./cps2/snap/rmancp2j.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>격투 / 아케이드</genre>
+		<players>2</players>
+		<releasedate>1999</releasedate>
+		<desc>가정용 게임기로 인기가 높은 액션 게임 '록 맨'을 아케이드 게임화한 역이식 작품.
+가정용 게임기에서는 보스까지 나아가는 액션 타입의 게임이었지만 이 작품에서는 고정 화면에서 보스와의 싸움을 펼치는 대전 액션 게임형식으로 되어 있다.
+조작은 8방향 레버로 이동, 공격과 점프에 2개의 버튼을 사용한다.
+공격 버튼을 계속 눌러, 강력한 공격을 하는것도 가능.
+'록 맨'이라고 불리는 게임이지만 해외에서는 '메가 맨'으로 되어 있다.</desc>
+	</game>
+	<game>
+		<path>./cps2/rmancp2k.zip</path>
+		<name>록맨 - 더 파워 배틀 (950922 한글 패치판)</name>
+		<image>./cps2/boxart/rmancp2j.png</image>
+		<video>./cps2/snap/rmancp2j.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>격투 / 아케이드</genre>
+		<players>2</players>
+		<releasedate>1999</releasedate>
+		<desc>일본판을 기본으로 DSNO, 한마루님의 한국어 패치 버전.
+가정용 게임기로 인기가 높은 액션 게임 '록 맨'을 아케이드 게임화한 역이식 작품.
+가정용 게임기에서는 보스까지 나아가는 액션 타입의 게임이었지만 이 작품에서는 고정 화면에서 보스와의 싸움을 펼치는 대전 액션 게임형식으로 되어 있다.
+조작은 8방향 레버로 이동, 공격과 점프에 2개의 버튼을 사용한다.
+공격 버튼을 계속 눌러, 강력한 공격을 하는것도 가능.
+'록 맨'이라고 불리는 게임이지만 해외에서는 '메가 맨'으로 되어 있다.</desc>
+	</game>
+	<game>
 		<path>./cps2/smbomb.zip</path>
 		<name>슈퍼 머슬 봄버 - 인터내셔널 블로아웃 (940831 일본판)</name>
 		<image>./cps2/boxart/smbomb.png</image>
@@ -4169,7 +4619,7 @@ VS시리즈 제 3탄으로 일단 메인 캐릭터와 보조 캐릭터를 합쳐
 	</game>
 	<game>
 		<path>./cps2/sfzj.zip</path>
-		<name>스트리트 파이터 제로 (950727 일본판)</name>
+		<name>스트리트 파이터 제로 2022-05-19(950727 일본판)</name>
 		<image>./cps2/boxart/sfzj.png</image>
 		<video>./cps2/snap/sfa.mp4</video>
 		<developer>캡콤</developer>
@@ -4489,6 +4939,35 @@ VS시리즈 제 3탄으로 일단 메인 캐릭터와 보조 캐릭터를 합쳐
 현재 이 제로 3 이후로 정통 2D 대전액션이 100만장이 넘은 사례는 '더 킹 오브 파이터즈' 시리즈가 유일하다.</desc>
 	</game>
 	<game>
+		<path>./cps2/sfz3mix.zip</path>
+		<name>스트리트 파이터 제로 3 믹스 v0.11</name>
+		<image>./cps2/boxart/sfz3mix.png</image>
+		<video>./cps2/snap/sfa3.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>2022</releasedate>
+		<desc>제로 시리즈의 제 3탄이자 종결작. 
+이번은 'ISM 셀렉트' 라고 하는 새로운 시스템을 탑재해,
+1명의 캐릭터에 대해 3종류의 슈퍼콤보가 선택 가능해졌다.
+위력이 크며 게이지도 모이기 쉬운 'X-ISM'이나, 3단계의 레벨을 버튼으로 구분하여 사용가능한 'Z-ISM',
+3명의 잔상과 함께 오리지날 콤보가 작렬하는 'V-ISM'의 3 종류.
+또 '가드 크래쉬'나 '공중 콤보' 등의 신시스템도 추가되고 있다.
+캐릭터 구성은 제로 시리즈에 등장하지 않았던 
+기존의 캐릭터 바이슨, 발록, 블랑카, 혼다등이 새롭게 참전했으며 여기에 행방이 묘연했던 
+파이널 파이트의 주인공 코디가 첫 참전. 
+하지만 충격적이게도 죄수로 등장하여 많은 올드팬을 
+놀라움에 빠지게 되었는데 게임상에서 코디를 고를 시 그 원인을 알 수 있는데 평화로운 삶에 
+적응하지 못하여 방황하는 내용을 담고있다. 특히 시나리오적인 부분역시 보강되어 
+중간보스 시스템을 도입했는데 플레이어가 선택한 캐릭터에 따라 중간보스가 달라졌다. 
+특히 마지막 보스 베가와 깊은 원한이 있는 캐릭터일 경우 중간보스는 유리&amp;유니로서 
+2 대1 로 싸워야 하지만 유리와 유니가 약체인 캐미의 복사판인 관계로 난이도는 그렇게 높지 않았다. 
+게임자체는 결정판이라는 평가에 걸맞게 오랜시간 인기를 끌었고 2D 대전액션으로는 
+최후의 밀리언 셀러 (PS용)를 찍으면서 2D 대전액션의 마지막 투혼을 보여주었다. 
+현재 이 제로 3 이후로 정통 2D 대전액션이 100만장이 넘은 사례는 '더 킹 오브 파이터즈' 시리즈가 유일하다.</desc>
+	</game>
+	<game>
 		<path>./cps2/sfz3te.zip</path>
 		<name>스트리트 파이터 제로 3 트레이닝 에디션 v1.1 (980629 일본판)</name>
 		<image>./cps2/boxart/sfz3te.png</image>
@@ -4761,7 +5240,7 @@ VS시리즈 제 3탄으로 일단 메인 캐릭터와 보조 캐릭터를 합쳐
 	</game>
 	<game>
 		<path>./cps2/ssf2tnl.zip</path>
-		<name>슈퍼 스트리트 파이터 II 터보 - 뉴 레거시 v0.5 (베타, 핵 제작 Born2SPD)</name>
+		<name>슈퍼 스트리트 파이터 II 터보 - 뉴 레거시 v0.6 (베타, 핵 제작 Born2SPD)</name>
 		<image>./cps2/boxart/ssf2tnl.png</image>
 		<video>./cps2/snap/ssf2t.mp4</video>
 		<developer>캡콤</developer>
@@ -4965,6 +5444,25 @@ X-MEN 세력으론 사이클롭스, 울버린, 스톰, 로그, 마그네트, 저
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate>1996</releasedate>
+		<desc>크로스 배틀 시스템을 차용한 대전 액션의 원조. 
+미국 만화계의 히어로 '엑스맨' 과 캡콤의 '스트리트 파이터' 의 인기 캐릭터들이 대결하는 격투 액션 게임.
+캡콤의 '엑스맨' 게임 시스템이 기본이 된다. 
+또 이번 작품부터 새롭게 '태그 시스템' 을 채용해 체력이 모자라면 캐릭터를 바꾸는 등
+보다 전략적으로 플레이 할 수가 있다.
+그 외 2명이 힘을 합해 작렬시키는 합체 초필살기술 '베리어블 콤비내이션' 도 큰 포인트.
+스트리트 파이터 세력으론 류, 캔, 고우키, 춘리, 캐미, 장기에프, 달심, 베가, 냇쉬등이 나오고, 
+X-MEN 세력으론 사이클롭스, 울버린, 스톰, 로그, 마그네트, 저거노트, 아포칼립스 등이 있다.</desc>
+	</game>
+	<game>
+		<path>./cps2/xmvsfcph.zip</path>
+		<name>엑스맨 vs 스트리트 파이터 (핵, 961004 코옵)</name>
+		<image>./cps2/boxart/xmvsf.png</image>
+		<video>./cps2/snap/xmvsf.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>2022</releasedate>
 		<desc>크로스 배틀 시스템을 차용한 대전 액션의 원조. 
 미국 만화계의 히어로 '엑스맨' 과 캡콤의 '스트리트 파이터' 의 인기 캐릭터들이 대결하는 격투 액션 게임.
 캡콤의 '엑스맨' 게임 시스템이 기본이 된다. 
@@ -15742,8 +16240,8 @@ X-Men의 임무는 사악한 돌연변이에게 붙잡혀 현재 매그니토에
 그리고 대부분의 팬들도 이런 분위기를 좋아하지만, 1,2때 처럼 중국풍이 좋았다고 하는 팬들도 적진 않다.</desc>
 	</game>
 	<game>
-		<path>./midway/umk3pb1.zip</path>
-		<name>얼티밋 모탈 컴뱃 3 플러스 (핵, 베타 1)</name>
+		<path>./midway/umk3p.zip</path>
+		<name>얼티밋 모탈 컴뱃 3 플러스 (핵, 베타 2)</name>
 		<image>./midway/boxart/umk3.png</image>
 		<video>./midway/snap/umk3.mp4</video>
 		<developer>미드웨이</developer>
@@ -15789,7 +16287,7 @@ X-Men의 임무는 사악한 돌연변이에게 붙잡혀 현재 매그니토에
 	</game>
 	<game>
 		<path>./midway/umk3uk.zip</path>
-		<name>얼티밋 모탈 컴뱃 3 UK (핵, 버전. 2021-07-20)</name>
+		<name>얼티밋 모탈 컴뱃 3 UK (FBNeo, 버전. 2021-07-20)</name>
 		<image>./midway/boxart/umk3.png</image>
 		<video>./midway/snap/umk3.mp4</video>
 		<developer>해킹판</developer>
@@ -17467,15 +17965,15 @@ SNK의 3번째 징크스도 그럭저럭 돌파해냈다. 하지만 커맨드 �
 야마자키 외 2명의 스페셜 팀은 잡지 게이머스트, 네오 지오 Phreak, 패미통의 세 잡지에서 실시한 캐릭터 인기투표를 통해 등장이 결정되었다.</desc>
 	</game>
 	<game>
-		<path>./neogeo/kof97inv.zip</path>
-		<name>더 킹 오브 파이터즈 '97 (인빈서블 블러스)</name>
-		<image>./neogeo/boxart/kof97inv.png</image>
+		<path>./neogeo/kof97ip.zip</path>
+		<name>더 킹 오브 파이터즈 '97 (인빈서블 플러스! B2.1.2107)</name>
+		<image>./neogeo/boxart/kof97ip.png</image>
 		<video>./neogeo/snap/kof97.mp4</video>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre>격투 / 대전</genre>
 		<players>2</players>
-		<releasedate>2019</releasedate>
+		<releasedate>2021</releasedate>
 		<desc>SNK의 인기 시리즈 KOF의 4 번째 작품.
 엄청난 밸런스 파괴로 유저들의 거의 주 캐릭터가 되었던 폭주 이오리 폭주 레오나등 거의 사기적이라고 해도 과언이 아닐 엄청난 데미지로 찬밥신세가 됐던 캐릭터가 꽤 많았던 게임이었다. 
 플레이어가 버튼을 눌러 게이지를 모으던 기존의 시스템인 '엑스트라 모드' 와 함께 공격시에 자동으로 게이지가 모이는 스톡시스템인 '어드밴스 모드' 를 택일하여 즐길 수 있도록 했다. 
@@ -17495,6 +17993,25 @@ SNK의 3번째 징크스도 그럭저럭 돌파해냈다. 하지만 커맨드 �
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate>2019</releasedate>
+		<desc>SNK의 인기 시리즈 KOF의 4 번째 작품.
+엄청난 밸런스 파괴로 유저들의 거의 주 캐릭터가 되었던 폭주 이오리 폭주 레오나등 거의 사기적이라고 해도 과언이 아닐 엄청난 데미지로 찬밥신세가 됐던 캐릭터가 꽤 많았던 게임이었다. 
+플레이어가 버튼을 눌러 게이지를 모으던 기존의 시스템인 '엑스트라 모드' 와 함께 공격시에 자동으로 게이지가 모이는 스톡시스템인 '어드밴스 모드' 를 택일하여 즐길 수 있도록 했다. 
+스토리적으로도 94~97 4년을 이끌어온 오로치 시나리오가 종료되었으며 오로치와 쿠사나기, 쿠시나다등 백 스토리라인이 완전히 추가되었다. 
+캐릭터는 기존의 인기캐릭터와 오리지널 캐릭터가 참전했고 부가적으로 일본 현지에서 팬 투표로 통해 뽑힌 스페셜 팀 (야마자키, 블루마리 , 빌리 칸)이 추가되었다. 
+전반적으로 많은 인기를 끌었지만 특유의 벨런스 문제는 여전히 아쉬운 축에 속한다. 킹 오브 파이터즈와 SNK의 전성기의 끝을 보여주는 게임. 
+특징적인 부분이라면 폭주이오리, 폭주레오나, 각성 야시로, KOF94쿄 등 같은 캐릭터를 선택하더라도 필살기 패턴이나 성능이 판이하게 달라서 다채로운 양상을 보일 수 있게 됐다.
+야마자키 외 2명의 스페셜 팀은 잡지 게이머스트, 네오 지오 Phreak, 패미통의 세 잡지에서 실시한 캐릭터 인기투표를 통해 등장이 결정되었다.</desc>
+	</game>
+	<game>
+		<path>./neogeo/kof97tp.zip</path>
+		<name>더 킹 오브 파이터즈 '97 (옵티마이즈드 에디션 2020)</name>
+		<image>./neogeo/boxart/kof97.png</image>
+		<video>./neogeo/snap/kof97.mp4</video>
+		<developer>해킹판</developer>
+		<publisher>해킹판</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>2020</releasedate>
 		<desc>SNK의 인기 시리즈 KOF의 4 번째 작품.
 엄청난 밸런스 파괴로 유저들의 거의 주 캐릭터가 되었던 폭주 이오리 폭주 레오나등 거의 사기적이라고 해도 과언이 아닐 엄청난 데미지로 찬밥신세가 됐던 캐릭터가 꽤 많았던 게임이었다. 
 플레이어가 버튼을 눌러 게이지를 모으던 기존의 시스템인 '엑스트라 모드' 와 함께 공격시에 자동으로 게이지가 모이는 스톡시스템인 '어드밴스 모드' 를 택일하여 즐길 수 있도록 했다. 
@@ -17567,6 +18084,23 @@ SNK의 3번째 징크스도 그럭저럭 돌파해냈다. 하지만 커맨드 �
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate>2016</releasedate>
+		<desc>"KOF 94" 부터 시작된 "KOF 시리즈" 의 집대성으로 등장한 게임.
+3년간 진행된 오로치편을 끝내고 차기작을 발매하기 전 1년간의 휴식기를 갖기 위해 스토리를 없앤 초기 KOF 시리즈의 컨셉을 살려 발매되었다. 
+드림매치라는 컨셉답게 기존에 삭제된 팀까지 포함하였다. 시리즈 중에서도 가장 안정적인 밸런스를 가지고 있다고 평가되며 현재까지 가장 많이 플레이되고 있는 시리즈. 
+이 게임을 끝으로 "킹 오브 파이터즈" 는 몰락의 기로에 서있게 된다. 이 이후 KOF98 10주년을 맞이하여 "킹 오브 파이터즈 98UM" 이 발매되었다. 
+이 게임에는 94년부터 97년까지 KOF에 한 번이라도 등장했던 캐릭터들이 모두 등장 전체 38인에서 선택 플레이 할 수 있다. 보스 역시 오메가루갈, 게닛츠, 오로치 중에 한 명이 등장한다.
+'어드벤스 모드' 에서 MVS의 캘린더 기능으로 휴일에는 캐릭트의 기분이 변화해 파워 게이지가 변화하는 '필링 바리에이션 시스템' 이 포함되어 있다.</desc>
+	</game>
+	<game>
+		<path>./neogeo/kof98bc2nd.zip</path>
+		<name>더 킹 오브 파이터즈 '98 BC 2nd 임팩트 에디션 (핵, 버전 2020-07-29)</name>
+		<image>./neogeo/boxart/kof98.png</image>
+		<video>./neogeo/snap/kof98.mp4</video>
+		<developer>해킹판</developer>
+		<publisher>해킹판</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>2020</releasedate>
 		<desc>"KOF 94" 부터 시작된 "KOF 시리즈" 의 집대성으로 등장한 게임.
 3년간 진행된 오로치편을 끝내고 차기작을 발매하기 전 1년간의 휴식기를 갖기 위해 스토리를 없앤 초기 KOF 시리즈의 컨셉을 살려 발매되었다. 
 드림매치라는 컨셉답게 기존에 삭제된 팀까지 포함하였다. 시리즈 중에서도 가장 안정적인 밸런스를 가지고 있다고 평가되며 현재까지 가장 많이 플레이되고 있는 시리즈. 
@@ -17753,6 +18287,25 @@ SNK社 의 역사에서 보기 드믄 빼어난 이식도를 보여주고 있다
 SNK社 의 역사에서 보기 드믄 빼어난 이식도를 보여주고 있다. 스토리면에서도 주인공 교체등의 새로운 전개로  화제를 부르기도 했다.</desc>
 	</game>
 	<game>
+		<path>./neogeo/kof99eur2.zip</path>
+		<name>더 킹 오브 파이터즈 '99 에볼루션 울트라 리믹스 2015 (핵)</name>
+		<image>./neogeo/boxart/kof99.png</image>
+		<video>./neogeo/snap/kof99.mp4</video>
+		<developer>해킹판</developer>
+		<publisher>해킹판</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>2015</releasedate>
+		<desc>SNK社 의 간판 시리즈 KOF의 6 번째 작품.
+게임 스타일은 종래의 3 대 3의 팀 배틀 방식이지만 기존의 지원 공격을 발전 시켜 도움 캐릭터를 고를 수 있는 '스트라이커 시스템' 이 등장하게 되었다.
+스트라이커 시스템의 적용으로 1 팀 4명(4 : 4) 편성으로 변경되었고 어드벤스 모드의 경우 공격력 업,초필살기술,슈퍼 캔슬 등 공격적인 '카운터 모드'와 
+반대로 방어를 강화하는 '아머 모드' 등의 새로운 요소가 등장해 풍부한 전략을 세울 수 있게 되었다.
+제자리 회피 시스템은 완전히 사라졌다. K' 라는 신 캐릭터로 새로운 스토리 라인을 이어갔다. 
+하지만 이전과 다른 시스템으로 기존 유저들에게 외면을 받았고 시도는 좋았지만 스트라이커 시스템의 불균형과 벨런싱 문제. 
+지나칠정도의 급진적인 변화등으로 많은 유저들이 이탈했다. 가정용에서는 드림캐스트용으로 발매된 KOF'99 에볼루션은 안정적인 3D 배경, 추가 스트라이커등으로 
+SNK社 의 역사에서 보기 드믄 빼어난 이식도를 보여주고 있다. 스토리면에서도 주인공 교체등의 새로운 전개로  화제를 부르기도 했다.</desc>
+	</game>
+	<game>
 		<path>./neogeo/kof99rp2f.zip</path>
 		<name>더 킹 오브 파이터즈 '99 리믹스 프로 V2.0 파이널 (핵 제작 FCHT)</name>
 		<image>./neogeo/boxart/kof99rp2f.png</image>
@@ -17867,7 +18420,7 @@ SNK는 2001년 재정 악화로 인해 영업정지 및 파산에 이르게 된�
 	</game>
 	<game>
 		<path>./neogeo/kof2000otc.zip</path>
-		<name>더 킹 오브 파이터즈 2000 (OTC 2020-05-30, LOUSHI 커스터마이즈드 버전)</name>
+		<name>더 킹 오브 파이터즈 2000 (OTC, 핵)</name>
 		<image>./neogeo/boxart/kof2000otc.png</image>
 		<video>./neogeo/snap/kof2000.mp4</video>
 		<developer>SNK</developer>
@@ -17916,6 +18469,31 @@ SNK는 2001년 재정 악화로 인해 영업정지 및 파산에 이르게 된�
 SNK는 2001년 재정 악화로 인해 영업정지 및 파산에 이르게 된다.</desc>
 	</game>
 	<game>
+		<path>./neogeo/kof2kxxx.zip</path>
+		<name>더 킹 오브 파이터즈 2000 SP XXX (핵, 버전 2016-01-04)</name>
+		<image>./neogeo/boxart/kof2000sp.png</image>
+		<video>./neogeo/snap/kof2000.mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>2016</releasedate>
+		<desc>SNK社 가 발표한 "킹 오브 파이터즈" 시리즈의 일곱 번째 작품이다. 
+스트라이커 시스템을 더욱 활용성있게 발전시켰다. 
+전작에서 유저들에게 지적된 구르기 시스템을 원래대로 돌려놓았고 "카운터 모드" 와 "아머 모드" 를 한층 강화시켰다. 
+하지만 아머 모드의 경우에 심하다 싶을 정도로 강화시켜 게임 플레이를 좁혀놓은 상황이 발생했다. 
+구 SNK社 의 마지막 작품으로 일반 팬들도 알지못하는 SNK의 다양한 캐릭터들을 스트라이커로 넣어 
+드림매치라는 컨셉을 제대로 보여줬다.
+"KOF 99" 를 기본으로 긴급 회피 동작의 부활시키고 스트라이커 시스템을 개량한 점이 특징이다.
+상황에 따라 자유롭게 스트라이커를 호출하는 '액티브 스트라이커 시스템'이 적용되었고 스트라이커 전용의 캐릭터를 
+설정한 '어나더 스트라이커'가 등장했다.
+하지만 스트라이커 발동 조건이 느슨해 지는 영향으로 무한 콤보등의 문제가 생기기도 해 플레이어 사이에 
+찬반양론이 격렬하게 이야기 되기도 했다.
+아나더 스트라이커로 'KOF' 본래의 테마인 'SNK 올스타 등장' 이 이루어지게 되어 SNK 작품의 집대성이다.
+"SNK社" 이름으로 만들어진 마지막 KOF 시리즈 이다. 
+SNK는 2001년 재정 악화로 인해 영업정지 및 파산에 이르게 된다.</desc>
+	</game>
+	<game>
 		<path>./neogeo/kof2k1nd.zip</path>
 		<name>더 킹 오브 파이터즈 2001 (완전 해독됨)</name>
 		<image>./neogeo/boxart/kof2001.png</image>
@@ -17925,6 +18503,30 @@ SNK는 2001년 재정 악화로 인해 영업정지 및 파산에 이르게 된�
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate>2001</releasedate>
+		<desc>더 킹 오브 파이터즈 시리즈의 여덟 번째 작품. 2001년 11월 15일에 출시되었다.
+구 SNK가 틀린그림찾기로 알려진 한국의 이오리스와 파트너십 계약을 맺고 자본 및 제작 지원을 받아 제작하였다.
+실제 제작사는 당시 SNK의 KOF 개발진을 주축으로 하여 자회사로 설립된 브렛자 소프트이다.
+SNK는 로케이션 테스트까지는 마쳤으나 출시 직전 도산했고, SNK의 계열사였던 선 어뮤즈먼트가 일본 내수판을
+이오리스가 해외판을 각각 유통했다.
+부족한 개발 인원과 제작 기간으로 미완성으로 만들어진 작품임을 감안하더라도 전작들인 KOF 99, KOF 2000에 비해
+그래픽과 사운드의 질이 심각하게 저하됐으며, KOF의 핵심 중 하나였던 일러스트의 과도한 변화도 있어 발매 후의 여론은 좋지 않았다.
+냉정하게 본다면 콤보를 제외한 다른 요소의 질이 평균 이하의 평가를 받으며, 그나마 있는 스트라이커 콤보 자체도 호불호가 엄청 갈린다.
+어쨌든 시스템, 일러스트, 밸런스, 시스템 등 여러 면에서 거의 KOF 시리즈 중 손에 꼽힐 정도의 흑역사급 망작이라는 평.
+아무래도 자금 지원과 제작 지원, 해외판 유통을 맡아준 만큼 작업 과정에서 이오리스의 입김이 상당했던 모양이다.
+2001 신캐인 이진주의 탄생에도 이오리스가 한국형 아테나를 요청해서 나온거고,이그니스도 이오리스가 미형보스로 하자고 해서 나왔다.
+디자이너에게 아름답게 해달라고 수백번을 되뇌었다고.
+더불어 이오리스의 영향으로 시리즈 최초로 네오지오판에서 한국어 자막을 지원하고 한국팀은 한국어 음성까지 있다.</desc>
+	</game>
+	<game>
+		<path>./neogeo/kof2001ru.zip</path>
+		<name>더 킹 오브 파이터즈 2001 리믹스 울트라 2.3 (핵 제작 Jason FGCH)</name>
+		<image>./neogeo/boxart/kof2001ru</image>
+		<video>./neogeo/snap/kof2001.mp4</video>
+		<developer>SNK / Eolith</developer>
+		<publisher>SNK / Eolith</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>2004</releasedate>
 		<desc>더 킹 오브 파이터즈 시리즈의 여덟 번째 작품. 2001년 11월 15일에 출시되었다.
 구 SNK가 틀린그림찾기로 알려진 한국의 이오리스와 파트너십 계약을 맺고 자본 및 제작 지원을 받아 제작하였다.
 실제 제작사는 당시 SNK의 KOF 개발진을 주축으로 하여 자회사로 설립된 브렛자 소프트이다.
@@ -17973,6 +18575,30 @@ SNK는 로케이션 테스트까지는 마쳤으나 출시 직전 도산했고, 
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate>20191212</releasedate>
+		<desc>더 킹 오브 파이터즈 시리즈의 여덟 번째 작품. 2001년 11월 15일에 출시되었다.
+구 SNK가 틀린그림찾기로 알려진 한국의 이오리스와 파트너십 계약을 맺고 자본 및 제작 지원을 받아 제작하였다.
+실제 제작사는 당시 SNK의 KOF 개발진을 주축으로 하여 자회사로 설립된 브렛자 소프트이다.
+SNK는 로케이션 테스트까지는 마쳤으나 출시 직전 도산했고, SNK의 계열사였던 선 어뮤즈먼트가 일본 내수판을
+이오리스가 해외판을 각각 유통했다.
+부족한 개발 인원과 제작 기간으로 미완성으로 만들어진 작품임을 감안하더라도 전작들인 KOF 99, KOF 2000에 비해
+그래픽과 사운드의 질이 심각하게 저하됐으며, KOF의 핵심 중 하나였던 일러스트의 과도한 변화도 있어 발매 후의 여론은 좋지 않았다.
+냉정하게 본다면 콤보를 제외한 다른 요소의 질이 평균 이하의 평가를 받으며, 그나마 있는 스트라이커 콤보 자체도 호불호가 엄청 갈린다.
+어쨌든 시스템, 일러스트, 밸런스, 시스템 등 여러 면에서 거의 KOF 시리즈 중 손에 꼽힐 정도의 흑역사급 망작이라는 평.
+아무래도 자금 지원과 제작 지원, 해외판 유통을 맡아준 만큼 작업 과정에서 이오리스의 입김이 상당했던 모양이다.
+2001 신캐인 이진주의 탄생에도 이오리스가 한국형 아테나를 요청해서 나온거고,이그니스도 이오리스가 미형보스로 하자고 해서 나왔다.
+디자이너에게 아름답게 해달라고 수백번을 되뇌었다고.
+더불어 이오리스의 영향으로 시리즈 최초로 네오지오판에서 한국어 자막을 지원하고 한국팀은 한국어 음성까지 있다.</desc>
+	</game>
+	<game>
+		<path>./neogeo/kof2k1rp.zip</path>
+		<name>더 킹 오브 파이터즈 2001 리믹스 프로 v1.02 파이널 (핵 제작 Jason, Kim &amp; Raymonose)</name>
+		<image>./neogeo/boxart/kof2001.png</image>
+		<video>./neogeo/snap/kof2001.mp4</video>
+		<developer>해킹판</developer>
+		<publisher>해킹판</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>20040301</releasedate>
 		<desc>더 킹 오브 파이터즈 시리즈의 여덟 번째 작품. 2001년 11월 15일에 출시되었다.
 구 SNK가 틀린그림찾기로 알려진 한국의 이오리스와 파트너십 계약을 맺고 자본 및 제작 지원을 받아 제작하였다.
 실제 제작사는 당시 SNK의 KOF 개발진을 주축으로 하여 자회사로 설립된 브렛자 소프트이다.
@@ -18149,15 +18775,38 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 교체되었다.</desc>
 	</game>
 	<game>
-		<path>./neogeo/kf2k2ps2b.zip</path>
+		<path>./neogeo/kof2002ps2.zip</path>
 		<name>더 킹 오브 파이터즈 2002 (플레이스테이션 2, 핵)</name>
-		<image>./neogeo/boxart/kf2k2ps2b.png</image>
+		<image>./neogeo/boxart/kof2002ps2.png</image>
 		<video>./neogeo/snap/kof2002.mp4</video>
 		<developer>해킹판</developer>
 		<publisher>해킹판</publisher>
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate>2018</releasedate>
+		<desc>"SNK社" 파산 이후 판권을 이어 받은 "플레이모어社" 와 "KOF" 라이센스를 획득한 "이오리스社" 에 의해 개발된 
+"킹 오브 파이터즈" 의 9번째 시리즈.
+초창기 KOF 때의 원점으로 돌아가서 스트라이커 시스템 폐지 및 3 대 3 배틀의 부활이 이루어 졌다.
+또한 파워 게이지 사용으로 파워업하는 MAX 발동 시스템에 및 언제나 가능한 캔슬기능, 
+체력 감소시에만 사용가능한 MAX2 초필살기술의 새로운 시스템이 도입되었다.
+하지만 스토리 라인이 없는 외전 격의 게임으로 새로운 캐릭터의 추가가 없는 점이 아쉬움으로 남는 게임.
+시리즈 최초로 일본에서 전국 대회가 이루어지기도 하는등 이전의 KOF 인기를 만회한 작품이다.
+"이오리스社" 에서 출시된 두 번째이자 마지막 KOF 게임. 이후에는 SNK/Playmore에 의해 시리즈가 계속되게 된다.
+이오리스에 의해 2001부터 추가된 K9999, 앤젤, 이진주 등의 신 캐릭터는 시리즈가 다시 SNK로 넘어가게 되면서 
+이오리스와의 라이센스 문제로 이후에는 등장하지 않게된다.
+네오지오 MVS 기판내에 한국어 설정이 추가되었으며 한국판 설정에 한해 어색했던 한국팀 음성이 국내 성우로 
+교체되었다.</desc>
+	</game>
+	<game>
+		<path>./neogeo/kof2k2plus.zip</path>
+		<name>더 킹 오브 파이터즈 2002 (플러스 2017)</name>
+		<image>./neogeo/boxart/kof2k2plus.png</image>
+		<video>./neogeo/snap/kof2002.mp4</video>
+		<developer>해킹판</developer>
+		<publisher>해킹판</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>2020</releasedate>
 		<desc>"SNK社" 파산 이후 판권을 이어 받은 "플레이모어社" 와 "KOF" 라이센스를 획득한 "이오리스社" 에 의해 개발된 
 "킹 오브 파이터즈" 의 9번째 시리즈.
 초창기 KOF 때의 원점으로 돌아가서 스트라이커 시스템 폐지 및 3 대 3 배틀의 부활이 이루어 졌다.
@@ -18203,6 +18852,28 @@ KOF 2003 출시 후 SNK NEOGEO는 SNK 플레이모어로 흡수 합병된다.</d
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate>2006</releasedate>
+		<desc>더 킹 오브 파이터즈 시리즈의 열 번째 작품이자 마지막 연도제 작품. 2003년 12월 12일에 출시되었다.
+멀티 시프트(태그) 시스템을 최초로 도입한 SNK가 자사의 아케이드 시스템인 MVS를 사용한 최후의 KOF이다.
+그리고 네오지오 부트 로고가 나오지 않은 두 번째 게임이다.
+어색한 캐릭터의 모션과 미완성된 게임 시스템 때문에 네오지오 계열 마지막 KOF라는 타이틀에 걸맞지 않은 졸작이다.
+오죽하면 플레이하는 것 자체가 시간낭비라는 평가도 있을 정도.
+후에 플레이스테이션 2와 엑스박스로 사운드와 게임 시스템을 개수하여 성의있게 이식한 점은 좋은 평을 받았는데
+게임 자체가 반 년도 안 되는 기간 동안에 만들어서 그런지 네오지오용 KOF 시리즈 중에서 가장 완성도가 낮은 게임이다.
+흥행도 실패. SVC CHAOS, 메탈슬러그 5와 함께 SNK 플레이모어의 암울했던 시기의 대표작 중 하나로 꼽힌다.
+이오리스와의 파트너십 계약이 끝나고 사명을 바꾼 SNK 플레이모어가 단독으로 출시한 첫 KOF이다.
+계열사인 선 어뮤즈먼트가 브렛자 소프트를 흡수 합병하여 세운 SNK NEOGEO를 중심으로 개발이 이뤄졌다.
+KOF 2003 출시 후 SNK NEOGEO는 SNK 플레이모어로 흡수 합병된다.</desc>
+	</game>
+	<game>
+		<path>./neogeo/kf2k3ps2sp.zip</path>
+		<name>더 킹 오브 파이터즈 2003 - PS2 스타일 포트레이트 (핵 제작 0 Day-S, Eddids, Hiker)</name>
+		<image>./neogeo/boxart/kof2003.png</image>
+		<video>./neogeo/snap/kof2003.mp4</video>
+		<developer>해킹판</developer>
+		<publisher>해킹판</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>20??</releasedate>
 		<desc>더 킹 오브 파이터즈 시리즈의 열 번째 작품이자 마지막 연도제 작품. 2003년 12월 12일에 출시되었다.
 멀티 시프트(태그) 시스템을 최초로 도입한 SNK가 자사의 아케이드 시스템인 MVS를 사용한 최후의 KOF이다.
 그리고 네오지오 부트 로고가 나오지 않은 두 번째 게임이다.
@@ -18722,6 +19393,28 @@ SNK가 SNK Playmore로 부활한 이후에는 SNKP 에서 제작하고 있다.</
 SNK가 SNK Playmore로 부활한 이후에는 SNKP 에서 제작하고 있다.</desc>
 	</game>
 	<game>
+		<path>./neogeo/mslugunity.zip</path>
+		<name>메탈 슬러그 유니티 (타이머 추가된 버전 2021-02-05)</name>
+		<image>./neogeo/boxart/mslug.png</image>
+		<video>./neogeo/snap/mslug.mp4</video>
+		<developer>해킹판</developer>
+		<publisher>해킹판</publisher>
+		<genre>플랫폼 / 사격</genre>
+		<players>2</players>
+		<releasedate>20210205</releasedate>
+		<desc>(2018년 핵버전)게임의 주된 목적은, 세계를 정복하려는 야심을 지닌 
+악의 수장 모덴 원수가 이끄는 반란군을 제압해 나가는 것이다.
+처음에는 무기가 권총과 수류탄밖에 없지만, 스테이지를 진행하면서 인질을 구하거나 주변 오브젝트를 파괴하면 
+다양한 무기를 구할 수 있으며, 중간중간에 이 게임 제목이기도 한 메탈슬러그 등 여러 가지 슬러그에 탑승하면서 
+앞길을 가로막는 적들을 날려버리는 경파함이 이 시리즈의 재미였으나, 메탈슬러그 3부터는 난이도가 대폭 높아져서 
+가볍게 플레이할 수 있는 물건은 못 된다. 특히 이후의 6 이나 7(XX) 등은 게임성은 둘째로 치더라도 난이도가 
+너무 높아져서 완전히 매니아를 위한 물건으로 돌변해 버렸을 정도.
+메탈슬러그는 과거 아이렘에 소속되어 있었던 제작자들이 설립한 '나즈카' 라는 회사에서 제작한 작품이기 
+때문에 아이렘에서 만든 게임인 해저대전쟁, 지오스톰(해외명 건포스 II)과 상당히 그래픽 느낌이 비슷하다. 
+이후에 나즈카가 SNK에 합병된 이후로는 SNK 가 제작했고, SNK가 도산한 이후에는 메가 엔터프라이즈, 
+SNK가 SNK Playmore로 부활한 이후에는 SNKP 에서 제작하고 있다.</desc>
+	</game>
+	<game>
 		<path>./neogeo/mslug2.zip</path>
 		<name>메탈 슬러그 2 - 슈퍼 비히클-001/II (NGM-2410) (NGH-2410)</name>
 		<image>./neogeo/boxart/mslug2.png</image>
@@ -18858,6 +19551,40 @@ SNK가 SNK Playmore로 부활한 이후에는 SNKP 에서 제작하고 있다.</
 이러한 버그들은 후속작인 "메탈슬러그 X" 에서 수정되어, 난이도가 좀 높아졌다는 소리를 듣는데에 공헌했다.</desc>
 	</game>
 	<game>
+		<path>./neogeo/mslug2unity.zip</path>
+		<name>메탈 슬러그 2 유니티 (타이머 추가된 버전 2021-01-22)</name>
+		<image>./neogeo/boxart/mslug2.png</image>
+		<video>./neogeo/snap/mslug2.mp4</video>
+		<developer>해킹판</developer>
+		<publisher>해킹판</publisher>
+		<genre>플랫폼 / 사격</genre>
+		<players>2</players>
+		<releasedate>20210122</releasedate>
+		<desc>대전 종결로부터 2년....
+세계를 파괴와 혼란의 소용돌이에 몰아넣었던 전쟁은 정규군의 반공 작전에 의해서 진압되었다.
+자신들이 가져온 평화를 만끽하던 중, 정규군 참모부에 소환을 받는다.
+정보에 의하면 전쟁의 원수는 아직 살아 있고 쿠데타를 계획하고 있다고 한다.
+제 2의 쿠데타를 미연에 막는다는 새로운 임무로 메탈 슬러그의 속편이다.
+전작이 비교적 현실적인 분위기였다면 2탄은 이를 탈피하여, 
+각종 비현실적인 적(미라, 화성인, 거대보스)이라던가 미래형 병기(레이저 건)이 등장하기 시작했다.
+게다가 전작에서는 반란군의 보스로서의 카리스마를 여지없이 보여주던 로널드 모덴이 철저히 망가지게 되었다.
+본작부터 팻 캐릭이라는 시스템이 추가되었다. 어느 특정 지역(스테이지4)에서 음식물 아이템을 많이 먹으면 뚱뚱해진다. 
+그러면 이동 속도는 느려지고 총기에서 나가는 장탄의 모양이 바뀐다. 이 경우 데미지는 그대로지만 
+헤비 머신건의 경우 공격 판정이 넓어지는 효과가 있기는 하지만 돌려쏘기가 안 된다.
+(메탈슬러그X 이후는 팻 캐릭 상태에서도 돌려쏘기가 된다.) 
+로켓 런처의 경우는 비록 느리기는 해도 유도 기능이 생긴다.
+팻 캐릭이 풀리는 아이템을 먹으면 풀려서 본래 모습으로 돌아오게 되어 있다. 
+하지만 굳이 팻 캐릭이 풀리는 아이템을 먹지 않더라도 음식물 아이템을 오랫동안 안 먹거나 
+팻 캐릭이 될 수 있는 지역 밖으로 벗어나면(메X부터 해당) 자동으로 풀린다. 
+또, 팻 캐릭 상태에서 죽으면 배가 터지며 죽고 다시 나올 때 정상 캐릭으로 나온다.
+메탈슬러그2 는 전 시리즈 중에서도 상당히 낮은 난이도를 자랑한다.
+이는 보스전에서 쓸수있는 꼼수가 상당히 많기 때문인데, 
+스테이지 2 보스 "애시 - 네로" 는 슬러그 노이드 점프 꼼수로 무력화가 가능하고, 
+스테이지 3 보스 "드래곤 노스케" 는 서있을 경우에는 바로 밑에서, 
+앉아있을 경우에는 최대로 근접한 상태에서 공격하면 아무 피해없이 보스전을 끝낼 수 있다.
+이러한 버그들은 후속작인 "메탈슬러그 X" 에서 수정되어, 난이도가 좀 높아졌다는 소리를 듣는데에 공헌했다.</desc>
+	</game>
+	<game>
 		<path>./neogeo/mslugx.zip</path>
 		<name>메탈 슬러그 X - 슈퍼 비히클-001 (NGM-2500)(NGH-2500)</name>
 		<image>./neogeo/boxart/mslugx.png</image>
@@ -18867,6 +19594,46 @@ SNK가 SNK Playmore로 부활한 이후에는 SNKP 에서 제작하고 있다.</
 		<genre>플랫폼 / 사격</genre>
 		<players>2</players>
 		<releasedate>1999</releasedate>
+		<desc>시대상 점점 사라져가는 액션 게임이라는 장르에 있어 고군분투하는 "메탈슬러그" 시리즈 제 3탄.
+이번 작품은 탈것과 무기, 아이템의 종류가 대량으로 증가한 것이 변경 사항이지만, 
+기초적으로는 '메탈슬러그 2'의 리메이크 판이다.
+그 밖의 나레이션이 변경되거나 보이스의 종류가 증가.
+적 병력이 강화되고 보스전 꽁수 몇가지가 차단됨으로 인해 전반적인 난이도가 올라갔다는 이야기도 있지만, 
+아군에게 주어지는 화력이 대폭 강화되어 있기 때문에 "메탈슬러그 2" 보단 무기를 펑펑 쏴갈기는 진행이 가능하다. 
+게다가 슬러그에서 내리면 도로 탑승할때까지 무적시간이 주어지는 것 또한 전혀 변하지 않아서 보스전에서 
+슬러그만 끌고 오면 만사장땡이었던 점은 똑같다.
+전 6 스테이지.</desc>
+	</game>
+	<game>
+		<path>./neogeo/mslugxsrf.zip</path>
+		<name>메탈 슬러그 X - 슈퍼 비히클-001 (아즈스타 소다 리믹스 FC2 버전, 핵)</name>
+		<image>./neogeo/boxart/mslugx.png</image>
+		<video>./neogeo/snap/mslugx.mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>플랫폼 / 사격</genre>
+		<players>2</players>
+		<releasedate>2020</releasedate>
+		<desc>시대상 점점 사라져가는 액션 게임이라는 장르에 있어 고군분투하는 "메탈슬러그" 시리즈 제 3탄.
+이번 작품은 탈것과 무기, 아이템의 종류가 대량으로 증가한 것이 변경 사항이지만, 
+기초적으로는 '메탈슬러그 2'의 리메이크 판이다.
+그 밖의 나레이션이 변경되거나 보이스의 종류가 증가.
+적 병력이 강화되고 보스전 꽁수 몇가지가 차단됨으로 인해 전반적인 난이도가 올라갔다는 이야기도 있지만, 
+아군에게 주어지는 화력이 대폭 강화되어 있기 때문에 "메탈슬러그 2" 보단 무기를 펑펑 쏴갈기는 진행이 가능하다. 
+게다가 슬러그에서 내리면 도로 탑승할때까지 무적시간이 주어지는 것 또한 전혀 변하지 않아서 보스전에서 
+슬러그만 끌고 오면 만사장땡이었던 점은 똑같다.
+전 6 스테이지.</desc>
+	</game>
+	<game>
+		<path>./neogeo/mslugxunity.zip</path>
+		<name>메탈 슬러그 X - 슈퍼 비히클-001 유니티 (타이머 추가된 버전 2021-01-23)</name>
+		<image>./neogeo/boxart/mslugx.png</image>
+		<video>./neogeo/snap/mslugx.mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>플랫폼 / 사격</genre>
+		<players>2</players>
+		<releasedate>2021</releasedate>
 		<desc>시대상 점점 사라져가는 액션 게임이라는 장르에 있어 고군분투하는 "메탈슬러그" 시리즈 제 3탄.
 이번 작품은 탈것과 무기, 아이템의 종류가 대량으로 증가한 것이 변경 사항이지만, 
 기초적으로는 '메탈슬러그 2'의 리메이크 판이다.
@@ -18909,6 +19676,28 @@ SNK가 SNK Playmore로 부활한 이후에는 SNKP 에서 제작하고 있다.</
 		<genre>플랫폼 / 사격</genre>
 		<players>2</players>
 		<releasedate>2019</releasedate>
+		<desc>"메탈슬러그" 시리즈사상 최고의 평가를 받는 4번째 작품이다.
+화성인 이야기를 끝내기에 부족함이 없는 작품이며, 스토리와 그에 따른 구성등이 후기작품에 비교했을때 
+너무나도 치밀하다는 점에서 메탈슬러그 최고의 작품이라고 해도 과언이 아니다. 708MB(MVS롬셋)이란 
+용량에 그렇게 많은 것들이 들어있나? 라고 생각하면 SNK가 위대해 보이기까지 한다. 
+3탄 부터 메탈슬러그는 현실성과는 거리가 멀다. 이미 "메탈슬러그 2" , "메탈슬러그 X" 에서도 그러한 것은 보였지만, 
+3탄에 들어와서는 사람 몸만한(그것보다 큰) 게, 
+날아다니는 식인 거대 피라니아, 좀비, 2족 보행병기(레벨 아머), 거대한 식인메뚜기, 식인식물(맨 이터), 
+거대 달팽이, 초거대 애벌레(??)등등 또한 이것들은 메탈슬러그 시리즈의 난이도를 급상승 시키는 요인이 되었다. 
+게다가 슬러그 탈출 무적시간이 줄어들어서 X까지 가능했던 '슬러그 내렸다가 도로 탑승'이라는 무적의 패턴이 사라졌다. 
+그러나 꼼수를 쓰면 되긴 한다.(미션3 슬러그마리너, 레벨아머) 
+시리즈 최초로 여성 캐릭터들의 누드가 나오는 작품이기도하다.</desc>
+	</game>
+	<game>
+		<path>./neogeo/mslug3unity.zip</path>
+		<name>메탈 슬러그 3 유니티 (타이머 추가된 버전 2021-02-13)</name>
+		<image>./neogeo/boxart/mslug3.png</image>
+		<video>./neogeo/snap/mslug3.mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>플랫폼 / 사격</genre>
+		<players>2</players>
+		<releasedate>20210213</releasedate>
 		<desc>"메탈슬러그" 시리즈사상 최고의 평가를 받는 4번째 작품이다.
 화성인 이야기를 끝내기에 부족함이 없는 작품이며, 스토리와 그에 따른 구성등이 후기작품에 비교했을때 
 너무나도 치밀하다는 점에서 메탈슬러그 최고의 작품이라고 해도 과언이 아니다. 708MB(MVS롬셋)이란 
@@ -18967,6 +19756,21 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 판권을 산 다음에 제작했다.</desc>
 	</game>
 	<game>
+		<path>./neogeo/mslug4unity.zip</path>
+		<name>메탈 슬러그 4 유니티 (타이머 추가된 버전 2021-01-30)</name>
+		<image>./neogeo/boxart/mslug4.png</image>
+		<video>./neogeo/snap/mslug4.mp4</video>
+		<developer>메가</developer>
+		<publisher>메가</publisher>
+		<genre>플랫폼 / 사격</genre>
+		<players>2</players>
+		<releasedate>20210130</releasedate>
+		<desc>메탈슬러그 시리즈중 유일하게 한국 회사인 "메가 엔터프라이즈" 가 제작한 작품. 
+전작이 매우 위대했기 때문일까? 이 작품의 평판은 그다지 좋은 것이 아니었다. 
+SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔터프라이즈" 에서 
+판권을 산 다음에 제작했다.</desc>
+	</game>
+	<game>
 		<path>./neogeo/mslug5nd.zip</path>
 		<name>메탈 슬러그 5 (완전 해독됨)</name>
 		<image>./neogeo/boxart/mslug5.png</image>
@@ -19008,6 +19812,38 @@ SNK는 리메이크할 의향이 없는 듯 하다.
 		<genre>플랫폼 / 사격</genre>
 		<players>2</players>
 		<releasedate>2017</releasedate>
+		<desc>SNK 플레이모어가 2003년 11월 13일에 제작한 첫 메탈슬러그 시리즈 후속작.
+전작의 메탈리쉬 시스템을 폐기하고 슬라이딩 시스템이 추가되었다.
+일부 패턴과 더미 데이터를 보면 아무래도 원안은 슬라이딩 시스템을 적극 활용할 생각이었던 것 같다.
+또한 전작의 신규 캐릭터였던 트레버 스페이시와 나디아 커셀이 삭제되고 대신 타마 로빙과 에리 카사모토가 다시 복귀했다.
+새로 시작하자는 마음가짐에서인지 기존의 적인 모덴군을 싸그리 없애고 새로운 적이란 컨셉으로 "프토레마이크군"이란
+신 집단을 내세우고 여러가지 시도를 한 작품이지만 급조하는 바람에 제대로 완성되지도 못한 채 나오고 말았다.
+4편의 투 머신건이 5편에 와서 1발 당 타격시 점수가 100점을 주어서 스코어링에 편하게 개량되었다.
+또한 승리 모션이나 팻 플레이어 모드로도 투 머신건을 사용하는 새로운 요소가 들어있다.
+블랙 하운드라는 적은 주인공 메탈슬러그의 대척점에 서는 적으로 이전에 존재하지 않았던 신선한 요소다.
+전작 4처럼 Final Attack을 제외하면 BGM이 새롭게 제작되었는데, 이에 대한 평가가 매우 좋다.
+이래저래 개선점만 애기 했지만 실상은 4에서 싹 교체된 개발진들이 자신들이 생각하던 것들을 다 넣어서 3와 맞먹는 명작으로 만들려고 
+했는데,본작의 출시 연도였던 2003년은 회사가 SNKP로 다시 부활해서 정신이 없다보니 비슷한 시기에 출시한 신작들 중
+사무라이 스피리츠 제로를 제외한 나머지 작품들이 모두 시원하게 망해버린 탓에 자금 조달이 어려웠고
+게임 개발을 할 시간 역시 촉박하여 결국 네오지오 기판의 최대 용량인 708Mbit의 절반 정도를 더미데이터로 묻어두게 되었다.
+이런 탓에 시대를 잘못 만난 비운의 명작이라며 안타깝게 평가하는 유저가 많다.
+결국 이 작품도 SNK 플레이모어의 암울했던 시기를 상징하는 대표작 중 하나가 되어버렸다.
+더미 데이터들을 살려서 리메이크를 원하는 팬들도 있지만, 2003년도 게임이라 이미 10년도 훌쩍 넘은 게임이고
+메탈슬러그 디펜스에서 메탈슬러그 5의 더미데이터가 유닛으로 나올 때에도 간략하게 설명하고 넘어가는지라 
+SNK는 리메이크할 의향이 없는 듯 하다.
+설령 의향이 있다 하더라도 새로 교체된 핵심 개발진들도 메탈슬러그 XX를 마지막으로 모두 퇴사한 탓에 SNK에서도 
+새로 제작하는 것은 힘들다.</desc>
+	</game>
+	<game>
+		<path>./neogeo/mslug5unity.zip</path>
+		<name>메탈 슬러그 5 유니티 (타이머 추가된 버전 2021-04-23)</name>
+		<image>./neogeo/boxart/mslug5.png</image>
+		<video>./neogeo/snap/mslug5.mp4</video>
+		<developer>SNK 플레이모어</developer>
+		<publisher>SNK 플레이모어</publisher>
+		<genre>플랫폼 / 사격</genre>
+		<players>2</players>
+		<releasedate>20210423</releasedate>
 		<desc>SNK 플레이모어가 2003년 11월 13일에 제작한 첫 메탈슬러그 시리즈 후속작.
 전작의 메탈리쉬 시스템을 폐기하고 슬라이딩 시스템이 추가되었다.
 일부 패턴과 더미 데이터를 보면 아무래도 원안은 슬라이딩 시스템을 적극 활용할 생각이었던 것 같다.
@@ -20348,6 +21184,96 @@ SNK의 처음이자 마지막으로 사기캐와 약캐가 하나도 없는 깔�
 	<game>
 		<path>./neogeo/sengo3nh.zip</path>
 		<name>전국전승 2001 (히든 핵)</name>
+		<image>./neogeo/boxart/sengoku3.png</image>
+		<video>./neogeo/snap/sengoku3.mp4</video>
+		<developer>SNK/노이즈 팩토리</developer>
+		<publisher>SNK/노이즈 팩토리</publisher>
+		<genre>격투 / 아케이드</genre>
+		<players>2</players>
+		<releasedate>2001</releasedate>
+		<desc>2001년이라는 네오지오 말기에 발매되어 한국에서 전국전승하면 가장 먼저 떠올릴 정도로 시리즈 중 
+제일 메이저한 작품이자 시리즈 최종작. 제작은 노이즈 팩토리.
+전작들과 비교해보면 일단 작풍과 조작이 제법 멀쩡해졌다. 다만 강공격, 무기 던지기, 콤보 공격 후의 딜레이가 너무 길어 빈틈이 많았고
+아이템이 사라지는 속도는 또 너무 빨라서 아이템의 위치를 외우지 않는 이상 "쟁여두기"가 불가능 했다.
+결국 이런 단점들이 시너지 효과를 발휘하여 보기보다 난이도가 높았고, 이는 사람들의 외면으로 이어졌다.
+주인공들이 전국시대의 용자의 후예가 아니라 닌자의 후예로 바뀐 것을 시작으로 변신 시스템과 시공을 정신없이 뛰어넘는 전개가 없어지고
+4명의 플레이어 캐릭터중 하나를 선택하고 초반 3스테이지 클리어 후 보스캐릭터 2명이 추가되는 파이널파이트 식의 난타액션이 되었으며
+여기에 시대의 흐름에 맞춰 게이지 소모 필살기 인술을 추가해 막말로 제목만 빌려온 다른 게임이라 해도 될 정도의 변화점을 보였다.
+제작사인 노이즈 팩토리에서 이전에 만든 마이너 액션 게임 가이아 크루세이더즈와 비슷한 분위기가 되어 버려서 전작들의 쌈마이함을
+좋아했던 사람들이라면 매우 아쉬워할 부분.
+굳이 전작들과의 연관성을 찾는다면 적 잡몹들 대부분이 전국시대의 망령이라는 것과 1과 2의 2P 캐릭터가 가진 카우보이 컨셉을 계승한듯한
+외국인 캐릭터인 황금매 팔쿤 정도.비유하자면 대략 천지를 먹다 1에서 2로의 변화를 떠올리면 될 것이다.
+다만 전신마괴, 시리즈 마냥 콤보 시스템을 도입하여 콤보를 이어가면서 적을 쓰러트리는 게임으로서 어필했다.
+재미있는 점이라면 가디언즈가 콤보를 계속 잇다보면 강제로 데미지가 0이 되고 콤보에 비례해 난이도가 증가하는지라 점수불리기 목적 이외엔
+위험한 행위인데 반해 이 게임은 콤보를 이을수록 공격력 보정이 강화되는데다 특수기술인 인술에 필요한 게이지까지 차오르므로 상황에 따라선
+전략적인 이용도 가능. 적극적인 콤보플레이를 조장하는건 찬반이 갈리기 쉽지만 이 콤보 역보정 시스템은 점수벌이(+게이지 회수)와
+적 섬멸의 일석이조의 효과를 주는 합리적인 시스템이 아닐 수 없다.
+특히 악마같은 난도로 유명한 USA면 보스 번개무사와 최종보스 사신은 콤보 역보정을 이용한 공세유지를 이용해야 그나마 쉽게 상대하는게 가능하다.
+무적기 타이밍을 읽는 것이 힘들어서 어려워 보이는 것이다.</desc>
+	</game>
+	<game>
+		<path>./neogeo/sengoku3eb.zip</path>
+		<name>전국전승 2001 (Qing 에디션)</name>
+		<image>./neogeo/boxart/sengoku3.png</image>
+		<video>./neogeo/snap/sengoku3.mp4</video>
+		<developer>SNK/노이즈 팩토리</developer>
+		<publisher>SNK/노이즈 팩토리</publisher>
+		<genre>격투 / 아케이드</genre>
+		<players>2</players>
+		<releasedate>2013</releasedate>
+		<desc>2001년이라는 네오지오 말기에 발매되어 한국에서 전국전승하면 가장 먼저 떠올릴 정도로 시리즈 중 
+제일 메이저한 작품이자 시리즈 최종작. 제작은 노이즈 팩토리.
+전작들과 비교해보면 일단 작풍과 조작이 제법 멀쩡해졌다. 다만 강공격, 무기 던지기, 콤보 공격 후의 딜레이가 너무 길어 빈틈이 많았고
+아이템이 사라지는 속도는 또 너무 빨라서 아이템의 위치를 외우지 않는 이상 "쟁여두기"가 불가능 했다.
+결국 이런 단점들이 시너지 효과를 발휘하여 보기보다 난이도가 높았고, 이는 사람들의 외면으로 이어졌다.
+주인공들이 전국시대의 용자의 후예가 아니라 닌자의 후예로 바뀐 것을 시작으로 변신 시스템과 시공을 정신없이 뛰어넘는 전개가 없어지고
+4명의 플레이어 캐릭터중 하나를 선택하고 초반 3스테이지 클리어 후 보스캐릭터 2명이 추가되는 파이널파이트 식의 난타액션이 되었으며
+여기에 시대의 흐름에 맞춰 게이지 소모 필살기 인술을 추가해 막말로 제목만 빌려온 다른 게임이라 해도 될 정도의 변화점을 보였다.
+제작사인 노이즈 팩토리에서 이전에 만든 마이너 액션 게임 가이아 크루세이더즈와 비슷한 분위기가 되어 버려서 전작들의 쌈마이함을
+좋아했던 사람들이라면 매우 아쉬워할 부분.
+굳이 전작들과의 연관성을 찾는다면 적 잡몹들 대부분이 전국시대의 망령이라는 것과 1과 2의 2P 캐릭터가 가진 카우보이 컨셉을 계승한듯한
+외국인 캐릭터인 황금매 팔쿤 정도.비유하자면 대략 천지를 먹다 1에서 2로의 변화를 떠올리면 될 것이다.
+다만 전신마괴, 시리즈 마냥 콤보 시스템을 도입하여 콤보를 이어가면서 적을 쓰러트리는 게임으로서 어필했다.
+재미있는 점이라면 가디언즈가 콤보를 계속 잇다보면 강제로 데미지가 0이 되고 콤보에 비례해 난이도가 증가하는지라 점수불리기 목적 이외엔
+위험한 행위인데 반해 이 게임은 콤보를 이을수록 공격력 보정이 강화되는데다 특수기술인 인술에 필요한 게이지까지 차오르므로 상황에 따라선
+전략적인 이용도 가능. 적극적인 콤보플레이를 조장하는건 찬반이 갈리기 쉽지만 이 콤보 역보정 시스템은 점수벌이(+게이지 회수)와
+적 섬멸의 일석이조의 효과를 주는 합리적인 시스템이 아닐 수 없다.
+특히 악마같은 난도로 유명한 USA면 보스 번개무사와 최종보스 사신은 콤보 역보정을 이용한 공세유지를 이용해야 그나마 쉽게 상대하는게 가능하다.
+무적기 타이밍을 읽는 것이 힘들어서 어려워 보이는 것이다.</desc>
+	</game>
+	<game>
+		<path>./neogeo/sengoku3fs.zip</path>
+		<name>전국전승 2001 (Feng Shen 에디션)</name>
+		<image>./neogeo/boxart/sengoku3.png</image>
+		<video>./neogeo/snap/sengoku3.mp4</video>
+		<developer>SNK/노이즈 팩토리</developer>
+		<publisher>SNK/노이즈 팩토리</publisher>
+		<genre>격투 / 아케이드</genre>
+		<players>2</players>
+		<releasedate>2020</releasedate>
+		<desc>2001년이라는 네오지오 말기에 발매되어 한국에서 전국전승하면 가장 먼저 떠올릴 정도로 시리즈 중 
+제일 메이저한 작품이자 시리즈 최종작. 제작은 노이즈 팩토리.
+전작들과 비교해보면 일단 작풍과 조작이 제법 멀쩡해졌다. 다만 강공격, 무기 던지기, 콤보 공격 후의 딜레이가 너무 길어 빈틈이 많았고
+아이템이 사라지는 속도는 또 너무 빨라서 아이템의 위치를 외우지 않는 이상 "쟁여두기"가 불가능 했다.
+결국 이런 단점들이 시너지 효과를 발휘하여 보기보다 난이도가 높았고, 이는 사람들의 외면으로 이어졌다.
+주인공들이 전국시대의 용자의 후예가 아니라 닌자의 후예로 바뀐 것을 시작으로 변신 시스템과 시공을 정신없이 뛰어넘는 전개가 없어지고
+4명의 플레이어 캐릭터중 하나를 선택하고 초반 3스테이지 클리어 후 보스캐릭터 2명이 추가되는 파이널파이트 식의 난타액션이 되었으며
+여기에 시대의 흐름에 맞춰 게이지 소모 필살기 인술을 추가해 막말로 제목만 빌려온 다른 게임이라 해도 될 정도의 변화점을 보였다.
+제작사인 노이즈 팩토리에서 이전에 만든 마이너 액션 게임 가이아 크루세이더즈와 비슷한 분위기가 되어 버려서 전작들의 쌈마이함을
+좋아했던 사람들이라면 매우 아쉬워할 부분.
+굳이 전작들과의 연관성을 찾는다면 적 잡몹들 대부분이 전국시대의 망령이라는 것과 1과 2의 2P 캐릭터가 가진 카우보이 컨셉을 계승한듯한
+외국인 캐릭터인 황금매 팔쿤 정도.비유하자면 대략 천지를 먹다 1에서 2로의 변화를 떠올리면 될 것이다.
+다만 전신마괴, 시리즈 마냥 콤보 시스템을 도입하여 콤보를 이어가면서 적을 쓰러트리는 게임으로서 어필했다.
+재미있는 점이라면 가디언즈가 콤보를 계속 잇다보면 강제로 데미지가 0이 되고 콤보에 비례해 난이도가 증가하는지라 점수불리기 목적 이외엔
+위험한 행위인데 반해 이 게임은 콤보를 이을수록 공격력 보정이 강화되는데다 특수기술인 인술에 필요한 게이지까지 차오르므로 상황에 따라선
+전략적인 이용도 가능. 적극적인 콤보플레이를 조장하는건 찬반이 갈리기 쉽지만 이 콤보 역보정 시스템은 점수벌이(+게이지 회수)와
+적 섬멸의 일석이조의 효과를 주는 합리적인 시스템이 아닐 수 없다.
+특히 악마같은 난도로 유명한 USA면 보스 번개무사와 최종보스 사신은 콤보 역보정을 이용한 공세유지를 이용해야 그나마 쉽게 상대하는게 가능하다.
+무적기 타이밍을 읽는 것이 힘들어서 어려워 보이는 것이다.</desc>
+	</game>
+	<game>
+		<path>./neogeo/sengoku3s.zip</path>
+		<name>전국전승 2001 (에볼루션 1.0, FCHT 핵)</name>
 		<image>./neogeo/boxart/sengoku3.png</image>
 		<video>./neogeo/snap/sengoku3.mp4</video>
 		<developer>SNK/노이즈 팩토리</developer>
@@ -21924,9 +22850,35 @@ PGM의 초기와 말기를 장식한 게임 시리즈로 알려져 있다.</desc
 비중없게 생겼지만 매우 중요하다.게다가 파티에 황충이 있을 경우, 2스테이지에서 법정이 NPC로 등장한다.</desc>
 	</game>
 	<game>
-		<path>./pgm/kovplus2020tx.zip</path>
+		<path>./pgm/kovplus12dw.zip</path>
+		<name>삼국전기 플러스 2012 (Wu Shuang Edition)</name>
+		<image>./pgm/boxart/kovplus12dw.png</image>
+		<video>./pgm/snap/kovplus.mp4</video>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>격투 / 아케이드</genre>
+		<players>4</players>
+		<releasedate>2022</releasedate>
+		<desc>1999년 대만의 IGS社에서 만든 벨트스크롤 액션 게임 (확장팩)
+한국에서는 그냥 나이트 오브 밸러(Knights of Valour)라고 써져 있었기 때문에 오락실 삼국지라고 불렀다.
+인기가 좋아 2편과 3편도 만들어지고 1편 2편 확장팩도 3~4종류나 만들어졌고 삼국전기 리마스터도 국내에 발매되었다.
+삼국전기1,2의 경우 한국어로 설정해놓으면 대사가 한글로 나온다.
+인벤토리의 개념이나 각종 투척 아이템, 마법 아이템 등 캡콤의 던전 앤 드래곤 시리즈의 영향을 강하게 받았으며
+사실 삼국전기 이전에 만들었던 서유석액전에서도 이런 시도를 했었지만 괴악한 난이도,영 좋지 않은 조작감,석연찮은 스테이지 구성 등으로
+ 별 관심을 받지 못하고 파묻혔던 서유석액전에 비하면 이 삼국전기는 그야말로 장족의 발전이라 할 수 있다.
+1편은 촉의 오호장군이 대마왕 조조를 무찌르러 가는 스토리로 사용할 수 있는 캐릭터는 조운, 관우, 장비, 마초, 황충.
+숨겨진 캐릭터로는 제갈량과 초선, 장료 이렇게 총 여덟 명이다.
+정말 웃긴 건 장료와 초선은 적의 장수로도 등장한다는 점이다. 후속작에서는 손권, 감녕 등 오나라의 장수들도 사용할 수 있게 된다.
+위연의 경우는 원군령이라는 특정 아이템 사용시 일정시간 동안 소환되어서 도와주는 역할도 하지만 우습게도 촉 장수임에도 불구하고
+ 7스테이지에서 반란을 일으키며 중간 보스로 등장한다.
+더 웃기는 건 7스테이지에서 위연을 무찌른 후 원군령을 다시 써도 위연을 무리 없이 소환할 수 있다.
+2스테이지와 3스테이지 중간에 졸개와 똑같이 생기고 투구 컬러만 팔레트 스왑인 NPC가 하나 등장하는데 그 NPC가 왕평.
+비중없게 생겼지만 매우 중요하다.게다가 파티에 황충이 있을 경우, 2스테이지에서 법정이 NPC로 등장한다.</desc>
+	</game>
+	<game>
+		<path>./pgm/kovplus20tx.zip</path>
 		<name>삼국전기 - 군웅난무 2020 (개조판)</name>
-		<image>./pgm/boxart/kovplus2020tx.png</image>
+		<image>./pgm/boxart/kovplus20tx.png</image>
 		<video>./pgm/snap/kovplus.mp4</video>
 		<developer>IGS</developer>
 		<publisher>IGS</publisher>
@@ -22054,15 +23006,41 @@ PGM의 초기와 말기를 장식한 게임 시리즈로 알려져 있다.</desc
 비중없게 생겼지만 매우 중요하다.게다가 파티에 황충이 있을 경우, 2스테이지에서 법정이 NPC로 등장한다.</desc>
 	</game>
 	<game>
-		<path>./pgm/kovassga.zip</path>
-		<name>삼국전기 - 오세삼국 (V202CN, 중국판, 복제품)</name>
-		<image>./pgm/boxart/kovassga.png</image>
+		<path>./pgm/kovassg.zip</path>
+		<name>삼국전기 - 오세삼국 (V202CN, 중국판)</name>
+		<image>./pgm/boxart/kovassg.png</image>
 		<video>./pgm/snap/kovshp.mp4</video>
 		<developer>IGS</developer>
 		<publisher>IGS</publisher>
 		<genre>격투 / 아케이드</genre>
 		<players>4</players>
 		<releasedate>2008</releasedate>
+		<desc>2008년 대만의 IGS社에서 만든 벨트스크롤 액션 게임. 
+한국에서는 그냥 나이트 오브 밸러(Knights of Valour)라고 써져 있었기 때문에 오락실 삼국지라고 불렀다.
+인기가 좋아 2편과 3편도 만들어지고 1편 2편 확장팩도 3~4종류나 만들어졌고 삼국전기 리마스터도 국내에 발매되었다.
+삼국전기1,2의 경우 한국어로 설정해놓으면 대사가 한글로 나온다.
+인벤토리의 개념이나 각종 투척 아이템, 마법 아이템 등 캡콤의 던전 앤 드래곤 시리즈의 영향을 강하게 받았으며
+사실 삼국전기 이전에 만들었던 서유석액전에서도 이런 시도를 했었지만 괴악한 난이도,영 좋지 않은 조작감,석연찮은 스테이지 구성 등으로
+ 별 관심을 받지 못하고 파묻혔던 서유석액전에 비하면 이 삼국전기는 그야말로 장족의 발전이라 할 수 있다.
+1편은 촉의 오호장군이 대마왕 조조를 무찌르러 가는 스토리로 사용할 수 있는 캐릭터는 조운, 관우, 장비, 마초, 황충.
+숨겨진 캐릭터로는 제갈량과 초선, 장료 이렇게 총 여덟 명이다.
+정말 웃긴 건 장료와 초선은 적의 장수로도 등장한다는 점이다. 후속작에서는 손권, 감녕 등 오나라의 장수들도 사용할 수 있게 된다.
+위연의 경우는 원군령이라는 특정 아이템 사용시 일정시간 동안 소환되어서 도와주는 역할도 하지만 우습게도 촉 장수임에도 불구하고
+ 7스테이지에서 반란을 일으키며 중간 보스로 등장한다.
+더 웃기는 건 7스테이지에서 위연을 무찌른 후 원군령을 다시 써도 위연을 무리 없이 소환할 수 있다.
+2스테이지와 3스테이지 중간에 졸개와 똑같이 생기고 투구 컬러만 팔레트 스왑인 NPC가 하나 등장하는데 그 NPC가 왕평.
+비중없게 생겼지만 매우 중요하다.게다가 파티에 황충이 있을 경우, 2스테이지에서 법정이 NPC로 등장한다.</desc>
+	</game>
+	<game>
+		<path>./pgm/kovlsqho.zip</path>
+		<name>삼국전기 - 난세삼국 (V112CN, 중국판)</name>
+		<image>./pgm/boxart/kovlsqho.png</image>
+		<video>./pgm/snap/kovshp.mp4</video>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>격투 / 아케이드</genre>
+		<players>4</players>
+		<releasedate>2009</releasedate>
 		<desc>2008년 대만의 IGS社에서 만든 벨트스크롤 액션 게임. 
 한국에서는 그냥 나이트 오브 밸러(Knights of Valour)라고 써져 있었기 때문에 오락실 삼국지라고 불렀다.
 인기가 좋아 2편과 3편도 만들어지고 1편 2편 확장팩도 3~4종류나 만들어졌고 삼국전기 리마스터도 국내에 발매되었다.
@@ -22297,6 +23275,31 @@ PGM의 초기와 말기를 장식한 게임 시리즈로 알려져 있다.</desc
 		<genre>격투 / 아케이드</genre>
 		<players>4</players>
 		<releasedate>2000</releasedate>
+		<desc>인기작이었던 삼국전기의 후속작.  IGS회사에서 PGM 아케이드 게임기 기판으로 개발되었으며 2000년도에 유통되어 나왔다.
+전작과는 다르게 임무를 6개 미만으로 달성하면 조조가 나오는 스테이지 5가 끝이지만, 임무를 6개 이상 달성하면 손권이 나오는 마지막 스테이지까지 갈 수가 있다.
+그러나 삼국전기1만큼 좋은 반응은 얻지 못했다. 전작과 다르게 시스템을 완전히 뒤엎어 버려 게임 자체가 어려워지고 복잡해지면서 이에 유저들이 적응을 못했다.
+물론 시스템적으로 복잡해진만큼 다채로워져서 즐길거리는 상당히 많다. BGM적으로도 전보다 더 진화했다.결론만 말하자면 해보면 재미있다.
+시스템적으로는 레벨제를 계승했으며, 필살기의 경우, 1캐릭터당 1개 밖에 없던 전작에서 여러개로 늘어나 선택의 폭이 넓어졌고 그에 따른 계략, 필살기, 마법이라는 3가지 계열 구분도 생겼다.
+필살기는 커맨드와 아이템 쓰듯이 간단히 발동시키는 것 모두 가능하며, 방통, 제갈량 같은 소위 책사 캐릭터들은 필살기가 사라지고 마법계열만 있는데 이 계열은 아이템처럼 사용하는 방식으로만 쓸 수 있다.
+즉 삼국전기2의 필살기 시스템은 간단하게 말해서 캡콤의 던전 앤 드래곤(게임)의 마법을 생각하면 편하겠다.
+계략,필살기,마법 횟수를 채우는것도 전 앤 드래곤처럼 특정 레벨의 보충품을 먹으면 그 레벨대의 마법들이 모두 채워지는 것과 똑같이, 계략, 필살기, 마법 중 한가지 계열만 채우는 아이템을 먹으면
+그 계열들의 사용 횟수가 모두 늘어난다. 예외적으로 초선의 경우에는 필살기, 마법 양쪽 다 사용가능하지만 계략이 없고, 장비는 극단적으로 필살기만 다섯개가 있다.
+그리고 필살기 게이지는 없지만 사기게이지가 그걸 대신 하게 되는데, 채우는 방식은 적을 때리면 얻을 수 있으며 다 채워지면 특수기술이 더 세진다.
+계략, 마법은 특정 장소에선 쓰지 못하게 제한이 돼있으니 갑자기 못 쓰더라도 당황하지 말자.
+캐릭터로는 장료가 짤리고,손권과 방통이 추가되었다.
+기본적으로는 커맨드 입력이 필요하지만 한국판에서는 106버전부터 제갈량, 초선, 손권, 방통이 커맨드 입력 필요없이 선택이 가능하다.
+물론 제갈량은 여전히 사기 캐릭터다. 모든 면에서 너프가 되었으나, 희대의 캐사기 필살기 팔진도로 모든 것을 커버한다.</desc>
+	</game>
+	<game>
+		<path>./pgm/kov2dzxx.zip</path>
+		<name>삼국전기 2 (Dou Zhuan Xing Xuan, 버전 110)</name>
+		<image>./pgm/boxart/kov2.png</image>
+		<video>./pgm/snap/kov2.mp4</video>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>격투 / 아케이드</genre>
+		<players>4</players>
+		<releasedate>2021</releasedate>
 		<desc>인기작이었던 삼국전기의 후속작.  IGS회사에서 PGM 아케이드 게임기 기판으로 개발되었으며 2000년도에 유통되어 나왔다.
 전작과는 다르게 임무를 6개 미만으로 달성하면 조조가 나오는 스테이지 5가 끝이지만, 임무를 6개 이상 달성하면 손권이 나오는 마지막 스테이지까지 갈 수가 있다.
 그러나 삼국전기1만큼 좋은 반응은 얻지 못했다. 전작과 다르게 시스템을 완전히 뒤엎어 버려 게임 자체가 어려워지고 복잡해지면서 이에 유저들이 적응을 못했다.
@@ -22633,9 +23636,9 @@ SUPER에서 보스 선택이 가능해진 등의 변화가 있었다.
 가뜩이나 여유없는 게임에서 준비과정이 너무 피곤한지라 그냥 멋내기 정도의 기술.</desc>
 	</game>
 	<game>
-		<path>./pgm/oldspluso.zip</path>
+		<path>./pgm/oldsplusok.zip</path>
 		<name>서유석액전 군마난무 (원 키 에디션, 핵)</name>
-		<image>./pgm/boxart/oldspluso.png</image>
+		<image>./pgm/boxart/oldsplusok.png</image>
 		<video>./pgm/snap/oldsplus.mp4</video>
 		<developer>해킹판</developer>
 		<publisher>해킹판</publisher>
@@ -22666,6 +23669,19 @@ SUPER에서 보스 선택이 가능해진 등의 변화가 있었다.
 	<game>
 		<path>./pgm/photoy2k.zip</path>
 		<name>포토 Y2K (V105, 중국판)</name>
+		<image>./pgm/boxart/photoy2k.png</image>
+		<video>./pgm/snap/photoy2k.mp4</video>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>퍼즐 / 기타</genre>
+		<players>4</players>
+		<releasedate>1999</releasedate>
+		<desc>2001년 IGS 제작한 틀린 그림 찾기 게임.
+이런류의 게임들은 연인, 가족, 아이들과 즐기기에 참 좋다.</desc>
+	</game>
+	<game>
+		<path>./pgm/photoy2k102j.zip</path>
+		<name>리얼 앤드 퀘이크 (V102, 일본판)</name>
 		<image>./pgm/boxart/photoy2k.png</image>
 		<video>./pgm/snap/photoy2k.mp4</video>
 		<developer>IGS</developer>
@@ -24970,6 +25986,19 @@ SFC로 이식된 고스트 체이서 전정으로 본 게임을 접한 사람이
 		<genre>퍼즐 / 낙하</genre>
 		<players>4</players>
 		<releasedate>1993</releasedate>
+		<desc>1993년 남코에서 제작한 낙하형 퍼즐 게임.
+헥사와 비슷한 형식으로 두번 연쇄시켜야 벽돌이 깨지는것이 특징.</desc>
+	</game>
+	<game>
+		<path>./post90s/emeraldah.zip</path>
+		<name>에메랄디아 (뱅크뱅크 새 회전 핵)</name>
+		<image>./post90s/boxart/emeralda.png</image>
+		<video>./post90s/snap/emeralda.mp4</video>
+		<developer>남코</developer>
+		<publisher>남코</publisher>
+		<genre>퍼즐 / 낙하</genre>
+		<players>4</players>
+		<releasedate>2022</releasedate>
 		<desc>1993년 남코에서 제작한 낙하형 퍼즐 게임.
 헥사와 비슷한 형식으로 두번 연쇄시켜야 벽돌이 깨지는것이 특징.</desc>
 	</game>
@@ -39414,6 +40443,29 @@ KOF 99의 전방 피하기 이동을 연상시키는 회피후 공격이 가능�
 이 파워다운 시스템은 바로 다음 작품인 스트라이커즈 1945에서 개선되어 이후 작품에서 그대로 쓰인다.</desc>
 	</game>
 	<game>
+		<path>./psikyo/gunbirdka.zip</path>
+		<name>건버드 (한글 패치판)</name>
+		<image>./psikyo/boxart/gunbirdka.png</image>
+		<video>./psikyo/snap/gunbird.mp4</video>
+		<developer>싸이쿄</developer>
+		<publisher>싸이쿄</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players>2</players>
+		<releasedate>1994</releasedate>
+		<desc>일본판을 기본으로 DSNO, 한마루님의 한국어 패치 버전.
+1994년 사이쿄에서 제작 발매된 캐릭터 슈팅 게임(한국 기판)
+1910년을 배경으로 하는 슈팅 게임이며 전투기 대신 사람이 날아다니며 총알을 피하고 적들을 부순다. 
+게임의 배경도 스팀펑크틱하며 또한 전설의 마경을 찾아 다니는 모험가들의 이야기를 다루고 있다. 
+등장 캐릭터는 마리온을 필두로 총 4명. 여담으로 2편과 스토리가 연계된다.
+사이쿄의 이전 게임인 전국 에이스의 시스템을 그대로 물려받았지만, 적에게 부딪힐 때의 효과가 자코 등의 일부 적에게만 적용되었던 전국 에이스 때와 다르게 
+이 작품은 보스 포함한 모든 공중형 적에게 적용되도록 다듬어졌다. 
+공중형 적에게 부딪히면 바로 죽지 않는 대신 파워가 1단계 떨어지면서 파워 아이템을 내뱉는데, 빨리 회수하지 않으면 화면 밖으로 그대로 사라져 버리며 
+파워 초기상태에서 부딪히면 폭탄이 하나씩 날아간다. 
+이걸 응용하면 풀파워 상태에서 파워다운 되기 전에 일부러 부딪히고 나오는 아이템을 바로 회수해서 지속시간을 리셋하는 테크닉도 가능하지만 
+이 게임이 난이도가 쉽지 않다 보니 잔기만 날릴 가능성이 높으므로 주의. 
+이 파워다운 시스템은 바로 다음 작품인 스트라이커즈 1945에서 개선되어 이후 작품에서 그대로 쓰인다.</desc>
+	</game>
+	<game>
 		<path>./psikyo/gunbird2.zip</path>
 		<name>건버드 2 (세트 1)</name>
 		<image>./psikyo/boxart/gunbird2.png</image>
@@ -39876,6 +40928,36 @@ A버튼을 누르면 샷이 나가고, B버튼을 누르면 근거리 공격이 
 		<players>2</players>
 		<releasedate>1996</releasedate>
 		<desc>일본의 횡스크롤 슈팅 게임. 1996년 사이쿄에서 만든 전국 에이스의 속편.
+일러스트레이터는 츠카사 준. 국내를 비롯한 해외에서는 '텐가이(TENGAI)'라는 이름으로 발매되었다.
+여담으로 텐가이는 이 게임의 등장인물 스님의 이름.
+전작과는 달리, 게임이 횡스크롤 슈팅으로 바뀌었다.
+배경 설정은 비창석의 발견으로 비행기가 없어도 날 수 있게 되어서 캐릭터들이 맨몸으로 날아다닌다고 한다.
+사이쿄가 횡스크롤이라고 해도 결코 떨어지지 않는다는 것을 보여준 게임.물론, 이 게임에도 차지샷이 나온다.
+5스테이지 뒤에 분기가 있는데, 1인 플레이시에는 위쪽 루트(정면 돌파)와 아래쪽 루트(비밀 통로)의 내용과 엔딩이 다르다.
+위쪽 루트의 엔딩은 개그 엔딩인 아인을 제외하고 매우 암울하다.다만, 그나마 유니스가 제일 해피에 가까울까.
+아래쪽 루트는 역시나 개그 엔딩인 아인을 제외하면 대부분이 공주를 구출하는 해피 엔딩이다.
+2인 플레이에서는 어느쪽 루트를 택하건 반쯤은 개그인 아인 쇼마루 엔딩 정도를 제외하면 루트에 상관없이 동일한 해피엔딩.
+또한, 사이쿄 게임인 만큼 개그 엔딩들이 상당히 많다.그러면서 왠지 백합엔딩도 많다.
+건버드 2에서 게이 엔딩이 많은 것에 대한 반동인가... 엔딩을 보고나면 하드모드 격인 2회차가 시작되며
+1회차에서 선택하지 않은 분기로 진행한다.
+난이도는 1회차와 비교도 안 되게 어렵다. 탄 속도, 개수가 증가하고 반격탄이 추가되는 등의 변화가 있다.
+2회차까지 클리어하면 end라는 글자와 함께 진짜로 끝. 세가 세턴 버전에서는 스태프롤이 나온다.
+최강 히든 캐릭터로 나오는 아인을 고르는 방법은 물음표에서 위x3, 아래x3, 위x7을 입력하면 나온다.(3.3.7을 기억하자)
+또한 처음 시작할 스테이지를 고르는 꼼수도 있다.
+본래 처음 스테이지 네 개는 무작위로 등장하는데, 이중 하나를 선택할 수 있다는 것이다.</desc>
+	</game>
+	<game>
+		<path>./psikyo/tengaik.zip</path>
+		<name>전국 블레이드 - 전국 에이스 에피소드 II (한글 패치판)</name>
+		<image>./psikyo/boxart/tengaik.png</image>
+		<video>./psikyo/snap/tengai.mp4</video>
+		<developer>싸이쿄</developer>
+		<publisher>싸이쿄</publisher>
+		<genre>슈팅 / 수평 비행</genre>
+		<players>2</players>
+		<releasedate>1996</releasedate>
+		<desc>일본판을 기본으로 DSNO, 한마루님의 한국어 패치 버전.
+일본의 횡스크롤 슈팅 게임. 1996년 사이쿄에서 만든 전국 에이스의 속편.
 일러스트레이터는 츠카사 준. 국내를 비롯한 해외에서는 '텐가이(TENGAI)'라는 이름으로 발매되었다.
 여담으로 텐가이는 이 게임의 등장인물 스님의 이름.
 전작과는 달리, 게임이 횡스크롤 슈팅으로 바뀌었다.
