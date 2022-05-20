@@ -4128,7 +4128,7 @@ CPS1 게임 "Street Fighter II - The World Warrior", "Street Fighter II' - Champ
 	<game>
 		<path>./cps2/rockman2j.zip</path>
 		<name>록맨 2 - 더 파워 파이터즈 (960708 일본판)</name>
-		<image>./cps2/boxart/rmancp2j.png</image>
+		<image>./cps2/boxart/rockman2j.png</image>
 		<video>./cps2/snap/megaman2.mp4</video>
 		<developer>캡콤</developer>
 		<publisher>캡콤</publisher>
@@ -4155,7 +4155,7 @@ CPU : 68000, Z80
 	<game>
 		<path>./cps2/rockman2k.zip</path>
 		<name>록맨 2 - 더 파워 파이터즈 (960708 한글 패치판)</name>
-		<image>./cps2/boxart/rmancp2j.png</image>
+		<image>./cps2/boxart/rockman2j.png</image>
 		<video>./cps2/snap/megaman2.mp4</video>
 		<developer>캡콤</developer>
 		<publisher>캡콤</publisher>
