@@ -2,7 +2,7 @@
 <!--
 * 원본 자료 출처 
   https://dsno.tistory.com/7423
-  2022.5.19 [신 메뉴] FB Neo 게임 모음
+  2022.7.23 [신 메뉴] FB Neo 게임 모음
 
 * 덴타클팀(http://cafe.naver.com/raspigamer)의 레트로게임 롬 목록 한글화 프로젝트를 참조
 * 에뮬 게임동(https://cafe.naver.com/setopbox)의 연두공주님 게임리스트 참조
@@ -803,9 +803,9 @@ F-15XX 미드나이트 이글과 F/A-18G 킬러 호넷 기체를 골라서 플�
 		<name>아카이 카타나 (2010/08/13 마스터 버전.)</name>
 		<image>./cave/boxart/akatana.png</image>
 		<video>./cave/snap/akatana.mp4</video>
-		<developer></developer>
-		<publisher></publisher>
-		<genre></genre>
+		<developer>캐이브</developer>
+		<publisher>캐이브</publisher>
+		<genre>슈팅 / 비행</genre>
 		<players>2</players>
 		<releasedate>2010</releasedate>
 	</game>
@@ -1492,6 +1492,44 @@ C버튼은 폭탄 개념으로 기체가 가진 가장 강력한 무기를 발�
 그 외에는 파이널 파이트와 흡사해서 크게 어려운 점이 없다</desc>
 	</game>
 	<game>
+		<path>./cave/sailormnffj.zip</path>
+		<name>미소녀전사 세일러 문 (파이팅 포 저스티스, 핵)</name>
+		<image>./cave/boxart/sailormnffj.png</image>
+		<video>./cave/snap/sailormn.mp4</video>
+		<developer>반프레스토/가젤</developer>
+		<publisher>반프레스토/가젤</publisher>
+		<genre>격투 / 아케이드</genre>
+		<players>2</players>
+		<releasedate>2022</releasedate>
+		<desc>1995년 가젤에서 제작 (한국 기판)
+미소녀 전사!! 달의 요정!! 세일러문이 등장하는 횡스크롤 액션 게임.
+1995년 3월 22일 가젤에서 제작하고 반프레스토에서 발매한 벨트스크롤 액션 게임. 
+게임 스토리는 미소녀 전사 세일러 문(애니메이션 1기)를 다룬다. 
+초기 5명의 세일러 전사들 중 1명을 플레이어가 선택해서 온갖 적들을 물리치고 최종보스인 퀸 베릴을 물리치면 되는 전형적인 아케이드 게임이다.
+총 8라운드로 구성되있으며, 각 라운드마다 보스가 등장하며, 보스 등장 전엔 마주치는 부하들을 물리치고 보스와 싸워 이기면 된다.
+파이널 파이트와 같은 벨트 스크롤 방식이며, 대시와 대시 점프 후방점프가 있다는게 차이점. 후방점프는 점프를 누르면서 레버를 뒤로하면 되는데, 실전성은 거의 없다.
+그 외에는 파이널 파이트와 흡사해서 크게 어려운 점이 없다</desc>
+	</game>
+	<game>
+		<path>./cave/sailormnrot.zip</path>
+		<name>미소녀전사 세일러 문 (레인 오브 테러, 핵)</name>
+		<image>./cave/boxart/sailormnrot.png</image>
+		<video>./cave/snap/sailormn.mp4</video>
+		<developer>반프레스토/가젤</developer>
+		<publisher>반프레스토/가젤</publisher>
+		<genre>격투 / 아케이드</genre>
+		<players>2</players>
+		<releasedate>2022</releasedate>
+		<desc>1995년 가젤에서 제작 (한국 기판)
+미소녀 전사!! 달의 요정!! 세일러문이 등장하는 횡스크롤 액션 게임.
+1995년 3월 22일 가젤에서 제작하고 반프레스토에서 발매한 벨트스크롤 액션 게임. 
+게임 스토리는 미소녀 전사 세일러 문(애니메이션 1기)를 다룬다. 
+초기 5명의 세일러 전사들 중 1명을 플레이어가 선택해서 온갖 적들을 물리치고 최종보스인 퀸 베릴을 물리치면 되는 전형적인 아케이드 게임이다.
+총 8라운드로 구성되있으며, 각 라운드마다 보스가 등장하며, 보스 등장 전엔 마주치는 부하들을 물리치고 보스와 싸워 이기면 된다.
+파이널 파이트와 같은 벨트 스크롤 방식이며, 대시와 대시 점프 후방점프가 있다는게 차이점. 후방점프는 점프를 누르면서 레버를 뒤로하면 되는데, 실전성은 거의 없다.
+그 외에는 파이널 파이트와 흡사해서 크게 어려운 점이 없다</desc>
+	</game>
+	<game>
 		<path>./cave/theroes.zip</path>
 		<name>벽력영웅 / 썬더 히어로즈</name>
 		<image>./cave/boxart/theroes.png</image>
@@ -1945,6 +1983,24 @@ CAPtain COMmando = CAPCOM
 		<genre>격투 / 아케이드</genre>
 		<players>2</players>
 		<releasedate>2019</releasedate>
+		<desc>캡콤의 대표적인 횡스크롤 액션게임.
+거대 폭력 집단 '매드기어' 에 대항해 싸우는 3명의 주인공을 배경으로 하는 게임.
+대형 캐릭터의 리얼한 움직임으로 크게 히트한 게임으로 격투 액션 게임의 선구적 존재이다.
+처음에는 격투게임 "스트리트 파이터" 의 후속작으로 "스트리트 파이터 89" 라는 이름으로 기획되어졌다.
+적 캐릭터 "안도어" 는 WWF의 유명 레슬러 "안드레 르데 로시모프 (안드레 더 자이언트)" 을 기초로 만들어 졌다.
+적 캐릭터 '투 P'는 캡콤의 또 다른 액션 게임 "잃어버린 세계" 에서 2p 케릭터로 등장한다 (Two P = 2p = player 2)
+일본판 버전의 경우 TV를 통해 제시카의 속옷입은 모습을 보이는 컷씬이 추가되어 있다.</desc>
+	</game>
+	<game>
+		<path>./cps1/ffightaemgc.zip</path>
+		<name>파이널 파이트 30주년 기념판 (매드 기어즈 시티 핵)</name>
+		<image>./cps1/boxart/ffight.png</image>
+		<video>./cps1/snap/ffight.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>격투 / 아케이드</genre>
+		<players>3</players>
+		<releasedate>2022</releasedate>
 		<desc>캡콤의 대표적인 횡스크롤 액션게임.
 거대 폭력 집단 '매드기어' 에 대항해 싸우는 3명의 주인공을 배경으로 하는 게임.
 대형 캐릭터의 리얼한 움직임으로 크게 히트한 게임으로 격투 액션 게임의 선구적 존재이다.
@@ -3126,6 +3182,22 @@ CPU : 68000, Z80
 		<genre>플랫폼 / 격투</genre>
 		<players>2</players>
 		<releasedate>1989</releasedate>
+		<desc>캡콤 초기의 간판 SF 액션 게임이다. 가까운 미래 최강의 닌자 집단 '스트라이더즈' 의 젊은 전사 '비룡' 이,
+세계를 제패한 수수께끼의 남자 '그랜드 마스터' 를 쓰러뜨리기 위해 세계 각지를 여행한다.
+특수요원 비룡의 활약상을 그렸으며, 주인공은 상당히 인기가 있어서 수년 뒤 "스트라이더 비룡 2" 가 만들어졌고 또 "마블 대 캡콤" 에 등장하기도 한다. 
+중력 변화가 극심한 공간에서 싸우는 거나, 공중에 비행기를 갈아타며 이동하는 전개가 많아 화면이 정신없이 돌아가는 경우가 많지만 다관절 보스의 등장에 긴박감 넘치는 연출이 큰 재미를 준다. 
+스테이지를 클리어 한 다음 스토리 모드에서 음성 지원이 된다.</desc>
+	</game>
+	<game>
+		<path>./cps1/striderfix.zip</path>
+		<name>스트라이더 (북미판 세트 1, 그래픽과 음악 수정 핵)</name>
+		<image>./cps1/boxart/strider.png</image>
+		<video>./cps1/snap/strider.mp4</video>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>플랫폼 / 격투</genre>
+		<players>2</players>
+		<releasedate>2022</releasedate>
 		<desc>캡콤 초기의 간판 SF 액션 게임이다. 가까운 미래 최강의 닌자 집단 '스트라이더즈' 의 젊은 전사 '비룡' 이,
 세계를 제패한 수수께끼의 남자 '그랜드 마스터' 를 쓰러뜨리기 위해 세계 각지를 여행한다.
 특수요원 비룡의 활약상을 그렸으며, 주인공은 상당히 인기가 있어서 수년 뒤 "스트라이더 비룡 2" 가 만들어졌고 또 "마블 대 캡콤" 에 등장하기도 한다. 
@@ -4879,7 +4951,7 @@ VS시리즈 제 3탄으로 일단 메인 캐릭터와 보조 캐릭터를 합쳐
 	</game>
 	<game>
 		<path>./cps2/sfa3ce.zip</path>
-		<name>스트리트 파이터 알파 3 - 챌린저스 에디션 (980904 북미판)</name>
+		<name>스트리트 파이터 알파 3 - 챌린저스 에디션</name>
 		<image>./cps2/boxart/sfa3.png</image>
 		<video>./cps2/snap/sfa3.mp4</video>
 		<developer>캡콤</developer>
@@ -4940,7 +5012,7 @@ VS시리즈 제 3탄으로 일단 메인 캐릭터와 보조 캐릭터를 합쳐
 	</game>
 	<game>
 		<path>./cps2/sfz3mix.zip</path>
-		<name>스트리트 파이터 제로 3 믹스 v0.11</name>
+		<name>스트리트 파이터 제로 3 믹스 v0.13</name>
 		<image>./cps2/boxart/sfz3mix.png</image>
 		<video>./cps2/snap/sfa3.mp4</video>
 		<developer>캡콤</developer>
@@ -5104,7 +5176,7 @@ VS시리즈 제 3탄으로 일단 메인 캐릭터와 보조 캐릭터를 합쳐
 	</game>
 	<game>
 		<path>./cps2/spf2tcb.zip</path>
-		<name>슈퍼 퍼즐 파이터 II 터보 (컬러 블라인드 핵)</name>
+		<name>슈퍼 퍼즐 파이터 II 터보 (컬러 블라인드 핵, v1.1)</name>
 		<image>./cps2/boxart/spf2t.png</image>
 		<video>./cps2/snap/spf2t.mp4</video>
 		<developer>캡콤</developer>
@@ -5240,7 +5312,7 @@ VS시리즈 제 3탄으로 일단 메인 캐릭터와 보조 캐릭터를 합쳐
 	</game>
 	<game>
 		<path>./cps2/ssf2tnl.zip</path>
-		<name>슈퍼 스트리트 파이터 II 터보 - 뉴 레거시 v0.6 (베타, 핵 제작 Born2SPD)</name>
+		<name>슈퍼 스트리트 파이터 II 터보 - 뉴 레거시 v0.7 (베타, 핵 제작 Born2SPD)</name>
 		<image>./cps2/boxart/ssf2tnl.png</image>
 		<video>./cps2/snap/ssf2t.mp4</video>
 		<developer>캡콤</developer>
@@ -5759,6 +5831,27 @@ RYU에 커서를 위치하고 위, 아래, 위 -&gt; Ken으로 이동 후 위(x2
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate>2021</releasedate>
+		<desc>2D 대전액션의 정수이자 모든것이 집약된 결정판으로 자부하는 게임. 
+이 시리즈에서 팬들의 의견을 받아들인 캡콤측에서 춘리를 특별캐릭터로 추가시켰다. 
+다른 말 필요없이 발매한 지 10년이 경과한 현재까지 인기순위 TOP 10에 들고있으며 
+투극, EVO같은 세계적인 대전액션 대회에서도 정식종목으로 채택되어 있는 것만으로도 모든것이 설명이 가능하다. 
+캡콤에서도 이 작품을 만들어내자 더이상 만들필요를 못느끼게 될 정도였고 때마침 아케이드 사업을 접기시작하면서 
+3RD를 끝으로 모든것을 종식시켰다. 현재까지 일본 랭킹 10위안에 10년째 인기를 지속시키고 있는중. 
+한국에서는 하이퍼 스트리트 파이터2와 합본으로 발매되었다.
+랩/힙합 음악이 사용된 최초의 스트리트 파이터 게임이다.
+2p 선택시 Twelve의 이름이 'Tweleve'로 잘못 표시된다.
+캐릭터 선택시 누르는 버튼에 따라 6종류의 색상으로 의상이 바뀌어 나온다.
+숨겨진 색상 : 캐릭터 선택시 약펀치+중킥+강펀치 를 누르면 숨겨진 색상으로 선택가능하다.</desc>
+	</game>
+	<game>
+		<path>./cps3/sfiii3ws.zip</path>
+		<name>스트리트 파이터 III 서드 스트라이크: 미래를 위한 싸움 (와이드스크린 20220701)</name>
+		<image>./cps3/boxart/sfiii3ws.png</image>
+		<video>./cps3/snap/sfiii3.mp4</video>
+		<publisher>캡콤</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>2022</releasedate>
 		<desc>2D 대전액션의 정수이자 모든것이 집약된 결정판으로 자부하는 게임. 
 이 시리즈에서 팬들의 의견을 받아들인 캡콤측에서 춘리를 특별캐릭터로 추가시켰다. 
 다른 말 필요없이 발매한 지 10년이 경과한 현재까지 인기순위 TOP 10에 들고있으며 
@@ -9233,7 +9326,7 @@ KBO출신의 첫 일본리그 진출사례이고 본작은 세계대회가 컨�
 		<path>./galaxian/hncholms.zip</path>
 		<name>헌치백 올림픽 (스크램블 하드웨어)</name>
 		<image>./galaxian/boxart/huncholy.png</image>
-		<video>./galaxian/snap/huncholy.mp4</video>
+		<video>./galaxian/snap/hunchbak.mp4</video>
 		<developer>센츄리 일렉트로닉스</developer>
 		<publisher>센츄리 일렉트로닉스</publisher>
 		<genre>스포츠 / 육상</genre>
@@ -18126,7 +18219,7 @@ SNK의 3번째 징크스도 그럭저럭 돌파해냈다. 하지만 커맨드 �
 '어드벤스 모드' 에서 MVS의 캘린더 기능으로 휴일에는 캐릭트의 기분이 변화해 파워 게이지가 변화하는 '필링 바리에이션 시스템' 이 포함되어 있다.</desc>
 	</game>
 	<game>
-		<path>./neogeo/kof98cps.zip</path>
+		<path>./neogeo/kof98cp.zip</path>
 		<name>더 킹 오브 파이터즈 '98 (콤보 플러스)</name>
 		<image>./neogeo/boxart/kof98cps.png</image>
 		<video>./neogeo/snap/kof98.mp4</video>
@@ -18143,9 +18236,26 @@ SNK의 3번째 징크스도 그럭저럭 돌파해냈다. 하지만 커맨드 �
 '어드벤스 모드' 에서 MVS의 캘린더 기능으로 휴일에는 캐릭트의 기분이 변화해 파워 게이지가 변화하는 '필링 바리에이션 시스템' 이 포함되어 있다.</desc>
 	</game>
 	<game>
-		<path>./neogeo/kof98eck20.zip</path>
-		<name>더 킹 오브 파이터즈 '98 - 이지 콤보 킹 (YZKOF 버전. 빌드 20200409)</name>
-		<image>./neogeo/boxart/kof98eck.png</image>
+		<path>./neogeo/kof98eckg.zip</path>
+		<name>더 킹 오브 파이터즈 '98 - 이지 콤보 킹 (GOTVG 버전, 핵)</name>
+		<image>./neogeo/boxart/kof98eckg.png</image>
+		<video>./neogeo/snap/kof98.mp4</video>
+		<developer>해킹판</developer>
+		<publisher>해킹판</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>20200409</releasedate>
+		<desc>"KOF 94" 부터 시작된 "KOF 시리즈" 의 집대성으로 등장한 게임.
+3년간 진행된 오로치편을 끝내고 차기작을 발매하기 전 1년간의 휴식기를 갖기 위해 스토리를 없앤 초기 KOF 시리즈의 컨셉을 살려 발매되었다. 
+드림매치라는 컨셉답게 기존에 삭제된 팀까지 포함하였다. 시리즈 중에서도 가장 안정적인 밸런스를 가지고 있다고 평가되며 현재까지 가장 많이 플레이되고 있는 시리즈. 
+이 게임을 끝으로 "킹 오브 파이터즈" 는 몰락의 기로에 서있게 된다. 이 이후 KOF98 10주년을 맞이하여 "킹 오브 파이터즈 98UM" 이 발매되었다. 
+이 게임에는 94년부터 97년까지 KOF에 한 번이라도 등장했던 캐릭터들이 모두 등장 전체 38인에서 선택 플레이 할 수 있다. 보스 역시 오메가루갈, 게닛츠, 오로치 중에 한 명이 등장한다.
+'어드벤스 모드' 에서 MVS의 캘린더 기능으로 휴일에는 캐릭트의 기분이 변화해 파워 게이지가 변화하는 '필링 바리에이션 시스템' 이 포함되어 있다.</desc>
+	</game>
+	<game>
+		<path>./neogeo/kof98ecky.zip</path>
+		<name>더 킹 오브 파이터즈 '98 - 이지 콤보 킹 (YZKOF 버전, 핵)</name>
+		<image>./neogeo/boxart/kof98ecky.png</image>
 		<video>./neogeo/snap/kof98.mp4</video>
 		<developer>해킹판</developer>
 		<publisher>해킹판</publisher>
@@ -18306,9 +18416,9 @@ SNK社 의 역사에서 보기 드믄 빼어난 이식도를 보여주고 있다
 SNK社 의 역사에서 보기 드믄 빼어난 이식도를 보여주고 있다. 스토리면에서도 주인공 교체등의 새로운 전개로  화제를 부르기도 했다.</desc>
 	</game>
 	<game>
-		<path>./neogeo/kof99rp2f.zip</path>
-		<name>더 킹 오브 파이터즈 '99 리믹스 프로 V2.0 파이널 (핵 제작 FCHT)</name>
-		<image>./neogeo/boxart/kof99rp2f.png</image>
+		<path>./neogeo/kof99rp.zip</path>
+		<name>더 킹 오브 파이터즈 '99 리믹스 프로 (V2.1 파이널)</name>
+		<image>./neogeo/boxart/kof99rp.png</image>
 		<video>./neogeo/snap/kof99.mp4</video>
 		<developer>해킹판</developer>
 		<publisher>해킹판</publisher>
@@ -18520,7 +18630,7 @@ SNK는 로케이션 테스트까지는 마쳤으나 출시 직전 도산했고, 
 	<game>
 		<path>./neogeo/kof2001ru.zip</path>
 		<name>더 킹 오브 파이터즈 2001 리믹스 울트라 2.3 (핵 제작 Jason FGCH)</name>
-		<image>./neogeo/boxart/kof2001ru</image>
+		<image>./neogeo/boxart/kof2001ru.png</image>
 		<video>./neogeo/snap/kof2001.mp4</video>
 		<developer>SNK / Eolith</developer>
 		<publisher>SNK / Eolith</publisher>
@@ -18761,6 +18871,29 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate>2007</releasedate>
+		<desc>"SNK社" 파산 이후 판권을 이어 받은 "플레이모어社" 와 "KOF" 라이센스를 획득한 "이오리스社" 에 의해 개발된 
+"킹 오브 파이터즈" 의 9번째 시리즈.
+초창기 KOF 때의 원점으로 돌아가서 스트라이커 시스템 폐지 및 3 대 3 배틀의 부활이 이루어 졌다.
+또한 파워 게이지 사용으로 파워업하는 MAX 발동 시스템에 및 언제나 가능한 캔슬기능, 
+체력 감소시에만 사용가능한 MAX2 초필살기술의 새로운 시스템이 도입되었다.
+하지만 스토리 라인이 없는 외전 격의 게임으로 새로운 캐릭터의 추가가 없는 점이 아쉬움으로 남는 게임.
+시리즈 최초로 일본에서 전국 대회가 이루어지기도 하는등 이전의 KOF 인기를 만회한 작품이다.
+"이오리스社" 에서 출시된 두 번째이자 마지막 KOF 게임. 이후에는 SNK/Playmore에 의해 시리즈가 계속되게 된다.
+이오리스에 의해 2001부터 추가된 K9999, 앤젤, 이진주 등의 신 캐릭터는 시리즈가 다시 SNK로 넘어가게 되면서 
+이오리스와의 라이센스 문제로 이후에는 등장하지 않게된다.
+네오지오 MVS 기판내에 한국어 설정이 추가되었으며 한국판 설정에 한해 어색했던 한국팀 음성이 국내 성우로 
+교체되었다.</desc>
+	</game>
+	<game>
+		<path>./neogeo/kf2k2ps2re.zip</path>
+		<name>더 킹 오브 파이터즈 2002 (플레이스테이션 2 버전 1.0 퍼블릭 베타)</name>
+		<image>./neogeo/boxart/kf2k2ps2re.png</image>
+		<video>./neogeo/snap/kof2002.mp4</video>
+		<developer>Eolith / Playmore</developer>
+		<publisher>Eolith / Playmore</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>2018</releasedate>
 		<desc>"SNK社" 파산 이후 판권을 이어 받은 "플레이모어社" 와 "KOF" 라이센스를 획득한 "이오리스社" 에 의해 개발된 
 "킹 오브 파이터즈" 의 9번째 시리즈.
 초창기 KOF 때의 원점으로 돌아가서 스트라이커 시스템 폐지 및 3 대 3 배틀의 부활이 이루어 졌다.
@@ -19449,6 +19582,40 @@ SNK가 SNK Playmore로 부활한 이후에는 SNKP 에서 제작하고 있다.</
 이러한 버그들은 후속작인 "메탈슬러그 X" 에서 수정되어, 난이도가 좀 높아졌다는 소리를 듣는데에 공헌했다.</desc>
 	</game>
 	<game>
+		<path>./neogeo/mslug2ct.zip</path>
+		<name>메탈 슬러그 2 - 슈퍼 비히클-001/II (서바이벌, 핵)</name>
+		<image>./neogeo/boxart/mslug2.png</image>
+		<video>./neogeo/snap/mslug2.mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>플랫폼 / 사격</genre>
+		<players>2</players>
+		<releasedate>2018</releasedate>
+		<desc>대전 종결로부터 2년....
+세계를 파괴와 혼란의 소용돌이에 몰아넣었던 전쟁은 정규군의 반공 작전에 의해서 진압되었다.
+자신들이 가져온 평화를 만끽하던 중, 정규군 참모부에 소환을 받는다.
+정보에 의하면 전쟁의 원수는 아직 살아 있고 쿠데타를 계획하고 있다고 한다.
+제 2의 쿠데타를 미연에 막는다는 새로운 임무로 메탈 슬러그의 속편이다.
+전작이 비교적 현실적인 분위기였다면 2탄은 이를 탈피하여, 
+각종 비현실적인 적(미라, 화성인, 거대보스)이라던가 미래형 병기(레이저 건)이 등장하기 시작했다.
+게다가 전작에서는 반란군의 보스로서의 카리스마를 여지없이 보여주던 로널드 모덴이 철저히 망가지게 되었다.
+본작부터 팻 캐릭이라는 시스템이 추가되었다. 어느 특정 지역(스테이지4)에서 음식물 아이템을 많이 먹으면 뚱뚱해진다. 
+그러면 이동 속도는 느려지고 총기에서 나가는 장탄의 모양이 바뀐다. 이 경우 데미지는 그대로지만 
+헤비 머신건의 경우 공격 판정이 넓어지는 효과가 있기는 하지만 돌려쏘기가 안 된다.
+(메탈슬러그X 이후는 팻 캐릭 상태에서도 돌려쏘기가 된다.) 
+로켓 런처의 경우는 비록 느리기는 해도 유도 기능이 생긴다.
+팻 캐릭이 풀리는 아이템을 먹으면 풀려서 본래 모습으로 돌아오게 되어 있다. 
+하지만 굳이 팻 캐릭이 풀리는 아이템을 먹지 않더라도 음식물 아이템을 오랫동안 안 먹거나 
+팻 캐릭이 될 수 있는 지역 밖으로 벗어나면(메X부터 해당) 자동으로 풀린다. 
+또, 팻 캐릭 상태에서 죽으면 배가 터지며 죽고 다시 나올 때 정상 캐릭으로 나온다.
+메탈슬러그2 는 전 시리즈 중에서도 상당히 낮은 난이도를 자랑한다.
+이는 보스전에서 쓸수있는 꼼수가 상당히 많기 때문인데, 
+스테이지 2 보스 "애시 - 네로" 는 슬러그 노이드 점프 꼼수로 무력화가 가능하고, 
+스테이지 3 보스 "드래곤 노스케" 는 서있을 경우에는 바로 밑에서, 
+앉아있을 경우에는 최대로 근접한 상태에서 공격하면 아무 피해없이 보스전을 끝낼 수 있다.
+이러한 버그들은 후속작인 "메탈슬러그 X" 에서 수정되어, 난이도가 좀 높아졌다는 소리를 듣는데에 공헌했다.</desc>
+	</game>
+	<game>
 		<path>./neogeo/mslug2dg.zip</path>
 		<name>메탈 슬러그 2 - 슈퍼 비히클-001/II (다기능 핵, 20170509)</name>
 		<image>./neogeo/boxart/mslug2.png</image>
@@ -19492,6 +19659,40 @@ SNK가 SNK Playmore로 부활한 이후에는 SNKP 에서 제작하고 있다.</
 		<genre>플랫폼 / 사격</genre>
 		<players>2</players>
 		<releasedate>2015</releasedate>
+		<desc>대전 종결로부터 2년....
+세계를 파괴와 혼란의 소용돌이에 몰아넣었던 전쟁은 정규군의 반공 작전에 의해서 진압되었다.
+자신들이 가져온 평화를 만끽하던 중, 정규군 참모부에 소환을 받는다.
+정보에 의하면 전쟁의 원수는 아직 살아 있고 쿠데타를 계획하고 있다고 한다.
+제 2의 쿠데타를 미연에 막는다는 새로운 임무로 메탈 슬러그의 속편이다.
+전작이 비교적 현실적인 분위기였다면 2탄은 이를 탈피하여, 
+각종 비현실적인 적(미라, 화성인, 거대보스)이라던가 미래형 병기(레이저 건)이 등장하기 시작했다.
+게다가 전작에서는 반란군의 보스로서의 카리스마를 여지없이 보여주던 로널드 모덴이 철저히 망가지게 되었다.
+본작부터 팻 캐릭이라는 시스템이 추가되었다. 어느 특정 지역(스테이지4)에서 음식물 아이템을 많이 먹으면 뚱뚱해진다. 
+그러면 이동 속도는 느려지고 총기에서 나가는 장탄의 모양이 바뀐다. 이 경우 데미지는 그대로지만 
+헤비 머신건의 경우 공격 판정이 넓어지는 효과가 있기는 하지만 돌려쏘기가 안 된다.
+(메탈슬러그X 이후는 팻 캐릭 상태에서도 돌려쏘기가 된다.) 
+로켓 런처의 경우는 비록 느리기는 해도 유도 기능이 생긴다.
+팻 캐릭이 풀리는 아이템을 먹으면 풀려서 본래 모습으로 돌아오게 되어 있다. 
+하지만 굳이 팻 캐릭이 풀리는 아이템을 먹지 않더라도 음식물 아이템을 오랫동안 안 먹거나 
+팻 캐릭이 될 수 있는 지역 밖으로 벗어나면(메X부터 해당) 자동으로 풀린다. 
+또, 팻 캐릭 상태에서 죽으면 배가 터지며 죽고 다시 나올 때 정상 캐릭으로 나온다.
+메탈슬러그2 는 전 시리즈 중에서도 상당히 낮은 난이도를 자랑한다.
+이는 보스전에서 쓸수있는 꼼수가 상당히 많기 때문인데, 
+스테이지 2 보스 "애시 - 네로" 는 슬러그 노이드 점프 꼼수로 무력화가 가능하고, 
+스테이지 3 보스 "드래곤 노스케" 는 서있을 경우에는 바로 밑에서, 
+앉아있을 경우에는 최대로 근접한 상태에서 공격하면 아무 피해없이 보스전을 끝낼 수 있다.
+이러한 버그들은 후속작인 "메탈슬러그 X" 에서 수정되어, 난이도가 좀 높아졌다는 소리를 듣는데에 공헌했다.</desc>
+	</game>
+	<game>
+		<path>./neogeo/mslug2r.zip</path>
+		<name>메탈 슬러그 2 (에너미 리셋, 핵)</name>
+		<image>./neogeo/boxart/mslug2.png</image>
+		<video>./neogeo/snap/mslug2.mp4</video>
+		<developer>해킹판</developer>
+		<publisher>해킹판</publisher>
+		<genre>플랫폼 / 사격</genre>
+		<players>2</players>
+		<releasedate>2014</releasedate>
 		<desc>대전 종결로부터 2년....
 세계를 파괴와 혼란의 소용돌이에 몰아넣었던 전쟁은 정규군의 반공 작전에 의해서 진압되었다.
 자신들이 가져온 평화를 만끽하던 중, 정규군 참모부에 소환을 받는다.
@@ -19605,6 +19806,66 @@ SNK가 SNK Playmore로 부활한 이후에는 SNKP 에서 제작하고 있다.</
 전 6 스테이지.</desc>
 	</game>
 	<game>
+		<path>./neogeo/mslugxc2.zip</path>
+		<name>메탈 슬러그 X - 슈퍼 비히클-001 (에너미 리셋, 핵)</name>
+		<image>./neogeo/boxart/mslugx.png</image>
+		<video>./neogeo/snap/mslugx.mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>플랫폼 / 사격</genre>
+		<players>2</players>
+		<releasedate>2013</releasedate>
+		<desc>시대상 점점 사라져가는 액션 게임이라는 장르에 있어 고군분투하는 "메탈슬러그" 시리즈 제 3탄.
+이번 작품은 탈것과 무기, 아이템의 종류가 대량으로 증가한 것이 변경 사항이지만, 
+기초적으로는 '메탈슬러그 2'의 리메이크 판이다.
+그 밖의 나레이션이 변경되거나 보이스의 종류가 증가.
+적 병력이 강화되고 보스전 꽁수 몇가지가 차단됨으로 인해 전반적인 난이도가 올라갔다는 이야기도 있지만, 
+아군에게 주어지는 화력이 대폭 강화되어 있기 때문에 "메탈슬러그 2" 보단 무기를 펑펑 쏴갈기는 진행이 가능하다. 
+게다가 슬러그에서 내리면 도로 탑승할때까지 무적시간이 주어지는 것 또한 전혀 변하지 않아서 보스전에서 
+슬러그만 끌고 오면 만사장땡이었던 점은 똑같다.
+전 6 스테이지.</desc>
+	</game>
+	<game>
+		<path>./neogeo/mslugxlb.zip</path>
+		<name>메탈 슬러그 X - 슈퍼 비히클-001 (익스트림 존, 핵)</name>
+		<image>./neogeo/boxart/mslugx.png</image>
+		<video>./neogeo/snap/mslugx.mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>플랫폼 / 사격</genre>
+		<players>2</players>
+		<releasedate>2015</releasedate>
+		<desc>시대상 점점 사라져가는 액션 게임이라는 장르에 있어 고군분투하는 "메탈슬러그" 시리즈 제 3탄.
+이번 작품은 탈것과 무기, 아이템의 종류가 대량으로 증가한 것이 변경 사항이지만, 
+기초적으로는 '메탈슬러그 2'의 리메이크 판이다.
+그 밖의 나레이션이 변경되거나 보이스의 종류가 증가.
+적 병력이 강화되고 보스전 꽁수 몇가지가 차단됨으로 인해 전반적인 난이도가 올라갔다는 이야기도 있지만, 
+아군에게 주어지는 화력이 대폭 강화되어 있기 때문에 "메탈슬러그 2" 보단 무기를 펑펑 쏴갈기는 진행이 가능하다. 
+게다가 슬러그에서 내리면 도로 탑승할때까지 무적시간이 주어지는 것 또한 전혀 변하지 않아서 보스전에서 
+슬러그만 끌고 오면 만사장땡이었던 점은 똑같다.
+전 6 스테이지.</desc>
+	</game>
+	<game>
+		<path>./neogeo/mslugxeb.zip</path>
+		<name>메탈 슬러그 X - 슈퍼 비히클-001 (그린 블루, 핵)</name>
+		<image>./neogeo/boxart/mslugx.png</image>
+		<video>./neogeo/snap/mslugx.mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>플랫폼 / 사격</genre>
+		<players>2</players>
+		<releasedate>2016</releasedate>
+		<desc>시대상 점점 사라져가는 액션 게임이라는 장르에 있어 고군분투하는 "메탈슬러그" 시리즈 제 3탄.
+이번 작품은 탈것과 무기, 아이템의 종류가 대량으로 증가한 것이 변경 사항이지만, 
+기초적으로는 '메탈슬러그 2'의 리메이크 판이다.
+그 밖의 나레이션이 변경되거나 보이스의 종류가 증가.
+적 병력이 강화되고 보스전 꽁수 몇가지가 차단됨으로 인해 전반적인 난이도가 올라갔다는 이야기도 있지만, 
+아군에게 주어지는 화력이 대폭 강화되어 있기 때문에 "메탈슬러그 2" 보단 무기를 펑펑 쏴갈기는 진행이 가능하다. 
+게다가 슬러그에서 내리면 도로 탑승할때까지 무적시간이 주어지는 것 또한 전혀 변하지 않아서 보스전에서 
+슬러그만 끌고 오면 만사장땡이었던 점은 똑같다.
+전 6 스테이지.</desc>
+	</game>
+	<game>
 		<path>./neogeo/mslugxsrf.zip</path>
 		<name>메탈 슬러그 X - 슈퍼 비히클-001 (아즈스타 소다 리믹스 FC2 버전, 핵)</name>
 		<image>./neogeo/boxart/mslugx.png</image>
@@ -19667,6 +19928,50 @@ SNK가 SNK Playmore로 부활한 이후에는 SNKP 에서 제작하고 있다.</
 시리즈 최초로 여성 캐릭터들의 누드가 나오는 작품이기도하다.</desc>
 	</game>
 	<game>
+		<path>./neogeo/mslug3c.zip</path>
+		<name>메탈 슬러그 3 (에너미 리셋, 핵)</name>
+		<image>./neogeo/boxart/mslug3.png</image>
+		<video>./neogeo/snap/mslug3.mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>플랫폼 / 사격</genre>
+		<players>2</players>
+		<releasedate>2019</releasedate>
+		<desc>"메탈슬러그" 시리즈사상 최고의 평가를 받는 4번째 작품이다.
+화성인 이야기를 끝내기에 부족함이 없는 작품이며, 스토리와 그에 따른 구성등이 후기작품에 비교했을때 
+너무나도 치밀하다는 점에서 메탈슬러그 최고의 작품이라고 해도 과언이 아니다. 708MB(MVS롬셋)이란 
+용량에 그렇게 많은 것들이 들어있나? 라고 생각하면 SNK가 위대해 보이기까지 한다. 
+3탄 부터 메탈슬러그는 현실성과는 거리가 멀다. 이미 "메탈슬러그 2" , "메탈슬러그 X" 에서도 그러한 것은 보였지만, 
+3탄에 들어와서는 사람 몸만한(그것보다 큰) 게, 
+날아다니는 식인 거대 피라니아, 좀비, 2족 보행병기(레벨 아머), 거대한 식인메뚜기, 식인식물(맨 이터), 
+거대 달팽이, 초거대 애벌레(??)등등 또한 이것들은 메탈슬러그 시리즈의 난이도를 급상승 시키는 요인이 되었다. 
+게다가 슬러그 탈출 무적시간이 줄어들어서 X까지 가능했던 '슬러그 내렸다가 도로 탑승'이라는 무적의 패턴이 사라졌다. 
+그러나 꼼수를 쓰면 되긴 한다.(미션3 슬러그마리너, 레벨아머) 
+시리즈 최초로 여성 캐릭터들의 누드가 나오는 작품이기도하다.</desc>
+	</game>
+	<game>
+		<path>./neogeo/mslug3eb.zip</path>
+		<name>메탈 슬러그 3 (그린 블루, 핵)</name>
+		<image>./neogeo/boxart/mslug3.png</image>
+		<video>./neogeo/snap/mslug3.mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>플랫폼 / 사격</genre>
+		<players>2</players>
+		<releasedate>2013</releasedate>
+		<desc>"메탈슬러그" 시리즈사상 최고의 평가를 받는 4번째 작품이다.
+화성인 이야기를 끝내기에 부족함이 없는 작품이며, 스토리와 그에 따른 구성등이 후기작품에 비교했을때 
+너무나도 치밀하다는 점에서 메탈슬러그 최고의 작품이라고 해도 과언이 아니다. 708MB(MVS롬셋)이란 
+용량에 그렇게 많은 것들이 들어있나? 라고 생각하면 SNK가 위대해 보이기까지 한다. 
+3탄 부터 메탈슬러그는 현실성과는 거리가 멀다. 이미 "메탈슬러그 2" , "메탈슬러그 X" 에서도 그러한 것은 보였지만, 
+3탄에 들어와서는 사람 몸만한(그것보다 큰) 게, 
+날아다니는 식인 거대 피라니아, 좀비, 2족 보행병기(레벨 아머), 거대한 식인메뚜기, 식인식물(맨 이터), 
+거대 달팽이, 초거대 애벌레(??)등등 또한 이것들은 메탈슬러그 시리즈의 난이도를 급상승 시키는 요인이 되었다. 
+게다가 슬러그 탈출 무적시간이 줄어들어서 X까지 가능했던 '슬러그 내렸다가 도로 탑승'이라는 무적의 패턴이 사라졌다. 
+그러나 꼼수를 쓰면 되긴 한다.(미션3 슬러그마리너, 레벨아머) 
+시리즈 최초로 여성 캐릭터들의 누드가 나오는 작품이기도하다.</desc>
+	</game>
+	<game>
 		<path>./neogeo/mslug3g.zip</path>
 		<name>메탈 슬러그 3 (다기능 핵, 20190119)</name>
 		<image>./neogeo/boxart/mslug3.png</image>
@@ -19676,6 +19981,28 @@ SNK가 SNK Playmore로 부활한 이후에는 SNKP 에서 제작하고 있다.</
 		<genre>플랫폼 / 사격</genre>
 		<players>2</players>
 		<releasedate>2019</releasedate>
+		<desc>"메탈슬러그" 시리즈사상 최고의 평가를 받는 4번째 작품이다.
+화성인 이야기를 끝내기에 부족함이 없는 작품이며, 스토리와 그에 따른 구성등이 후기작품에 비교했을때 
+너무나도 치밀하다는 점에서 메탈슬러그 최고의 작품이라고 해도 과언이 아니다. 708MB(MVS롬셋)이란 
+용량에 그렇게 많은 것들이 들어있나? 라고 생각하면 SNK가 위대해 보이기까지 한다. 
+3탄 부터 메탈슬러그는 현실성과는 거리가 멀다. 이미 "메탈슬러그 2" , "메탈슬러그 X" 에서도 그러한 것은 보였지만, 
+3탄에 들어와서는 사람 몸만한(그것보다 큰) 게, 
+날아다니는 식인 거대 피라니아, 좀비, 2족 보행병기(레벨 아머), 거대한 식인메뚜기, 식인식물(맨 이터), 
+거대 달팽이, 초거대 애벌레(??)등등 또한 이것들은 메탈슬러그 시리즈의 난이도를 급상승 시키는 요인이 되었다. 
+게다가 슬러그 탈출 무적시간이 줄어들어서 X까지 가능했던 '슬러그 내렸다가 도로 탑승'이라는 무적의 패턴이 사라졌다. 
+그러나 꼼수를 쓰면 되긴 한다.(미션3 슬러그마리너, 레벨아머) 
+시리즈 최초로 여성 캐릭터들의 누드가 나오는 작품이기도하다.</desc>
+	</game>
+	<game>
+		<path>./neogeo/mslug3lw.zip</path>
+		<name>메탈 슬러그 3 (라스트 불릿 리믹스, 핵)</name>
+		<image>./neogeo/boxart/mslug3.png</image>
+		<video>./neogeo/snap/mslug3.mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>플랫폼 / 사격</genre>
+		<players>2</players>
+		<releasedate>2022</releasedate>
 		<desc>"메탈슬러그" 시리즈사상 최고의 평가를 받는 4번째 작품이다.
 화성인 이야기를 끝내기에 부족함이 없는 작품이며, 스토리와 그에 따른 구성등이 후기작품에 비교했을때 
 너무나도 치밀하다는 점에서 메탈슬러그 최고의 작품이라고 해도 과언이 아니다. 708MB(MVS롬셋)이란 
@@ -19702,6 +20029,30 @@ SNK가 SNK Playmore로 부활한 이후에는 SNKP 에서 제작하고 있다.</
 화성인 이야기를 끝내기에 부족함이 없는 작품이며, 스토리와 그에 따른 구성등이 후기작품에 비교했을때 
 너무나도 치밀하다는 점에서 메탈슬러그 최고의 작품이라고 해도 과언이 아니다. 708MB(MVS롬셋)이란 
 용량에 그렇게 많은 것들이 들어있나? 라고 생각하면 SNK가 위대해 보이기까지 한다. 
+3탄 부터 메탈슬러그는 현실성과는 거리가 멀다. 이미 "메탈슬러그 2" , "메탈슬러그 X" 에서도 그러한 것은 보였지만, 
+3탄에 들어와서는 사람 몸만한(그것보다 큰) 게, 
+날아다니는 식인 거대 피라니아, 좀비, 2족 보행병기(레벨 아머), 거대한 식인메뚜기, 식인식물(맨 이터), 
+거대 달팽이, 초거대 애벌레(??)등등 또한 이것들은 메탈슬러그 시리즈의 난이도를 급상승 시키는 요인이 되었다. 
+게다가 슬러그 탈출 무적시간이 줄어들어서 X까지 가능했던 '슬러그 내렸다가 도로 탑승'이라는 무적의 패턴이 사라졌다. 
+그러나 꼼수를 쓰면 되긴 한다.(미션3 슬러그마리너, 레벨아머) 
+시리즈 최초로 여성 캐릭터들의 누드가 나오는 작품이기도하다.</desc>
+	</game>
+	<game>
+		<path>./neogeo/mslug3v.zip</path>
+		<name>메탈 슬러그 3 유니티 (강화된 폭력 버전, 핵 제작 EEZEZY)</name>
+		<image>./neogeo/boxart/mslug3.png</image>
+		<video>./neogeo/snap/mslug3.mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>플랫폼 / 사격</genre>
+		<players>2</players>
+		<releasedate>2012</releasedate>
+		<desc>"메탈슬러그" 시리즈사상 최고의 평가를 받는 4번째 작품이다.
+화성인 이야기를 끝내기에 부족함이 없는 작품이며, 스토리와 그에 따른 구성등이 후기작품에 비교했을때 
+너무나도 치밀하다는 점에서 메탈슬러그 최고의 작품이라고 해도 과언이 아니다. 708MB(MVS롬셋)이란 
+용량에 그렇게 많은 것들이 들어있나? 라고 생각하면 SNK가 위대해 보이기까지 한다. 
+
+
 3탄 부터 메탈슬러그는 현실성과는 거리가 멀다. 이미 "메탈슬러그 2" , "메탈슬러그 X" 에서도 그러한 것은 보였지만, 
 3탄에 들어와서는 사람 몸만한(그것보다 큰) 게, 
 날아다니는 식인 거대 피라니아, 좀비, 2족 보행병기(레벨 아머), 거대한 식인메뚜기, 식인식물(맨 이터), 
@@ -19741,12 +20092,57 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 판권을 산 다음에 제작했다.</desc>
 	</game>
 	<game>
+		<path>./neogeo/mslug4ar.zip</path>
+		<name>메탈 슬러그 4 (에너미 리셋 퓨전 20주년 기념판, 핵)</name>
+		<image>./neogeo/boxart/mslug4.png</image>
+		<video>./neogeo/snap/mslug4.mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>플랫폼 / 사격</genre>
+		<players>2</players>
+		<releasedate>2021</releasedate>
+		<desc>메탈슬러그 시리즈중 유일하게 한국 회사인 "메가 엔터프라이즈" 가 제작한 작품. 
+전작이 매우 위대했기 때문일까? 이 작품의 평판은 그다지 좋은 것이 아니었다. 
+SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔터프라이즈" 에서 
+판권을 산 다음에 제작했다.</desc>
+	</game>
+	<game>
+		<path>./neogeo/mslug4c.zip</path>
+		<name>메탈 슬러그 4 (에너미 리셋, 핵)</name>
+		<image>./neogeo/boxart/mslug4.png</image>
+		<video>./neogeo/snap/mslug4.mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>플랫폼 / 사격</genre>
+		<players>2</players>
+		<releasedate>2021</releasedate>
+		<desc>메탈슬러그 시리즈중 유일하게 한국 회사인 "메가 엔터프라이즈" 가 제작한 작품. 
+전작이 매우 위대했기 때문일까? 이 작품의 평판은 그다지 좋은 것이 아니었다. 
+SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔터프라이즈" 에서 
+판권을 산 다음에 제작했다.</desc>
+	</game>
+	<game>
 		<path>./neogeo/mslug4dg.zip</path>
 		<name>메탈 슬러그 4 (다기능 핵, 20171225)</name>
 		<image>./neogeo/boxart/mslug4.png</image>
 		<video>./neogeo/snap/mslug4.mp4</video>
-		<developer>메가</developer>
-		<publisher>메가</publisher>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>플랫폼 / 사격</genre>
+		<players>2</players>
+		<releasedate>2017</releasedate>
+		<desc>메탈슬러그 시리즈중 유일하게 한국 회사인 "메가 엔터프라이즈" 가 제작한 작품. 
+전작이 매우 위대했기 때문일까? 이 작품의 평판은 그다지 좋은 것이 아니었다. 
+SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔터프라이즈" 에서 
+판권을 산 다음에 제작했다.</desc>
+	</game>
+	<game>
+		<path>./neogeo/mslug4lw.zip</path>
+		<name>메탈 슬러그 4 (라스트 불릿 리믹스 핵)</name>
+		<image>./neogeo/boxart/mslug4.png</image>
+		<video>./neogeo/snap/mslug4.mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
 		<genre>플랫폼 / 사격</genre>
 		<players>2</players>
 		<releasedate>2017</releasedate>
@@ -19760,8 +20156,8 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 		<name>메탈 슬러그 4 유니티 (타이머 추가된 버전 2021-01-30)</name>
 		<image>./neogeo/boxart/mslug4.png</image>
 		<video>./neogeo/snap/mslug4.mp4</video>
-		<developer>메가</developer>
-		<publisher>메가</publisher>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
 		<genre>플랫폼 / 사격</genre>
 		<players>2</players>
 		<releasedate>20210130</releasedate>
@@ -19803,7 +20199,39 @@ SNK는 리메이크할 의향이 없는 듯 하다.
 새로 제작하는 것은 힘들다.</desc>
 	</game>
 	<game>
-		<path>./neogeo/mslug5g.zip</path>
+		<path>./neogeo/mslug5c.zip</path>
+		<name>메탈 슬러그 5 (에너미 리셋, 핵)</name>
+		<image>./neogeo/boxart/mslug5.png</image>
+		<video>./neogeo/snap/mslug5.mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>플랫폼 / 사격</genre>
+		<players>2</players>
+		<releasedate>2019</releasedate>
+		<desc>SNK 플레이모어가 2003년 11월 13일에 제작한 첫 메탈슬러그 시리즈 후속작.
+전작의 메탈리쉬 시스템을 폐기하고 슬라이딩 시스템이 추가되었다.
+일부 패턴과 더미 데이터를 보면 아무래도 원안은 슬라이딩 시스템을 적극 활용할 생각이었던 것 같다.
+또한 전작의 신규 캐릭터였던 트레버 스페이시와 나디아 커셀이 삭제되고 대신 타마 로빙과 에리 카사모토가 다시 복귀했다.
+새로 시작하자는 마음가짐에서인지 기존의 적인 모덴군을 싸그리 없애고 새로운 적이란 컨셉으로 "프토레마이크군"이란
+신 집단을 내세우고 여러가지 시도를 한 작품이지만 급조하는 바람에 제대로 완성되지도 못한 채 나오고 말았다.
+4편의 투 머신건이 5편에 와서 1발 당 타격시 점수가 100점을 주어서 스코어링에 편하게 개량되었다.
+또한 승리 모션이나 팻 플레이어 모드로도 투 머신건을 사용하는 새로운 요소가 들어있다.
+블랙 하운드라는 적은 주인공 메탈슬러그의 대척점에 서는 적으로 이전에 존재하지 않았던 신선한 요소다.
+전작 4처럼 Final Attack을 제외하면 BGM이 새롭게 제작되었는데, 이에 대한 평가가 매우 좋다.
+이래저래 개선점만 애기 했지만 실상은 4에서 싹 교체된 개발진들이 자신들이 생각하던 것들을 다 넣어서 3와 맞먹는 명작으로 만들려고 
+했는데,본작의 출시 연도였던 2003년은 회사가 SNKP로 다시 부활해서 정신이 없다보니 비슷한 시기에 출시한 신작들 중
+사무라이 스피리츠 제로를 제외한 나머지 작품들이 모두 시원하게 망해버린 탓에 자금 조달이 어려웠고
+게임 개발을 할 시간 역시 촉박하여 결국 네오지오 기판의 최대 용량인 708Mbit의 절반 정도를 더미데이터로 묻어두게 되었다.
+이런 탓에 시대를 잘못 만난 비운의 명작이라며 안타깝게 평가하는 유저가 많다.
+결국 이 작품도 SNK 플레이모어의 암울했던 시기를 상징하는 대표작 중 하나가 되어버렸다.
+더미 데이터들을 살려서 리메이크를 원하는 팬들도 있지만, 2003년도 게임이라 이미 10년도 훌쩍 넘은 게임이고
+메탈슬러그 디펜스에서 메탈슬러그 5의 더미데이터가 유닛으로 나올 때에도 간략하게 설명하고 넘어가는지라 
+SNK는 리메이크할 의향이 없는 듯 하다.
+설령 의향이 있다 하더라도 새로 교체된 핵심 개발진들도 메탈슬러그 XX를 마지막으로 모두 퇴사한 탓에 SNK에서도 
+새로 제작하는 것은 힘들다.</desc>
+	</game>
+	<game>
+		<path>./neogeo/mslug5d.zip</path>
 		<name>메탈 슬러그 5 (다기능 핵, 20170523)</name>
 		<image>./neogeo/boxart/mslug5.png</image>
 		<video>./neogeo/snap/mslug5.mp4</video>
@@ -19812,6 +20240,70 @@ SNK는 리메이크할 의향이 없는 듯 하다.
 		<genre>플랫폼 / 사격</genre>
 		<players>2</players>
 		<releasedate>2017</releasedate>
+		<desc>SNK 플레이모어가 2003년 11월 13일에 제작한 첫 메탈슬러그 시리즈 후속작.
+전작의 메탈리쉬 시스템을 폐기하고 슬라이딩 시스템이 추가되었다.
+일부 패턴과 더미 데이터를 보면 아무래도 원안은 슬라이딩 시스템을 적극 활용할 생각이었던 것 같다.
+또한 전작의 신규 캐릭터였던 트레버 스페이시와 나디아 커셀이 삭제되고 대신 타마 로빙과 에리 카사모토가 다시 복귀했다.
+새로 시작하자는 마음가짐에서인지 기존의 적인 모덴군을 싸그리 없애고 새로운 적이란 컨셉으로 "프토레마이크군"이란
+신 집단을 내세우고 여러가지 시도를 한 작품이지만 급조하는 바람에 제대로 완성되지도 못한 채 나오고 말았다.
+4편의 투 머신건이 5편에 와서 1발 당 타격시 점수가 100점을 주어서 스코어링에 편하게 개량되었다.
+또한 승리 모션이나 팻 플레이어 모드로도 투 머신건을 사용하는 새로운 요소가 들어있다.
+블랙 하운드라는 적은 주인공 메탈슬러그의 대척점에 서는 적으로 이전에 존재하지 않았던 신선한 요소다.
+전작 4처럼 Final Attack을 제외하면 BGM이 새롭게 제작되었는데, 이에 대한 평가가 매우 좋다.
+이래저래 개선점만 애기 했지만 실상은 4에서 싹 교체된 개발진들이 자신들이 생각하던 것들을 다 넣어서 3와 맞먹는 명작으로 만들려고 
+했는데,본작의 출시 연도였던 2003년은 회사가 SNKP로 다시 부활해서 정신이 없다보니 비슷한 시기에 출시한 신작들 중
+사무라이 스피리츠 제로를 제외한 나머지 작품들이 모두 시원하게 망해버린 탓에 자금 조달이 어려웠고
+게임 개발을 할 시간 역시 촉박하여 결국 네오지오 기판의 최대 용량인 708Mbit의 절반 정도를 더미데이터로 묻어두게 되었다.
+이런 탓에 시대를 잘못 만난 비운의 명작이라며 안타깝게 평가하는 유저가 많다.
+결국 이 작품도 SNK 플레이모어의 암울했던 시기를 상징하는 대표작 중 하나가 되어버렸다.
+더미 데이터들을 살려서 리메이크를 원하는 팬들도 있지만, 2003년도 게임이라 이미 10년도 훌쩍 넘은 게임이고
+메탈슬러그 디펜스에서 메탈슬러그 5의 더미데이터가 유닛으로 나올 때에도 간략하게 설명하고 넘어가는지라 
+SNK는 리메이크할 의향이 없는 듯 하다.
+설령 의향이 있다 하더라도 새로 교체된 핵심 개발진들도 메탈슬러그 XX를 마지막으로 모두 퇴사한 탓에 SNK에서도 
+새로 제작하는 것은 힘들다.</desc>
+	</game>
+	<game>
+		<path>./neogeo/mslug5mg.zip</path>
+		<name>메탈 슬러그 5 (에너미 데몬, 핵)</name>
+		<image>./neogeo/boxart/mslug5.png</image>
+		<video>./neogeo/snap/mslug5.mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>플랫폼 / 사격</genre>
+		<players>2</players>
+		<releasedate>2019</releasedate>
+		<desc>SNK 플레이모어가 2003년 11월 13일에 제작한 첫 메탈슬러그 시리즈 후속작.
+전작의 메탈리쉬 시스템을 폐기하고 슬라이딩 시스템이 추가되었다.
+일부 패턴과 더미 데이터를 보면 아무래도 원안은 슬라이딩 시스템을 적극 활용할 생각이었던 것 같다.
+또한 전작의 신규 캐릭터였던 트레버 스페이시와 나디아 커셀이 삭제되고 대신 타마 로빙과 에리 카사모토가 다시 복귀했다.
+새로 시작하자는 마음가짐에서인지 기존의 적인 모덴군을 싸그리 없애고 새로운 적이란 컨셉으로 "프토레마이크군"이란
+신 집단을 내세우고 여러가지 시도를 한 작품이지만 급조하는 바람에 제대로 완성되지도 못한 채 나오고 말았다.
+4편의 투 머신건이 5편에 와서 1발 당 타격시 점수가 100점을 주어서 스코어링에 편하게 개량되었다.
+또한 승리 모션이나 팻 플레이어 모드로도 투 머신건을 사용하는 새로운 요소가 들어있다.
+블랙 하운드라는 적은 주인공 메탈슬러그의 대척점에 서는 적으로 이전에 존재하지 않았던 신선한 요소다.
+전작 4처럼 Final Attack을 제외하면 BGM이 새롭게 제작되었는데, 이에 대한 평가가 매우 좋다.
+이래저래 개선점만 애기 했지만 실상은 4에서 싹 교체된 개발진들이 자신들이 생각하던 것들을 다 넣어서 3와 맞먹는 명작으로 만들려고 
+했는데,본작의 출시 연도였던 2003년은 회사가 SNKP로 다시 부활해서 정신이 없다보니 비슷한 시기에 출시한 신작들 중
+사무라이 스피리츠 제로를 제외한 나머지 작품들이 모두 시원하게 망해버린 탓에 자금 조달이 어려웠고
+게임 개발을 할 시간 역시 촉박하여 결국 네오지오 기판의 최대 용량인 708Mbit의 절반 정도를 더미데이터로 묻어두게 되었다.
+이런 탓에 시대를 잘못 만난 비운의 명작이라며 안타깝게 평가하는 유저가 많다.
+결국 이 작품도 SNK 플레이모어의 암울했던 시기를 상징하는 대표작 중 하나가 되어버렸다.
+더미 데이터들을 살려서 리메이크를 원하는 팬들도 있지만, 2003년도 게임이라 이미 10년도 훌쩍 넘은 게임이고
+메탈슬러그 디펜스에서 메탈슬러그 5의 더미데이터가 유닛으로 나올 때에도 간략하게 설명하고 넘어가는지라 
+SNK는 리메이크할 의향이 없는 듯 하다.
+설령 의향이 있다 하더라도 새로 교체된 핵심 개발진들도 메탈슬러그 XX를 마지막으로 모두 퇴사한 탓에 SNK에서도 
+새로 제작하는 것은 힘들다.</desc>
+	</game>
+	<game>
+		<path>./neogeo/mslug5sgf.zip</path>
+		<name>메탈 슬러그 5 (리메이크 파이널 FC2 버전, 핵)</name>
+		<image>./neogeo/boxart/mslug5.png</image>
+		<video>./neogeo/snap/mslug5.mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>플랫폼 / 사격</genre>
+		<players>2</players>
+		<releasedate>2021</releasedate>
 		<desc>SNK 플레이모어가 2003년 11월 13일에 제작한 첫 메탈슬러그 시리즈 후속작.
 전작의 메탈리쉬 시스템을 폐기하고 슬라이딩 시스템이 추가되었다.
 일부 패턴과 더미 데이터를 보면 아무래도 원안은 슬라이딩 시스템을 적극 활용할 생각이었던 것 같다.
@@ -21570,6 +22062,17 @@ PK 전이나 서든 데스도 마련되어 있다.</desc>
 (CVS 시리즈는 아예 양쪽 시스템을 동시에 채용해서 그나마 나았다.) KOF 시리즈와 스파 시리즈 양쪽 유저들 모두에게 '시스템이 이상해요'라고 한소리 먹기도 했다.
 물론 따지고보면 CVS 1때 시스템과 비슷한 면이 많긴 하겠지만.
 이런 의미에서도 CAPCOM VS SNK 2보다는 CAPCOM VS SNK 1과 비교하는 게 더 이치에 맞을 게임.</desc>
+	</game>
+	<game>
+		<path>./neogeo/teot.zip</path>
+		<name>극초호권 (베타 6 버전)</name>
+		<image>./neogeo/boxart/teot.png</image>
+		<video>./neogeo/snap/teot.mp4</video>
+		<developer>OzzyOuzo</developer>
+		<publisher>OzzyOuzo</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>2022</releasedate>
 	</game>
 	<game>
 		<path>./neogeo/tophuntr.zip</path>
@@ -25294,6 +25797,19 @@ MAME의 기본 컨트롤러로 상으로는 9개의 버튼이 존재하지만.. 
 방울 대신 농구공,야구공,테니스공,로또공등이 등장합니다.</desc>
 	</game>
 	<game>
+		<path>./post90s/cookbib2c.zip</path>
+		<name>쿠키 &amp; 비비 2 (영어판 / 한국어판)</name>
+		<image>./post90s/boxart/cookbib2.png</image>
+		<video>./post90s/snap/cookbib2.mp4</video>
+		<developer>세미콤</developer>
+		<publisher>세미콤</publisher>
+		<genre>퍼즐 / 던지기</genre>
+		<players>2</players>
+		<releasedate>1996</releasedate>
+		<desc>1996년 국내 세미콤에서 제작한 퍼즐 버블 이미테이션 게임의 후속작
+방울 대신 농구공,야구공,테니스공,로또공등이 등장합니다.</desc>
+	</game>
+	<game>
 		<path>./post90s/cookbib3.zip</path>
 		<name>쿠키 &amp; 비비 3</name>
 		<image>./post90s/boxart/cookbib3.png</image>
@@ -25672,11 +26188,11 @@ SFC로 이식된 고스트 체이서 전정으로 본 게임을 접한 사람이
 		<name>디스코 보이</name>
 		<image>./post90s/boxart/discoboy.png</image>
 		<video>./post90s/snap/discoboy.mp4</video>
-		<developer>0</developer>
-		<publisher>0</publisher>
-		<genre>0</genre>
-		<players>0</players>
-		<releasedate>0</releasedate>
+		<developer>소프트 아트</developer>
+		<publisher>소프트 아트</publisher>
+		<genre>슈팅 / 갤러리 *성인*</genre>
+		<players>2</players>
+		<releasedate>1993</releasedate>
 	</game>
 	<game>
 		<path>./post90s/diverboy.zip</path>
@@ -28200,8 +28716,19 @@ US AAF 무스탕 및 썬더드래곤과는 달리 본작의 라이덴 사운드�
 		<desc>1991년 비오에서 제작한 카지노(빠칭코)+퍼즐 조합 게임.</desc>
 	</game>
 	<game>
+		<path>./post90s/marblmd2.zip</path>
+		<name>마블 매드니스 II (시제품)</name>
+		<image>./post90s/boxart/marblmd2.png</image>
+		<video>./post90s/snap/marblmd2.mp4</video>
+		<developer>아타리 게임즈</developer>
+		<publisher>아타리 게임즈</publisher>
+		<genre>퍼즐 / 미로</genre>
+		<players>2</players>
+		<releasedate>1991</releasedate>
+	</game>
+	<game>
 		<path>./post90s/marukin.zip</path>
-		<name>슈퍼 금지판 (일본판 901017)</name>
+		<name>슈퍼 금지판 (일본판 911128)</name>
 		<image>./post90s/boxart/marukin.png</image>
 		<video>./post90s/snap/marukin.mp4</video>
 		<developer>유가</developer>
@@ -34558,11 +35085,11 @@ KBO 리그를 배경으로 만든 게임이지만, KBO의 라이센스를 따지
 		<name>슈퍼 피에로 (일본판)</name>
 		<image>./pre90s/boxart/spiero.png</image>
 		<video>./pre90s/snap/dorunrun.mp4</video>
-		<developer>0</developer>
-		<publisher>0</publisher>
-		<genre>0</genre>
-		<players>0</players>
-		<releasedate>0</releasedate>
+		<developer>유니버셜</developer>
+		<publisher>유니버셜</publisher>
+		<genre>퍼즐 / 미로</genre>
+		<players>2</players>
+		<releasedate>1987</releasedate>
 	</game>
 	<game>
 		<path>./pre90s/dotron.zip</path>
@@ -34767,11 +35294,11 @@ KBO 리그를 배경으로 만든 게임이지만, KBO의 라이센스를 따지
 		<name>엑서리온</name>
 		<image>./pre90s/boxart/exerion.png</image>
 		<video>./pre90s/snap/exerion.mp4</video>
-		<developer>0</developer>
-		<publisher>0</publisher>
-		<genre>0</genre>
-		<players>0</players>
-		<releasedate>0</releasedate>
+		<developer>자레코</developer>
+		<publisher>자레코</publisher>
+		<genre>슈팅 / 갤러리</genre>
+		<players>2</players>
+		<releasedate>1983</releasedate>
 	</game>
 	<game>
 		<path>./pre90s/exterm.zip</path>
@@ -35482,11 +36009,11 @@ KBO 리그를 배경으로 만든 게임이지만, KBO의 라이센스를 따지
 		<name>헤이안쿄 에일리언</name>
 		<image>./pre90s/boxart/heiankyo.png</image>
 		<video>./pre90s/snap/heiankyo.mp4</video>
-		<developer>0</developer>
-		<publisher>0</publisher>
-		<genre>0</genre>
-		<players>0</players>
-		<releasedate>0</releasedate>
+		<developer>덴키 온쿄</developer>
+		<publisher>덴키 온쿄</publisher>
+		<genre>퍼즐 / 미로</genre>
+		<players>2</players>
+		<releasedate>1979</releasedate>
 	</game>
 	<game>
 		<path>./pre90s/herodk.zip</path>
@@ -36725,11 +37252,11 @@ KBO 리그를 배경으로 만든 게임이지만, KBO의 라이센스를 따지
 		<name>미사일 커맨드 (리비전 3)</name>
 		<image>./pre90s/boxart/missile.png</image>
 		<video>./pre90s/snap/missile.mp4</video>
-		<developer>0</developer>
-		<publisher>0</publisher>
-		<genre>0</genre>
-		<players>0</players>
-		<releasedate>0</releasedate>
+		<developer>아타리</developer>
+		<publisher>아타리</publisher>
+		<genre>슈팅 / 통솔</genre>
+		<players>2</players>
+		<releasedate>1980</releasedate>
 	</game>
 	<game>
 		<path>./pre90s/mjkjidai.zip</path>
@@ -38377,7 +38904,7 @@ KBO 리그를 배경으로 만든 게임이지만, KBO의 라이센스를 따지
 		<path>./pre90s/youkaidk2.zip</path>
 		<name>요괴도중기 (일본판, 새 버전, YD2, 리비전 B)</name>
 		<image>./pre90s/boxart/youkaidk2.png</image>
-		<video>./pre90s/snap/youkaidk2.mp4</video>
+		<video>./pre90s/snap/shadowld.mp4</video>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
 		<genre>플랫폼 / 사격</genre>
@@ -39532,7 +40059,7 @@ KBO 리그를 배경으로 만든 게임이지만, KBO의 라이센스를 따지
 		<path>./pre90s/juju.zip</path>
 		<name>주주 전설 (일본판)</name>
 		<image>./pre90s/boxart/juju.png</image>
-		<video>./pre90s/snap/juju.mp4</video>
+		<video>./pre90s/snap/toki.mp4</video>
 		<developer>TAD</developer>
 		<publisher>TAD</publisher>
 		<genre>플랫폼 / 사격</genre>
@@ -39675,7 +40202,7 @@ KBO 리그를 배경으로 만든 게임이지만, KBO의 라이센스를 따지
 		<path>./pre90s/turtshipk.zip</path>
 		<name>거북선 (한국판)</name>
 		<image>./pre90s/boxart/turtshipk.png</image>
-		<video>./pre90s/snap/turtshipk.mp4</video>
+		<video>./pre90s/snap/turtship.mp4</video>
 		<developer>필코</developer>
 		<publisher>필코</publisher>
 		<genre>슈팅 / 수평 비행</genre>
@@ -40027,7 +40554,7 @@ KBO 리그를 배경으로 만든 게임이지만, KBO의 라이센스를 따지
 		<path>./pre90s/rugrats.zip</path>
 		<name>러그 래츠</name>
 		<image>./pre90s/boxart/rugrats.png</image>
-		<video>./pre90s/snap/rugrats.mp4</video>
+		<video>./pre90s/snap/wiping.mp4</video>
 		<developer>일본물산</developer>
 		<publisher>일본물산</publisher>
 		<genre>퍼즐 / 굴착</genre>
@@ -42903,6 +43430,17 @@ E.Y.E도 ESWAT를 무력화하려고 들면서 ESWAT의 소탕 대상이 된 것
 		<genre>슈팅 / 총</genre>
 		<players>2</players>
 		<releasedate>1989</releasedate>
+	</game>
+	<game>
+		<path>./sega/megrescu.zip</path>
+		<name>메구미 레스큐</name>
+		<image>./sega/boxart/megrescu.png</image>
+		<video>./sega/snap/megrescu.mp4</video>
+		<developer>세가 / 엑사</developer>
+		<publisher>세가 / 엑사</publisher>
+		<genre>플랫폼 / 액션</genre>
+		<players>2</players>
+		<releasedate>1987</releasedate>
 	</game>
 	<game>
 		<path>./sega/mjleague.zip</path>
